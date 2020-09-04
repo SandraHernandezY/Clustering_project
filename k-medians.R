@@ -65,7 +65,7 @@ kmedians <- function(sismos, centroids){
 centroids <- initialSolution(sismos, num_centroids=5)
 
 # prubas kmedians <- function(sismos, centroids, num_clusters)
-resul <- kmedians(sismos, centroids)
+sismos <- kmedians(sismos, centroids)
 
 #for (i in 1:length(sismos)) {
 #  print(resul[[i]][[9]])
