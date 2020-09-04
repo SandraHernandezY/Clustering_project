@@ -39,14 +39,13 @@ initialSolution <- function(sismos, num_centroids){
 
 
 kmedians <- function(sismos, centroids){
-  #print(centroids)
   
   distance <-list()      #[1]:id centroide [2]: distancia minima
-  distance[1] <-1
-  d <-distHaversine(c(sismos[[1]][[2]],sismos[[1]][[3]]),c(centroids[[1]][[2]],centroids[[1]][[3]]),r= 6371.0)
-  distance[2] <- d
   
   for (i in 1:length(sismos)){
+    distance[1] <-1
+    d <-distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[1]][[2]],centroids[[1]][[3]]),r= 6371.0)
+    distance[2] <-d
     for (j in 1:length(centroids)) {
       aux <- distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[j]][[2]],centroids[[j]][[3]]),r= 6371.0)
       if(aux < distance[2]){
@@ -68,6 +67,6 @@ centroids <- initialSolution(sismos, num_centroids=5)
 # prubas kmedians <- function(sismos, centroids, num_clusters)
 resul <- kmedians(sismos, centroids)
 
-for (i in 1:length(sismos)) {
-  print(resul[[i]][[9]])
-}
+#for (i in 1:length(sismos)) {
+#  print(resul[[i]][[9]])
+#}
