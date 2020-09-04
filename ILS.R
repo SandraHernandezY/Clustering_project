@@ -14,9 +14,15 @@ objectiveFunction <- function(sismos, centroides){
   return (totalDist)
 }
 
-ILS <- function(max_iteraciones,funcion_vecindad,sismos,centroids){
-  #' Inicializando soluciones inicial           
+
+ILS <- function(max_iteraciones,funcion_vecindad,sismos, max_clusters,medians){
+  #' Inicializando soluciones inicial
+  centroids <- initialSolution(sismos, num_centroids=max_clusters)
+  lista <- kmedians(sismos,centroids,medians)
+  sismos <- lista[[1]]
+  centroids <- lista[[2]]           
   dist <- objectiveFunction(sismos,centroids)
+  
   for (i in 1:max_iteraciones) {
     if(funcion_vecindad == 1){
       centroids_new = randomSwap(centroids, sismos)
@@ -24,7 +30,7 @@ ILS <- function(max_iteraciones,funcion_vecindad,sismos,centroids){
       centroids_new = averageNeighbour(centroids, sismos)
     }
     sismos_new <- sismos
-    lista_new <- kmedians(sismos_new, centroids_new)
+    lista_new <- kmedians(sismos_new, centroids_new,medians)
     sismos_new <- lista_new[[1]]
     centroids_new = lista_new[[2]]
     dist_new <- objectiveFunction(sismos_new,centroids_new)
@@ -36,13 +42,23 @@ ILS <- function(max_iteraciones,funcion_vecindad,sismos,centroids){
   final  <- list(sismos,centroids)
   return (final)
 }
-#---------solucion inicial
-centroids <- initialSolution(sismos, num_centroids=3)
-lista <- kmedians(sismos,centroids)
-sismos <- lista[[1]]
-centroids <- lista[[2]]
 
-###Plotting
+#--------- INICIO ---------
+start_time = Sys.time()
+finales <- ILS(50, 2,sismos,5,1)
+end_time = Sys.time()
+#------------ FIN --------------
+
+total_time = end_time - start_time
+total_time = as.numeric(total_time, units = "secs")
+print(total_time)
+
+sismos_finales <- finales[[1]]
+centroides_finales <- finales[[2]]
+
+
+
+###--------------Plotting
 long <- list()
 lat <- list()
 cluster <- list()
@@ -60,13 +76,6 @@ x_new_1$Cluster = as.numeric(x_new_1$Cluster)
 x_new_1$Cluster = as.factor(x_new_1$Cluster)
 
 ggplot(x_new_1, aes(x = Long, y = Lat, colour = Cluster)) + geom_point()
-qmplot(Long, Lat, data = x_new_1, colour = I('red'), size = I(3), darken = .3)
-
-
-#---------metaheurística
-finales <- ILS(50, 2,sismos,centroids)
-sismos_finales <- finales[[1]]
-centroides_finales <- finales[[2]]
 
 
 ###Plotting
