@@ -14,11 +14,13 @@
 #' nrow = 3,
 #' ncol = 2,
 #' byrow = TRUE)
+#' 
 #' m <- matrix(
 #'   c(1,1,2,2),
 #'   nrow = 2,
 #'   ncol = 2,
 #'  byrow = TRUE)
+#'  
 #' distance(A,m)
 #'
 
@@ -26,10 +28,6 @@ distance <- function(X, medians){
   
   # Check that inputs are valid and as expected
   if(!is.matrix(X)) stop("Input X should be a matrix!")
-  
-  if(!is.matrix(medians)) stop("Input medians should be a matrix!")
-  
-  if(nrow(X)  < (nrow(medians))) stop("non-numeric matrix extent")
   
   K = nrow(medians)
   n = nrow(X)
@@ -44,7 +42,32 @@ distance <- function(X, medians){
   
   return (dist)
 }
+# Lectura de datos
+tusDatos <- read.table(file.choose(), skip = 0, header = TRUE, sep =',')
+# Initialize `sismos`
+sismos <- list()
+# Creando y llenando la estructura de datos listas de listas `sismos`
+for(i in 1:nrow(tusDatos)) {
+  sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
+}
 
+# initialSolution: inicializacion de centroides 
+# se busca un x aleatorio para luego extraer latitud y longitud del sismo x e inicializar lista de centroides
+initialSolution <- function(sismos, num_centroids){
+  
+  centroid <- list()
+  x <- sample(1:length(sismos), num_centroids, replace=F)
+ 
+  for(i in 1:num_centroids) {
+    #x <- sample(1:length(sismos), 1) 
+    print(x[i])
+    centroid[[i]] <- list(i,sismos[[x[i]]][[2]],sismos[[x[i]]][[3]])
+  }
+  return (centroid)
+}
+#PRUEBA
+centrides <- initialSolution(sismos, num_centroids=3)
+  
 
 #' kmedians
 #'
@@ -52,48 +75,34 @@ distance <- function(X, medians){
 #' This function uses random intilization to assign the first medians and then will update the medians and
 #' the group assignments until the assignment does not change.
 #'
-#' @param X a matrix, the dataset being clustered
-#' @param num_clusters integer, the desired number of clusters
-#' @param n_it integer, number of iterations
+#' @param sismos            lista de listas, conjunto de datos
+#' @param num_clusters      integer, numero de clusters deseados
+#' @param n_it              integer, number of iterations
 #'
-#' @return list, contains both medians and labes
-#'         medians: matrix
-#'         The coordinates of the medians for each cluster
+#' @return list,            contiene medianas y etiquetas
+#'         medians: matrix  Las coordenadas de las medianas de cada grupo.
 #'
-#'         labels: list
-#'          List that has the assignment of the cluster for each point in the dataset
-
-kmedians <- function(X, num_clusters,n_it=100){
-  
-  # Check that inputs are valid and as expected
-  if(!is.matrix(X)) stop ("Input X should be a matrix!")
-  
-  if(round(num_clusters)!=num_clusters) stop ("Input number of clusters should be an integer!")
-  
-  if(is.character(num_clusters)) stop ("non-numeric argument to mathematical function")
-  
-  if(is.null(num_clusters)) stop ("non-numeric argument to mathematical function")
-  
-  if(round(n_it)!=n_it) stop ("Input number of iterations should be an integer!")
-  
-  if((nrow(X)  <= num_clusters)) stop ("cannot take a sample larger than the population when 'replace = FALSE'")
-  
+#'         labels: list     Lista que tiene la asignación del clúster para cada punto del conjunto de datos
+#'          
+kmedians <- function(sismos, centroids, num_clusters,n_it=100){
   
   set.seed(123)
-  n <- nrow(X)
-  u <- matrix(0, nrow = num_clusters, ncol = n)
+  n <- length(sismos)       #numero de sismos(filas)
+  u <- matrix(0, nrow = num_clusters, ncol = n) #matriz de n fila= cant.cluster, c/column tendra los sismos que fueron asignado a dicho cluster 
+ 
+  centroides <- initialSolution(sismos, num_centroids)
+    
+  medians <- sismos[sample(n,size=num_clusters,replace=FALSE),] #inicializando puntos medianos
   
-  # initialize median points
-  medians <- X[sample(n,size=num_clusters,replace=FALSE),]
-  
+ 
   for (i in 1:n_it){
     
     K <- nrow(medians)
-    N <- nrow(X)
+    N <- length(sismos) #nrow(sismos)
     
     old_medians <- medians
     
-    dist <- distance(X, medians)
+    dist <- distance(sismos, medians)
     
     labels <- apply(dist, 1, which.min)
     
@@ -102,7 +111,7 @@ kmedians <- function(X, num_clusters,n_it=100){
     }
     
     for (k in 1:num_clusters){
-      medians[k,] <- apply((matrix(X[u[k,]==1],ncol=2)), 2, median)
+      medians[k,] <- apply((matrix(sismox[u[k,]==1],ncol=2)), 2, median)
     }
     
     if (identical(medians,old_medians)){

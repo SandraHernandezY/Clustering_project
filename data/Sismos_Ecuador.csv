@@ -1,854 +1,854 @@
-Mag,Latitude,Longitude,Depth,Region,CloserCity,categoryMag,categoryDepth
-4,5,0.58,3.9," Muisne,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9
-19,13.3,0.41,4.8," Muisne,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9
-21,4.5,0.46,3.5," Muisne,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-59,8.8,0.7,3.6," Atacames,Esmeraldas",-79.73,Near Coast of Ecuador,3.0 - 3.9
-63,10,0.82,3.7," Atacames,Esmeraldas",-79.82,Esmeraldas,3.0 - 3.9
-66,7,0.54,4.8," Muisne,Esmeraldas",-80.04,Near Coast of Ecuador,4.0 - 4.9
-67,2.8,0.4,4.6," Muisne,Esmeraldas",-79.93,Near Coast of Ecuador,4.0 - 4.9
-68,4.9,0.49,4.5," Muisne,Esmeraldas",-79.98,Near Coast of Ecuador,4.0 - 4.9
-69,5.4,0.51,4.3," Muisne,Esmeraldas",-79.96,Near Coast of Ecuador,4.0 - 4.9
-70,13.4,0.4,3.9," Muisne,Esmeraldas",-79.87,Near Coast of Ecuador,3.0 - 3.9
-71,8.8,0.46,3.8," Muisne,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9
-72,9.5,0.39,4.9," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,4.0 - 4.9
-73,9.5,0.33,3.9," Pedernales,Manabi",-79.85,Esmeraldas,3.0 - 3.9
-75,5.1,0.64,3.6," Muisne,Esmeraldas",-80.04,Esmeraldas,3.0 - 3.9
-76,14.2,0.45,3.5," Muisne,Esmeraldas",-79.81,Near Coast of Ecuador,3.0 - 3.9
-77,2.2,0.64,4.1," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,4.0 - 4.9
-78,5.4,0.64,4.8," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,4.0 - 4.9
-79,7.5,0.61,3.6," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9
-81,10,0.63,3.7," Muisne,Esmeraldas",-80.18,Near Coast of Ecuador,3.0 - 3.9
-82,7.2,0.29,3.7," Pedernales,Manabi",-80,Manabi,3.0 - 3.9
-83,6.9,0.68,3.5," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,3.0 - 3.9
-84,13.3,0.44,5.2," Muisne,Esmeraldas",-79.83,Near Coast of Ecuador,5.0 - 5.9
-90,10.1,0.48,3.6," Muisne,Esmeraldas",-79.94,Near Coast of Ecuador,3.0 - 3.9
-92,5,0.71,3," Muisne,Esmeraldas",-80.07,Esmeraldas,1.0 - 3.0
-102,9.3,0.52,4.7," Muisne,Esmeraldas",-79.9,Near Coast of Ecuador,4.0 - 4.9
-115,5.2,0.95,3.2," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9
-122,10,0.63,4.4," Muisne,Esmeraldas",-80.21,Near Coast of Ecuador,4.0 - 4.9
-124,10,0.7,3.3," Quininde,Esmeraldas",-79.32,Esmeraldas,3.0 - 3.9
-126,18.1,0.58,3.5," Muisne,Esmeraldas",-79.77,Near Coast of Ecuador,3.0 - 3.9
-128,4.1,0.56,3.5," Muisne,Esmeraldas",-80,Esmeraldas,3.0 - 3.9
-138,10,0.99,4.1," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,4.0 - 4.9
-140,1.4,0.93,3.9," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9
-144,8.3,0.91,3.5," Esmeraldas,Esmeraldas",-79.58,Near Coast of Ecuador,3.0 - 3.9
-145,3.3,0.93,3.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9
-148,1.7,0.96,3.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9
-150,1.5,1.36,3.6," Esmeraldas,Esmeraldas",-79.63,Near Coast of Ecuador,3.0 - 3.9
-156,4.6,0.95,3.6," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9
-157,20,0.97,3," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,1.0 - 3.0
-158,10,0.92,3.5," Esmeraldas,Esmeraldas",-79.36,Near Coast of Ecuador,3.0 - 3.9
-160,10,0.96,3.9," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,3.0 - 3.9
-161,10,0.96,4.3," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,4.0 - 4.9
-162,5.9,0.89,3.3," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9
-163,12.5,0.21,4.6," Pedernales,Manabi",-80.02,Manabi,4.0 - 4.9
-164,2.6,1.01,3.6," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9
-165,2.3,0.94,4.3," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,4.0 - 4.9
-166,4.2,0.88,3.2," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9
-167,1.3,0.94,3.3," Esmeraldas,Esmeraldas",-79.54,Near Coast of Ecuador,3.0 - 3.9
-168,6.3,0.95,4," Esmeraldas,Esmeraldas",-79.39,Near Coast of Ecuador,4.0 - 4.9
-169,3.8,0.92,4.1," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,4.0 - 4.9
-170,4.6,0.94,3.3," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9
-171,4.7,0.96,3.4," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,3.0 - 3.9
-172,2.6,0.96,3.4," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9
-173,4.3,0.94,3.6," Esmeraldas,Esmeraldas",-79.54,Near Coast of Ecuador,3.0 - 3.9
-174,5,0.95,3.1," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,3.0 - 3.9
-175,4.4,0.96,4.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,4.0 - 4.9
-179,10,0.95,4.1," Esmeraldas,Esmeraldas",-79.48,Near Coast of Ecuador,4.0 - 4.9
-186,12.9,0.19,3.5," Pedernales,Manabi",-79.99,Near Coast of Ecuador,3.0 - 3.9
-187,8.7,0.6,5.9," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,5.0 - 5.9
-188,6.1,0.62,3.3," Muisne,Esmeraldas",-79.89,Near Coast of Ecuador,3.0 - 3.9
-189,10.1,0.59,6.2," Muisne,Esmeraldas",-79.77,Near Coast of Ecuador,6.0 - 6.9
-190,18.9,0.6,3.2," Muisne,Esmeraldas",-79.79,Near Coast of Ecuador,3.0 - 3.9
-191,6.1,0.7,4.3," Atacames,Esmeraldas",-79.7,Near Coast of Ecuador,4.0 - 4.9
-192,2.4,0.95,4.4," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,4.0 - 4.9
-193,5,0.97,4," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,4.0 - 4.9
-194,2.2,0.97,3.7," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9
-195,5,0.92,3.4," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9
-196,10,0.95,3.5," Esmeraldas,Esmeraldas",-79.59,Near Coast of Ecuador,3.0 - 3.9
-197,5.3,0.92,3.3," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9
-199,5,0.94,3.8," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9
-204,7.9,0.62,4.3," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,4.0 - 4.9
-218,10.3,0.46,3.1," Muisne,Esmeraldas",-80.14,Near Coast of Ecuador,3.0 - 3.9
-220,6,0.64,3.2," Muisne,Esmeraldas",-80.18,Near Coast of Ecuador,3.0 - 3.9
-225,6.3,0.92,3.5," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-227,16.3,0.19,3.1," Pedernales,Manabi",-80.12,Near Coast of Ecuador,3.0 - 3.9
-230,9.4,0.62,3.6," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,3.0 - 3.9
-235,10,0.86,3.5," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,3.0 - 3.9
-236,10,0.93,3.5," Esmeraldas,Esmeraldas",-79.35,Near Coast of Ecuador,3.0 - 3.9
-237,10,0.95,4.5," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,4.0 - 4.9
-241,10,0.96,3.8," Esmeraldas,Esmeraldas",-79.49,Near Coast of Ecuador,3.0 - 3.9
-242,10,0.91,3.4," Esmeraldas,Esmeraldas",-79.43,Near Coast of Ecuador,3.0 - 3.9
-272,10,0.92,3.5," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9
-274,5,1.07,3.5," Esmeraldas,Esmeraldas",-79.59,Near Coast of Ecuador,3.0 - 3.9
-276,7.9,0.77,3.7," Atacames,Esmeraldas",-79.79,Near Coast of Ecuador,3.0 - 3.9
-277,4.4,0.23,4.2," Pedernales,Manabi",-80.01,Manabi,4.0 - 4.9
-278,10,0.94,3.5," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9
-280,17.2,0.43,6.7," Muisne,Esmeraldas",-80.01,Near Coast of Ecuador,6.0 - 6.9
-281,20.8,0.47,6.9," Muisne,Esmeraldas",-79.82,Near Coast of Ecuador,6.0 - 6.9
-285,3.6,0.92,3.8," Esmeraldas,Esmeraldas",-79.58,Near Coast of Ecuador,3.0 - 3.9
-286,10,0.88,3.9," Esmeraldas,Esmeraldas",-79.64,Near Coast of Ecuador,3.0 - 3.9
-289,3.5,0.96,3.4," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9
-291,3.7,0.98,3," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,1.0 - 3.0
-316,23.2,0.75,4.8," Esmeraldas,Esmeraldas",-79.25,Esmeraldas,4.0 - 4.9
-323,9,0.62,3.6," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9
-326,8.2,0.62,3," Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,1.0 - 3.0
-329,7.6,0.61,4.9," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,4.0 - 4.9
-337,11.7,0.85,2.6," Atacames,Esmeraldas",-79.89,Esmeraldas,1.0 - 3.0
-343,16.3,1.05,3," Esmeraldas,Esmeraldas",-79.69,Near Coast of Ecuador,1.0 - 3.0
-355,10,0.62,3.6," Muisne,Esmeraldas",-80.02,Esmeraldas,3.0 - 3.9
-369,12.2,1.03,3.4," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9
-387,77.9,0.41,3.7," Quininde,Esmeraldas",-78.95,Esmeraldas,3.0 - 3.9
-395,1.6,1.15,3.2," Esmeraldas,Esmeraldas",-79.65,Near Coast of Ecuador,3.0 - 3.9
-397,1,0.99,3.3," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9
-403,4.2,1.07,3.2," Atacames,Esmeraldas",-79.93,Near Coast of Ecuador,3.0 - 3.9
-405,2,0.87,3.1," Atacames,Esmeraldas",-79.83,Esmeraldas,3.0 - 3.9
-411,6.2,1.05,3.5," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-412,6.8,0.92,3.7," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9
-413,5.7,0.95,3.8," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9
-414,4.9,1,3.5," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,3.0 - 3.9
-417,5,1.07,3.8," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9
-418,4.1,0.96,4.9," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,4.0 - 4.9
-419,7.7,1.03,4.2," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,4.0 - 4.9
-420,2.4,0.99,3.6," Atacames,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9
-422,4.8,1.1,4.3," Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,4.0 - 4.9
-423,9.2,1.01,3," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,1.0 - 3.0
-424,5.4,1.08,3.4," Esmeraldas,Esmeraldas",-79.76,Near Coast of Ecuador,3.0 - 3.9
-428,3.1,0.76,3.6," Atacames,Esmeraldas",-79.74,Near Coast of Ecuador,3.0 - 3.9
-429,8.5,1.03,3.9," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9
-430,1.9,1.1,4.2," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,4.0 - 4.9
-431,10,0.98,3.9," Atacames,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9
-432,5,1.03,3.9," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,3.0 - 3.9
-433,4.1,1.05,3.9," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,3.0 - 3.9
-434,3.5,1.06,4.2," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,4.0 - 4.9
-436,14.7,0.98,3.4," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9
-437,2.7,1.08,4," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,4.0 - 4.9
-438,5,1.04,4.3," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,4.0 - 4.9
-442,1.5,0.97,4.5," Esmeraldas,Esmeraldas",-79.77,Near Coast of Ecuador,4.0 - 4.9
-443,7.3,0.98,3.9," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-444,7.8,1.08,3.8," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-445,8.6,0.95,3.6," Atacames,Esmeraldas",-79.87,Near Coast of Ecuador,3.0 - 3.9
-446,3.1,1.06,4.2," Atacames,Esmeraldas",-79.89,Near Coast of Ecuador,4.0 - 4.9
-447,2.8,1.07,4," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9
-448,5.1,1.07,4.4," Atacames,Esmeraldas",-79.94,Near Coast of Ecuador,4.0 - 4.9
-449,7.2,1.04,3.3," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9
-450,2.8,1.07,3.6," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,3.0 - 3.9
-451,12.4,0.94,4.8," Esmeraldas,Esmeraldas",-79.65,Esmeraldas,4.0 - 4.9
-452,5.3,1,5.1," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,5.0 - 5.9
-457,7.8,1.08,3.4," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,3.0 - 3.9
-458,6.1,1.14,3.6," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9
-462,11.2,0.93,3.5," Esmeraldas,Esmeraldas",-79.74,Esmeraldas,3.0 - 3.9
-463,4.5,1.02,4.2," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,4.0 - 4.9
-470,7.3,0.99,3.5," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,3.0 - 3.9
-472,6.3,1.07,3.2," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9
-475,9.2,0.88,3.2," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9
-476,12,0.82,2.9," Atacames,Esmeraldas",-79.82,Esmeraldas,1.0 - 3.0
-481,5.7,0.86,3.2," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,3.0 - 3.9
-482,6.4,0.93,5.8," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,5.0 - 5.9
-484,9,0.98,3.3," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9
-485,9.7,0.95,3.3," Atacames,Esmeraldas",-79.9,Near Coast of Ecuador,3.0 - 3.9
-488,0.4,0.68,3.6," Atacames,Esmeraldas",-79.74,Near Coast of Ecuador,3.0 - 3.9
-489,2.9,0.65,5.2," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,5.0 - 5.9
-492,10.4,1,2.8," Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,1.0 - 3.0
-503,4,1,3.7," Esmeraldas,Esmeraldas",-79.26,Esmeraldas,3.0 - 3.9
-506,9.1,0.74,5.7," Atacames,Esmeraldas",-79.77,Near Coast of Ecuador,5.0 - 5.9
-522,18.6,0.48,4.7," Muisne,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9
-523,11.2,0.43,5," Muisne,Esmeraldas",-79.91,Near Coast of Ecuador,5.0 - 5.9
-527,5,0.96,5.1," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,5.0 - 5.9
-528,4.7,0.96,5.1," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,5.0 - 5.9
-543,3,0.6,3.6," Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9
-552,9.2,0.87,3.6," Atacames,Esmeraldas",-79.76,Esmeraldas,3.0 - 3.9
-558,10.8,0.73,3.6," Esmeraldas,Esmeraldas",-79.63,Near Coast of Ecuador,3.0 - 3.9
-560,6.7,0.65,3.9," Muisne,Esmeraldas",-80.05,Esmeraldas,3.0 - 3.9
-562,8.7,0.63,4," Muisne,Esmeraldas",-80.15,Near Coast of Ecuador,4.0 - 4.9
-576,12.2,0.9,3.1," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9
-577,5.2,0.18,3.8," Pedernales,Manabi",-80.09,Near Coast of Ecuador,3.0 - 3.9
-582,10,0.95,3.2," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9
-588,10,1.02,3.2," Esmeraldas,Esmeraldas",-79.51,Esmeraldas,3.0 - 3.9
-599,9.5,1.36,3.8," Esmeraldas,Esmeraldas",-79.61,Near Coast of Ecuador,3.0 - 3.9
-604,5.1,0.95,4.1," Esmeraldas,Esmeraldas",-79.49,Near Coast of Ecuador,4.0 - 4.9
-605,4.3,0.92,3.8," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9
-606,10,0.78,3.5," San Lorenzo,Esmeraldas",-78.97,Esmeraldas,3.0 - 3.9
-608,3.9,0.88,3.4," Esmeraldas,Esmeraldas",-79.72,Esmeraldas,3.0 - 3.9
-616,1.9,0.92,3.4," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,3.0 - 3.9
-625,3.1,1.38,3.7," San Lorenzo,Esmeraldas",-79.27,Near Coast of Ecuador,3.0 - 3.9
-628,10,0.62,3.7," Muisne,Esmeraldas",-80.25,Near Coast of Ecuador,3.0 - 3.9
-631,6.8,0.55,3.5," Muisne,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9
-633,31.1,0.57,4.1," Quininde,Esmeraldas",-79.21,Esmeraldas,4.0 - 4.9
-636,8.1,0.25,4.2," Pedernales,Manabi",-80.01,Manabi,4.0 - 4.9
-637,14.4,0.88,3.7," Atacames,Esmeraldas",-79.77,Esmeraldas,3.0 - 3.9
-658,28.3,1.18,3.5," San Lorenzo,Esmeraldas",-78.84,Esmeraldas,3.0 - 3.9
-659,5.8,0.61,3.9," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,3.0 - 3.9
-662,5.8,0.61,3.6," Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9
-672,5.8,0.63,3.9," Muisne,Esmeraldas",-80.06,Near Coast of Ecuador,3.0 - 3.9
-674,5.7,0.93,4," Esmeraldas,Esmeraldas",-79.7,Esmeraldas,4.0 - 4.9
-675,2.4,0.67,3.6," Muisne,Esmeraldas",-80.12,Near Coast of Ecuador,3.0 - 3.9
-718,4.2,1.26,3.3," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9
-723,6.1,1.06,3.1," Atacames,Esmeraldas",-79.94,Near Coast of Ecuador,3.0 - 3.9
-725,74.6,1.34,4.1," San Lorenzo,Esmeraldas",-78.74,Esmeraldas,4.0 - 4.9
-727,26.8,1.02,2.9," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,1.0 - 3.0
-728,8,0.76,5.5," Atacames,Esmeraldas",-79.75,Esmeraldas,5.0 - 5.9
-729,29.4,1.25,3.9," Esmeraldas,Esmeraldas",-79.65,Near Coast of Ecuador,3.0 - 3.9
-734,4.5,0.58,4.3," Muisne,Esmeraldas",-80.17,Near Coast of Ecuador,4.0 - 4.9
-735,9.2,0.59,3.7," Muisne,Esmeraldas",-80.27,Near Coast of Ecuador,3.0 - 3.9
-736,11.4,0.61,3.6," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,3.0 - 3.9
-740,12.1,1.03,3," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,1.0 - 3.0
-742,8,0.6,3.5," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9
-743,10,1.16,3.2," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9
-749,10,1.24,3.7," Esmeraldas,Esmeraldas",-79.34,Near Coast of Ecuador,3.0 - 3.9
-753,15.6,1.06,4.5," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,4.0 - 4.9
-756,7.4,1.24,3.6," Esmeraldas,Esmeraldas",-79.81,Near Coast of Ecuador,3.0 - 3.9
-779,9.9,0.32,3.6," Pedernales,Manabi",-79.95,Esmeraldas,3.0 - 3.9
-808,6.9,1.15,5," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,5.0 - 5.9
-822,7.5,0.62,4.5," Muisne,Esmeraldas",-80.08,Near Coast of Ecuador,4.0 - 4.9
-824,7.2,0.6,4.5," Muisne,Esmeraldas",-80.13,Near Coast of Ecuador,4.0 - 4.9
-830,5.9,0.62,3.3," Muisne,Esmeraldas",-79.96,Esmeraldas,3.0 - 3.9
-845,6.2,0.72,3.9,"Muisne,Esmeraldas",-80.1,Near Coast of Ecuador,3.0 - 3.9
-875,0.7,1.28,4.1,"Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,4.0 - 4.9
-901,17.5,0.78,3.9,"Atacames,Esmeraldas",-79.78,Esmeraldas,3.0 - 3.9
-902,9.9,1.18,3.9,"Esmeraldas,Esmeraldas",-79.75,Near Coast of Ecuador,3.0 - 3.9
-912,7.4,0.77,3.7,"Atacames,Esmeraldas",-79.68,Esmeraldas,3.0 - 3.9
-933,47.3,0.74,3.7,"Esmeraldas,Esmeraldas",-79.28,Esmeraldas,3.0 - 3.9
-987,6.6,0.4,3.7,"Muisne,Esmeraldas",-79.88,Esmeraldas,3.0 - 3.9
-1012,3.3,0.58,4,"Cotacachi,Imbabura",-78.67,Esmeraldas,4.0 - 4.9
-1013,3.4,0.6,5.4,"Cotacachi,Imbabura",-78.69,Esmeraldas,5.0 - 5.9
-1016,6.9,0.57,3.5,"Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9
-1026,5.7,0.37,3.7,"Muisne,Esmeraldas",-79.9,Esmeraldas,3.0 - 3.9
-1093,6.70734119,0.61,3.60388613,nas,-80.26,Esmeraldas,3.0 - 3.9
-1112,5,1.5,4.44176992,nas,-80.34,Near Coast of Ecuador,4.0 - 4.9
-1114,0.37837979,0.56,3.71092678,nas,-80.07,Near Coast of Ecuador,3.0 - 3.9
-1152,81.95046997,0.53,3.68181421,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9
-1159,10.19757748,0.52,3.58350247,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9
-1163,3.83179736,0.65,3.77294261,nas,-79.93,Esmeraldas,3.0 - 3.9
-1164,3.02279782,0.63,4.43355922,nas,-80.14,Esmeraldas,4.0 - 4.9
-1190,10,0.72,3.96307734,nas,-80.07,Near Coast of Ecuador,4.0 - 4.9
-1191,1.20603359,0.62,3.70932543,nas,-80.26,Esmeraldas,3.0 - 3.9
-1192,8.87561703,0.59,3.86637609,nas,-80.08,Esmeraldas,3.0 - 3.9
-1206,3.73651099,0.65,4.22994652,nas,-79.91,Esmeraldas,4.0 - 4.9
-1207,2.82110405,0.7,4.40797731,nas,-80.05,Near Coast of Ecuador,4.0 - 4.9
-1208,7.62729025,0.67,4.01453859,nas,-80.13,Near Coast of Ecuador,4.0 - 4.9
-1211,5.13772821,0.63,4.04764789,nas,-80.08,Esmeraldas,4.0 - 4.9
-1212,3.4020226,0.88,4.02627592,nas,-80.13,Near Coast of Ecuador,4.0 - 4.9
-1219,10,0.7,4.82055203,nas,-80.14,Near Coast of Ecuador,4.0 - 4.9
-1242,10,0.64,4.75896385,nas,-79.77,Esmeraldas,4.0 - 4.9
-1244,5.22247982,0.55,4.30376757,nas,-80.04,Esmeraldas,4.0 - 4.9
-1245,4.79098177,0.6,4.46563419,nas,-79.94,Esmeraldas,4.0 - 4.9
-1246,7.16021967,0.51,4.43050365,nas,-79.95,Esmeraldas,4.0 - 4.9
-1247,12.21029568,0.65,4.70935278,nas,-79.96,Near Coast of Ecuador,4.0 - 4.9
-1249,11.42803764,0.68,3.53297143,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9
-1251,8.34227753,0.72,4.21636204,nas,-80.16,Near Coast of Ecuador,4.0 - 4.9
-1255,1.50701988,0.62,3.8862522,nas,-80.22,Esmeraldas,3.0 - 3.9
-1256,3.5,0.88,3.842759,nas,-80.05,Near Coast of Ecuador,3.0 - 3.9
-1265,3,0.4,4.00648323,nas,-80.11,Near Coast of Ecuador,4.0 - 4.9
-1272,12.35495758,0.72,3.93055251,nas,-80.1,Near Coast of Ecuador,4.0 - 4.9
-1285,7.98966026,0.46,4.49184222,nas,-80.12,Near Coast of Ecuador,4.0 - 4.9
-1361,6.76248932,0.54,3.62322058,nas,-80.05,Esmeraldas,3.0 - 3.9
-1362,5.34292221,0.6,4.22716635,nas,-80,Near Coast of Ecuador,4.0 - 4.9
-7,7.3,-0.12,3.7," Jama,Manabi",-80.37,Near Coast of Ecuador,3.0 - 3.9
-8,10,-0.21,3.6," Jama,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9
-9,10,-0.07,3.7," Jama,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9
-10,2.7,-0.1,4.2," Jama,Manabi",-80.73,Near Coast of Ecuador,4.0 - 4.9
-11,3.2,-0.09,3.8," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-12,10,-0.13,4.1," Jama,Manabi",-80.79,Near Coast of Ecuador,4.0 - 4.9
-13,12,-0.19,3.1," Jama,Manabi",-80.36,Near Coast of Ecuador,3.0 - 3.9
-26,9.2,-0.04,3.2," Jama,Manabi",-80.52,Near Coast of Ecuador,3.0 - 3.9
-30,7.7,-0.25,3.9," Jama,Manabi",-80.51,Near Coast of Ecuador,3.0 - 3.9
-46,2.8,0.69,3.8," Muisne,Esmeraldas",-80.57,Near Coast of Ecuador,3.0 - 3.9
-50,10,-0.18,3.7," Bahia de Caraquez,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9
-53,11.1,0.87,3.6," Muisne,Esmeraldas",-80.25,Near Coast of Ecuador,3.0 - 3.9
-55,4.7,0.66,5," Muisne,Esmeraldas",-80.69,Near Coast of Ecuador,5.0 - 5.9
-56,10,0.77,4," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,4.0 - 4.9
-61,8.7,-0.03,3.4," Jama,Manabi",-80.29,Near Coast of Ecuador,3.0 - 3.9
-64,10,-0.06,4," Jama,Manabi",-80.53,Near Coast of Ecuador,4.0 - 4.9
-65,5.7,-0.29,3.5," Jama,Manabi",-80.49,Near Coast of Ecuador,3.0 - 3.9
-74,10,0.23,3.6," Pedernales,Manabi",-80.35,Near Coast of Ecuador,3.0 - 3.9
-80,3.7,0.63,3.9," Muisne,Esmeraldas",-80.5,Near Coast of Ecuador,3.0 - 3.9
-86,1.7,-0.21,3.4," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9
-87,4.7,-0.12,3.6," Jama,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9
-95,7.3,-0.23,3.4," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9
-97,9.7,0.91,3.2," Muisne,Esmeraldas",-80.46,Near Coast of Ecuador,3.0 - 3.9
-98,9.5,0.3,3.7," Pedernales,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9
-99,4.3,0.96,3.6," Muisne,Esmeraldas",-80.43,Near Coast of Ecuador,3.0 - 3.9
-105,10,0.36,3.6," Jama,Manabi",-80.88,Near Coast of Ecuador,3.0 - 3.9
-106,10,0.35,4.3," Jama,Manabi",-80.78,Near Coast of Ecuador,4.0 - 4.9
-107,16.6,-0.35,3.6," El Carmen,Manabi",-79.66,Manabi,3.0 - 3.9
-109,7.3,0.21,3.4," Pedernales,Manabi",-80.21,Near Coast of Ecuador,3.0 - 3.9
-112,10,0.53,3.5," Muisne,Esmeraldas",-80.79,Near Coast of Ecuador,3.0 - 3.9
-113,4,0.39,4.2," Muisne,Esmeraldas",-80.4,Near Coast of Ecuador,4.0 - 4.9
-116,10,0.32,3.4," Pedernales,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9
-117,5.3,0.3,3.5," Pedernales,Manabi",-80.09,Near Coast of Ecuador,3.0 - 3.9
-125,7.9,-0.17,3.8," Jama,Manabi",-80.48,Near Coast of Ecuador,3.0 - 3.9
-127,10,-0.19,3.3," Jama,Manabi",-80.61,Near Coast of Ecuador,3.0 - 3.9
-129,10,0.32,3.5," Pedernales,Manabi",-80.63,Near Coast of Ecuador,3.0 - 3.9
-133,3.9,-0.14,3.5," Jama,Manabi",-80.45,Near Coast of Ecuador,3.0 - 3.9
-135,10,0.37,3.5," Jama,Manabi",-80.84,Near Coast of Ecuador,3.0 - 3.9
-136,10,0.33,4.2," Jama,Manabi",-80.77,Near Coast of Ecuador,4.0 - 4.9
-137,18.6,0.27,3.9," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9
-139,9.5,-0.16,3.6," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9
-141,2.2,-0.16,3.2," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9
-142,5,-0.23,3.2," Jama,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9
-151,2.1,-0.27,3.8," Jama,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9
-153,5,-0.53,3.5," Bahia de Caraquez,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9
-201,10,-0.65,4.2," Manta,Manabi",-80.95,Near Coast of Ecuador,4.0 - 4.9
-203,5.2,-0.11,3.4," Jama,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9
-209,10.3,-0.11,3.2," Jama,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9
-210,9.4,0.75,3.2," Muisne,Esmeraldas",-80.26,Near Coast of Ecuador,3.0 - 3.9
-211,5.1,-0.17,4.5," Bahia de Caraquez,Manabi",-80.98,Near Coast of Ecuador,4.0 - 4.9
-212,3.7,-0.18,4.6," Bahia de Caraquez,Manabi",-80.98,Near Coast of Ecuador,4.0 - 4.9
-213,5,-0.12,3.3," Jama,Manabi",-80.73,Near Coast of Ecuador,3.0 - 3.9
-215,12.7,-0.09,3.5," Jama,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9
-216,7.9,-0.09,3.6," Jama,Manabi",-80.26,Near Coast of Ecuador,3.0 - 3.9
-217,2.1,-0.1,3.6," Jama,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9
-219,19.8,-0.3,3," Flavio Alfaro,Manabi",-80.03,Manabi,1.0 - 3.0
-221,2.9,-0.18,3.7," Jama,Manabi",-80.81,Near Coast of Ecuador,3.0 - 3.9
-226,7.3,-0.03,3.7," Jama,Manabi",-80.21,Near Coast of Ecuador,3.0 - 3.9
-229,10.1,0.34,4.5," Pedernales,Manabi",-80.25,Near Coast of Ecuador,4.0 - 4.9
-232,2.3,0.38,3.7," Muisne,Esmeraldas",-80.43,Near Coast of Ecuador,3.0 - 3.9
-243,9.2,-0.04,3.1," Jama,Manabi",-80.29,Near Coast of Ecuador,3.0 - 3.9
-244,8.4,0.76,3.5," Muisne,Esmeraldas",-80.45,Near Coast of Ecuador,3.0 - 3.9
-245,20.5,0.77,3.4," Muisne,Esmeraldas",-80.23,Near Coast of Ecuador,3.0 - 3.9
-246,9.6,0.72,3.3," Muisne,Esmeraldas",-80.37,Near Coast of Ecuador,3.0 - 3.9
-247,2.8,0.81,3.3," Muisne,Esmeraldas",-80.41,Near Coast of Ecuador,3.0 - 3.9
-248,5.9,-0.01,3.3," Jama,Manabi",-80.23,Near Coast of Ecuador,3.0 - 3.9
-249,4.4,-0.33,3.3," Jama,Manabi",-80.41,Manabi,3.0 - 3.9
-250,8.5,-0.21,3.5," Jama,Manabi",-80.54,Near Coast of Ecuador,3.0 - 3.9
-251,7.4,0.09,3.4," Pedernales,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9
-252,27,0.03,3," Pedernales,Manabi",-80.14,Near Coast of Ecuador,1.0 - 3.0
-254,8.6,0.4,3.3," Jama,Manabi",-80.81,Near Coast of Ecuador,3.0 - 3.9
-255,26.3,-0.3,3.8," Flavio Alfaro,Manabi",-79.7,Manabi,3.0 - 3.9
-256,6.4,0.38,3.4," Muisne,Esmeraldas",-80.66,Near Coast of Ecuador,3.0 - 3.9
-257,10.5,0.34,3.1," Pedernales,Manabi",-80.24,Near Coast of Ecuador,3.0 - 3.9
-258,13.1,-0.39,4.2," Jama,Manabi",-80.32,Manabi,4.0 - 4.9
-259,5,0.4,3.2," Muisne,Esmeraldas",-80.41,Near Coast of Ecuador,3.0 - 3.9
-260,10.4,0.41,3.1," Muisne,Esmeraldas",-80.61,Near Coast of Ecuador,3.0 - 3.9
-265,11.9,-0.02,4.3," Jama,Manabi",-80.27,Near Coast of Ecuador,4.0 - 4.9
-268,5,-0.11,3.5," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-269,5.6,-0.14,3.5," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-270,10,-0.22,4.3," Jama,Manabi",-80.65,Near Coast of Ecuador,4.0 - 4.9
-273,4.6,0.3,3.5," Pedernales,Manabi",-80.6,Near Coast of Ecuador,3.0 - 3.9
-295,10,-0.18,3.7," Jama,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9
-296,10,-0.17,4.1," Jama,Manabi",-80.77,Near Coast of Ecuador,4.0 - 4.9
-303,5.9,0.72,3.7," Muisne,Esmeraldas",-80.23,Near Coast of Ecuador,3.0 - 3.9
-317,10,-0.46,3.9," Bahia de Caraquez,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9
-324,9.9,0.71,3.6," Muisne,Esmeraldas",-80.31,Near Coast of Ecuador,3.0 - 3.9
-325,8.4,0.68,3.5," Muisne,Esmeraldas",-80.29,Near Coast of Ecuador,3.0 - 3.9
-332,6.4,0.66,3.7," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9
-333,11.4,0.47,3.3," Muisne,Esmeraldas",-80.71,Near Coast of Ecuador,3.0 - 3.9
-334,11.9,-0.16,3.6," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-335,9,0.37,3.5," Jama,Manabi",-80.82,Near Coast of Ecuador,3.0 - 3.9
-338,14,0.34,5.3," Pedernales,Manabi",-80.63,Near Coast of Ecuador,5.0 - 5.9
-339,12.3,0.41,4," Muisne,Esmeraldas",-80.64,Near Coast of Ecuador,4.0 - 4.9
-340,7,0.32,3.6," Pedernales,Manabi",-80.59,Near Coast of Ecuador,3.0 - 3.9
-341,11.4,0.28,4.8," Jama,Manabi",-80.61,Near Coast of Ecuador,4.0 - 4.9
-342,19.5,0.44,3.7," Muisne,Esmeraldas",-80.75,Near Coast of Ecuador,3.0 - 3.9
-352,10.7,-0.26,3.8," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9
-356,6.9,0.33,4.1," Pedernales,Manabi",-80.26,Near Coast of Ecuador,4.0 - 4.9
-367,8.9,-0.07,3.6," Jama,Manabi",-80.27,Near Coast of Ecuador,3.0 - 3.9
-368,2.1,0.49,3.9," Muisne,Esmeraldas",-80.87,Near Coast of Ecuador,3.0 - 3.9
-372,2.7,-0.59,3.6," Manta,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9
-384,6,0.27,3.9," Pedernales,Manabi",-80.26,Near Coast of Ecuador,3.0 - 3.9
-393,4.9,-0.18,4.5," Jama,Manabi",-80.64,Near Coast of Ecuador,4.0 - 4.9
-394,2.2,-0.17,3.7," Jama,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9
-426,5.7,-0.09,3.7," Jama,Manabi",-80.49,Near Coast of Ecuador,3.0 - 3.9
-455,4.4,-0.15,3.5," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-459,9.2,0.18,3.6," Quininde,Esmeraldas",-79.61,Esmeraldas,3.0 - 3.9
-460,1.1,-0.15,3.7," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9
-461,2.1,-0.12,3.8," Jama,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9
-473,10,0.45,3.8," Muisne,Esmeraldas",-80.85,Near Coast of Ecuador,3.0 - 3.9
-478,12,-0.22,3.5," Bahia de Caraquez,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9
-519,7.6,0.14,3.6," Pedernales,Manabi",-80.25,Near Coast of Ecuador,3.0 - 3.9
-529,7,-0.07,5.3," Jama,Manabi",-80.88,Near Coast of Ecuador,5.0 - 5.9
-546,4.7,-0.14,3.8," Jama,Manabi",-80.56,Near Coast of Ecuador,3.0 - 3.9
-547,4.8,-0.11,3.8," Jama,Manabi",-80.52,Near Coast of Ecuador,3.0 - 3.9
-548,7,-0.17,3.6," Jama,Manabi",-80.63,Near Coast of Ecuador,3.0 - 3.9
-553,4.1,-0.5,4.2," Bahia de Caraquez,Manabi",-80.84,Near Coast of Ecuador,4.0 - 4.9
-559,4.3,0.27,3.8," Jama,Manabi",-80.73,Near Coast of Ecuador,3.0 - 3.9
-574,7.9,0.69,3.5," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9
-581,9.2,-0.14,3.8," Jama,Manabi",-80.42,Near Coast of Ecuador,3.0 - 3.9
-613,10,-0.22,3.9," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9
-614,10,-0.16,4.1," Jama,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9
-615,10,-0.22,3.6," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-624,7,0.67,3.7," Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,3.0 - 3.9
-629,6.5,0.31,3.5," Pedernales,Manabi",-80.19,Near Coast of Ecuador,3.0 - 3.9
-641,4.9,0.48,3.9," Muisne,Esmeraldas",-80.65,Near Coast of Ecuador,3.0 - 3.9
-668,10.9,-0.33,3.6," Jama,Manabi",-80.44,Near Coast of Ecuador,3.0 - 3.9
-676,6.5,0.13,4.1," Pedernales,Manabi",-80.36,Near Coast of Ecuador,4.0 - 4.9
-678,8,-0.18,4.9," Jama,Manabi",-80.84,Near Coast of Ecuador,4.0 - 4.9
-680,9,-0.15,6.3," Jama,Manabi",-80.85,Near Coast of Ecuador,6.0 - 6.9
-682,1.1,-0.12,4.5," Jama,Manabi",-80.75,Near Coast of Ecuador,4.0 - 4.9
-684,10.4,0.02,3.7," Jama,Manabi",-80.42,Near Coast of Ecuador,3.0 - 3.9
-685,8.2,0.47,4.4," Muisne,Esmeraldas",-80.64,Near Coast of Ecuador,4.0 - 4.9
-687,9.9,0.35,4," Pedernales,Manabi",-80.23,Near Coast of Ecuador,4.0 - 4.9
-693,10,-0.02,3.8," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9
-698,20.4,0.38,3.6," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9
-699,10,-0.06,3.6," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9
-700,2.2,-0.19,3.7," Jama,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9
-701,10.5,-0.13,4.5," Jama,Manabi",-81,Near Coast of Ecuador,4.0 - 4.9
-708,6.6,-0.24,4.3," Jama,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9
-714,1.9,-0.24,3.6," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9
-730,5,0.3,4.4," Pedernales,Manabi",-80.09,Near Coast of Ecuador,4.0 - 4.9
-732,9,0.73,3.8," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9
-733,10.2,0.73,4.4," Muisne,Esmeraldas",-80.29,Near Coast of Ecuador,4.0 - 4.9
-738,21.5,-0.14,3.7," Jama,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9
-739,7.7,-0.13,4.2," Jama,Manabi",-80.72,Near Coast of Ecuador,4.0 - 4.9
-741,9.7,-0.1,3.7," Jama,Manabi",-80.82,Near Coast of Ecuador,3.0 - 3.9
-745,10,-0.13,3.5," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-754,2.2,-0.17,3.7," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-768,4.2,-0.27,4," Bahia de Caraquez,Manabi",-80.8,Near Coast of Ecuador,4.0 - 4.9
-769,7,-0.08,4," Jama,Manabi",-80.78,Near Coast of Ecuador,4.0 - 4.9
-813,24,0.02,4.2," Pedernales,Manabi",-80.09,Manabi,4.0 - 4.9
-843,9,0.76,5,"Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,5.0 - 5.9
-844,11.8,0.82,4.3,"Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,4.0 - 4.9
-899,5.7,0.05,3.8,"Pedernales,Manabi",-80.27,Near Coast of Ecuador,3.0 - 3.9
-906,9.7,-0.15,3.5,"Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9
-944,9.5,0.4,4.1,"Muisne,Esmeraldas",-80.53,Near Coast of Ecuador,4.0 - 4.9
-952,6.7,-0.55,4.9,"Bahia de Caraquez,Manabi",-80.79,Near Coast of Ecuador,4.0 - 4.9
-971,6.3,-0.22,4.3,"Jama,Manabi",-80.64,Near Coast of Ecuador,4.0 - 4.9
-972,5.3,-0.19,3.8,"Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-974,4.8,-0.18,4.9,"Jama,Manabi",-80.66,Near Coast of Ecuador,4.0 - 4.9
-975,7.2,-0.16,3.8,"Jama,Manabi",-80.76,Near Coast of Ecuador,3.0 - 3.9
-1004,4.9,0.31,4.3,"Jama,Manabi",-80.94,Near Coast of Ecuador,4.0 - 4.9
-1005,7,0.35,3.8,"Jama,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9
-1009,10,0.22,3.5,"Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9
-1010,4.7,0.23,3.7,"Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9
-1011,4.2,0.28,3.6,"Jama,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9
-1038,22.30558268,0.31,5.45892053,"Muisne,Esmeraldas",-80.13,Manabi,5.0 - 5.9
-1039,5.42705679,-0.05,4.16999697,"Pedernales,Manabi",-80.12,Manabi,4.0 - 4.9
-1040,4.41175747,0.04,5.11840116,"Pedernales,Manabi",-80.23,Near Coast of Ecuador,5.0 - 5.9
-1041,7.71502304,-0.01,3.96445033,"Pedernales,Manabi",-80.33,Near Coast of Ecuador,4.0 - 4.9
-1042,6.98301315,-0.21,5.65732497,"Jama,Manabi",-80.33,Near Coast of Ecuador,5.0 - 5.9
-1043,4.88319683,0.02,3.86749598,"Pedernales,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-1044,7.60070229,0.33,4.36973914,nas,-80.36,Near Coast of Ecuador,4.0 - 4.9
-1045,8.37731361,-0.06,4.08480203,nas,-80.48,Manabi,4.0 - 4.9
-1046,5.9694066,0.32,4.66275559,nas,-80.2,Near Coast of Ecuador,4.0 - 4.9
-1047,6.83753872,-0.14,3.96008942,nas,-80.22,Near Coast of Ecuador,4.0 - 4.9
-1049,9.47252464,-0.14,4.69100314,nas,-80.79,Manabi,4.0 - 4.9
-1050,6.47819376,0.24,3.79593305,nas,-80.3,Manabi,3.0 - 3.9
-1051,6.28111315,-0.09,3.91763404,nas,-80.04,Manabi,4.0 - 4.9
-1052,7.21911192,0.05,3.89591797,nas,-80.41,Manabi,3.0 - 3.9
-1053,6.77529287,-0.03,3.84301303,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9
-1054,10,-0.18,3.76331638,nas,-80.33,Near Coast of Ecuador,3.0 - 3.9
-1055,10.50400829,-0.25,3.66360382,nas,-80.68,Manabi,3.0 - 3.9
-1056,5,0.47,4.20496853,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9
-1057,11.68936729,-0.07,3.64392804,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9
-1058,5,-0.1,3.55503173,nas,-80.49,Manabi,3.0 - 3.9
-1059,2.30457234,-0.35,3.54014946,nas,-80.44,Near Coast of Ecuador,3.0 - 3.9
-1060,10.56093884,0.24,3.59103147,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9
-1061,1.04479206,-0.03,3.83296033,nas,-80.31,Near Coast of Ecuador,3.0 - 3.9
-1062,8.55240536,-0.26,5.17477391,nas,-80.89,Near Coast of Ecuador,5.0 - 5.9
-1063,5.74467754,-0.11,3.86445784,nas,-80.87,Near Coast of Ecuador,3.0 - 3.9
-1064,6.76925278,0.29,4.11289073,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9
-1065,10,-0.13,3.94667929,nas,-80.43,Near Coast of Ecuador,4.0 - 4.9
-1066,10,0.08,3.6880366,nas,-81.09,Esmeraldas,3.0 - 3.9
-1067,10,0.01,3.95677404,nas,-79.58,Near Coast of Ecuador,4.0 - 4.9
-1068,8.6162777,-0.29,4.27948816,nas,-80.38,Near Coast of Ecuador,4.0 - 4.9
-1069,4.07835579,-0.14,5.63029967,nas,-80.48,Near Coast of Ecuador,5.0 - 5.9
-1070,9.60111809,0.28,4.23583164,nas,-80.73,Manabi,4.0 - 4.9
-1071,10,0.02,4.33037873,nas,-80.16,Near Coast of Ecuador,4.0 - 4.9
-1072,8.74760437,0.38,3.60920129,nas,-80.25,Esmeraldas,3.0 - 3.9
-1074,4.34064102,-0.17,4.30955423,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9
-1075,10,-0.17,4.14127193,nas,-80.73,Near Coast of Ecuador,4.0 - 4.9
-1076,7.50820112,0.68,5.04260799,nas,-80.76,Esmeraldas,5.0 - 5.9
-1079,7.94914007,0.03,4.018763,nas,-80.56,Near Coast of Ecuador,4.0 - 4.9
-1080,2.2352736,0.07,3.94117516,nas,-80.81,Near Coast of Ecuador,4.0 - 4.9
-1081,10,-0.26,4.38669767,nas,-80.97,Near Coast of Ecuador,4.0 - 4.9
-1082,3.03110766,-0.47,3.5993031,nas,-81.04,Manabi,3.0 - 3.9
-1083,10,-0.05,4.30113185,nas,-80.41,Near Coast of Ecuador,4.0 - 4.9
-1084,8.35934734,0.37,5.08396486,nas,-80.85,Near Coast of Ecuador,5.0 - 5.9
-1085,9.22354412,-0.03,4.27505501,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9
-1086,6.73099136,0.39,3.96325157,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9
-1087,9.60727119,-0.25,3.60040634,nas,-80.53,Near Coast of Ecuador,3.0 - 3.9
-1088,10,-0.12,4.75226476,nas,-80.53,Near Coast of Ecuador,4.0 - 4.9
-1089,6.39978886,0.54,4.15524449,nas,-80.87,Esmeraldas,4.0 - 4.9
-1090,8.43670845,-0.45,4.04246992,nas,-80.05,Manabi,4.0 - 4.9
-1091,5.35845661,-0.1,4.02964052,nas,-80.38,Manabi,4.0 - 4.9
-1094,9.35428715,-0.43,3.52620419,nas,-79.78,Manabi,3.0 - 3.9
-1095,5,0.02,3.5248609,nas,-79.64,Near Coast of Ecuador,3.0 - 3.9
-1096,12.42844296,0.29,3.53979873,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9
-1097,5.41064167,-0.15,4.09537129,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9
-1098,5.45933008,0.35,4.81797698,nas,-80.59,Near Coast of Ecuador,4.0 - 4.9
-1099,6.91969347,-0.22,3.91169544,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9
-1100,7.05759096,-0.14,4.40821407,nas,-80.7,Near Coast of Ecuador,4.0 - 4.9
-1101,11.27045441,-0.07,3.83005889,nas,-80.81,Near Coast of Ecuador,3.0 - 3.9
-1102,6.55678606,-0.03,3.71312172,nas,-80.37,Near Coast of Ecuador,3.0 - 3.9
-1103,6.49831104,-0.16,3.76418681,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9
-1104,3.49831605,-0.15,3.63660338,nas,-80.46,Manabi,3.0 - 3.9
-1105,9.37376213,-0.23,3.786524,nas,-80.35,Manabi,3.0 - 3.9
-1106,8.65192509,-0.3,3.8316757,nas,-80.33,Manabi,3.0 - 3.9
-1107,7.94252729,-0.4,6.07459352,nas,-80.17,Manabi,6.0 - 6.9
-1108,5.21173334,0.23,3.59209791,nas,-80.4,Esmeraldas,3.0 - 3.9
-1109,10,0.06,4.33355227,nas,-80,Near Coast of Ecuador,4.0 - 4.9
-1110,6.05619574,-0.02,3.5154273,nas,-80.94,Near Coast of Ecuador,3.0 - 3.9
-1111,6.70803785,-0.46,4.18034742,nas,-80.2,Manabi,4.0 - 4.9
-1113,5,0.65,3.76653576,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9
-1115,5,-0.14,3.74746672,nas,-79.86,Manabi,3.0 - 3.9
-1116,6.48033762,-0.19,4.23452694,nas,-80.29,Near Coast of Ecuador,4.0 - 4.9
-1117,7.32667589,0.25,3.75906068,nas,-80.58,Manabi,3.0 - 3.9
-1118,10.90612793,-0.16,4.47807822,nas,-79.87,Near Coast of Ecuador,4.0 - 4.9
-1119,5.09526491,0.59,4.08907292,nas,-80.58,Esmeraldas,4.0 - 4.9
-1120,6.74551058,-0.12,5.67335769,nas,-80.13,Near Coast of Ecuador,5.0 - 5.9
-1121,15.01320744,-0.18,3.73539163,nas,-80.8,Manabi,3.0 - 3.9
-1122,13.46090794,-0.19,3.81475223,nas,-80.25,Manabi,3.0 - 3.9
-1123,5.9397006,0.39,4.83648113,nas,-80.37,Near Coast of Ecuador,4.0 - 4.9
-1125,3.09435201,0.32,4.4953674,nas,-80.83,Near Coast of Ecuador,4.0 - 4.9
-1126,8.32425594,-0.04,4.71708295,nas,-80.42,Near Coast of Ecuador,4.0 - 4.9
-1128,3.11169934,0.59,3.70138411,nas,-80.91,Esmeraldas,3.0 - 3.9
-1129,9.11882591,-0.25,5.087143,nas,-80.06,Manabi,5.0 - 5.9
-1130,7.88046551,-0.18,4.19281663,nas,-80.42,Manabi,4.0 - 4.9
-1131,10.29966354,0.07,3.8387701,nas,-80.26,Near Coast of Ecuador,3.0 - 3.9
-1132,1.14168298,-0.04,3.62357832,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9
-1133,6.2848525,-0.03,3.58128563,nas,-80.8,Manabi,3.0 - 3.9
-1135,8.87146854,-0.05,3.52235003,nas,-80.83,Manabi,3.0 - 3.9
-1136,6.57745791,-0.17,4.51982412,nas,-80.23,Manabi,4.0 - 4.9
-1138,9.35830879,0.62,3.5895338,nas,-80.99,Near Coast of Ecuador,3.0 - 3.9
-1141,3.55224132,-0.45,3.50016838,nas,-80.96,Manabi,3.0 - 3.9
-1144,6,-0.27,3.87758572,nas,-80.79,Near Coast of Ecuador,3.0 - 3.9
-1145,6.19797182,0.02,3.71140794,nas,-81.04,Near Coast of Ecuador,3.0 - 3.9
-1146,16.42699814,-0.16,4.36916028,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9
-1147,10,0.67,3.58009784,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9
-1148,11.75938702,0.09,5.41735028,nas,-80.16,Near Coast of Ecuador,5.0 - 5.9
-1149,10,-0.01,3.84329234,nas,-80.73,Manabi,3.0 - 3.9
-1150,20.01446152,-0.32,3.77461602,nas,-80.1,Manabi,3.0 - 3.9
-1151,3.31151104,0.58,3.68414127,nas,-80.39,Esmeraldas,3.0 - 3.9
-1153,10,-0.23,3.91259916,nas,-80.58,Near Coast of Ecuador,4.0 - 4.9
-1154,13.21645069,-0.32,3.71587524,nas,-80.91,Manabi,3.0 - 3.9
-1155,10,-0.09,4.18809996,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9
-1156,8,-0.14,4.3345067,nas,-80.77,Near Coast of Ecuador,4.0 - 4.9
-1157,7.38929749,0.37,3.79088798,nas,-80.56,Near Coast of Ecuador,3.0 - 3.9
-1158,6.2802577,0.49,3.64813208,nas,-80.45,Near Coast of Ecuador,3.0 - 3.9
-1160,15.91362572,-0.24,3.54891314,nas,-80.24,Near Coast of Ecuador,3.0 - 3.9
-1161,17.53755951,-0.34,4.75851089,nas,-80.87,Near Coast of Ecuador,4.0 - 4.9
-1162,6.21950388,0.46,3.6741141,nas,-80.97,Esmeraldas,3.0 - 3.9
-1168,7.33925676,0.57,3.89106628,nas,-81.09,Esmeraldas,3.0 - 3.9
-1170,10,0.66,3.85014535,nas,-81.15,Near Coast of Ecuador,3.0 - 3.9
-1171,10,0.68,3.6720494,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9
-1173,3.78792882,-0.29,4.00490848,nas,-81.29,Manabi,4.0 - 4.9
-1175,5.19297886,-0.27,3.77053147,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9
-1176,1.25557244,0.36,3.63115894,nas,-80.55,Near Coast of Ecuador,3.0 - 3.9
-1181,5,-0.04,3.74477983,nas,-81.03,Near Coast of Ecuador,3.0 - 3.9
-1182,10.00180054,-0.05,3.99681021,nas,-80.41,Near Coast of Ecuador,4.0 - 4.9
-1183,5.96408272,0.8,3.54967699,nas,-80.76,Near Coast of Ecuador,3.0 - 3.9
-1184,5,0.07,3.54623052,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9
-1185,9.11593437,0.43,3.60535913,nas,-80.9,Near Coast of Ecuador,3.0 - 3.9
-1187,4.15263176,0.65,4.38815181,nas,-81.03,Esmeraldas,4.0 - 4.9
-1188,2.34895682,-0.14,3.7592219,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9
-1189,5.37418175,0.57,5.73213352,nas,-80.76,Esmeraldas,5.0 - 5.9
-1194,3.51527333,0.6,3.71627014,nas,-81.11,Esmeraldas,3.0 - 3.9
-1195,5.97694397,-0.01,3.97777055,nas,-79.99,Near Coast of Ecuador,4.0 - 4.9
-1196,7.51999855,-0.08,3.57637514,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9
-1197,7.42697239,0.05,3.89151847,nas,-80.85,Near Coast of Ecuador,3.0 - 3.9
-1199,7.52366638,-0.15,4.00312622,nas,-81.27,Near Coast of Ecuador,4.0 - 4.9
-1204,5.35462523,0.18,3.88567445,nas,-80.91,Near Coast of Ecuador,3.0 - 3.9
-1205,6.29936647,0.56,4.0921992,nas,-80.35,Esmeraldas,4.0 - 4.9
-1209,6.06570768,-0.11,4.77920843,nas,-80.25,Near Coast of Ecuador,4.0 - 4.9
-1210,4.86012077,0.64,3.89900948,nas,-80.48,Esmeraldas,3.0 - 3.9
-1213,10.69965649,-0.09,3.51986234,nas,-80.62,Manabi,3.0 - 3.9
-1215,10,-0.13,3.92113756,nas,-80.86,Near Coast of Ecuador,4.0 - 4.9
-1217,10,0.86,3.71862602,nas,-81.27,Near Coast of Ecuador,3.0 - 3.9
-1218,0.75335252,-0.33,3.52200355,nas,-80.54,Near Coast of Ecuador,3.0 - 3.9
-1220,10,-0.07,4.21610465,nas,-80.32,Near Coast of Ecuador,4.0 - 4.9
-1221,2.7307651,-0.14,4.8491206,nas,-80.96,Near Coast of Ecuador,4.0 - 4.9
-1225,5.98260975,0.79,3.5921912,nas,-81.07,Near Coast of Ecuador,3.0 - 3.9
-1226,5.09891558,0.53,3.8154909,nas,-80.43,Near Coast of Ecuador,3.0 - 3.9
-1228,3.99765539,0.53,5.39747179,nas,-81.2,Esmeraldas,5.0 - 5.9
-1229,4.63890982,-0.34,4.89325285,nas,-79.85,Near Coast of Ecuador,4.0 - 4.9
-1230,9.32917786,0.78,3.95212246,nas,-81.06,Near Coast of Ecuador,4.0 - 4.9
-1231,10,-0.4,3.64570216,nas,-80.2,Near Coast of Ecuador,3.0 - 3.9
-1233,10,-0.13,3.50152527,nas,-80.89,Near Coast of Ecuador,3.0 - 3.9
-1234,10,-0.02,3.87873925,nas,-81.14,Near Coast of Ecuador,3.0 - 3.9
-1237,10,-0.65,3.55375126,nas,-81.03,Near Coast of Ecuador,3.0 - 3.9
-1238,4.92011118,0.72,4.78122186,nas,-80.82,Near Coast of Ecuador,4.0 - 4.9
-1239,4.31011057,0.78,6.4307221,nas,-80.27,Near Coast of Ecuador,6.0 - 6.9
-1240,3.65850449,0.68,4.21431593,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9
-1241,5.09258747,0.51,4.42161586,nas,-80.26,Esmeraldas,4.0 - 4.9
-1243,10,0.3,4.42400356,nas,-80.14,Manabi,4.0 - 4.9
-1248,8.54414463,0.63,3.62573091,nas,-80.34,Esmeraldas,3.0 - 3.9
-1250,3.93473935,-0.02,4.37863333,nas,-80.36,Manabi,4.0 - 4.9
-1252,4.67590666,0.69,3.64987347,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9
-1253,17.36582375,0.69,3.60067716,nas,-80.28,Near Coast of Ecuador,3.0 - 3.9
-1254,10,0.76,3.5446066,nas,-80.21,Near Coast of Ecuador,3.0 - 3.9
-1257,3.71316409,-0.31,4.15207091,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9
-1258,10,0.7,3.8300755,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9
-1259,10,-0.16,4.5165711,nas,-80.15,Near Coast of Ecuador,4.0 - 4.9
-1260,7.04992199,-0.1,4.63648245,nas,-80.82,Manabi,4.0 - 4.9
-1261,2.98606038,0.88,3.88827541,nas,-80.3,Near Coast of Ecuador,3.0 - 3.9
-1262,8.20133591,-0.1,4.29917882,nas,-80.55,Near Coast of Ecuador,4.0 - 4.9
-1263,3.47591925,-0.06,4.54909498,nas,-80.92,Near Coast of Ecuador,4.0 - 4.9
-1264,9.30139637,0.09,3.58114143,nas,-80.99,Near Coast of Ecuador,3.0 - 3.9
-1266,2.34113979,0.8,3.96804963,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9
-1268,5.85208321,-0.06,4.86775996,nas,-80.19,Near Coast of Ecuador,4.0 - 4.9
-1269,14.70118141,-0.16,3.84454736,nas,-80.87,Near Coast of Ecuador,3.0 - 3.9
-1271,2.90178204,-0.04,3.97583133,nas,-81.26,Manabi,4.0 - 4.9
-1273,4.32687616,0.67,3.76107913,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9
-1274,9.35159016,0.57,3.51271298,nas,-80.5,Esmeraldas,3.0 - 3.9
-1276,5,0.23,4.44043068,nas,-80.24,Near Coast of Ecuador,4.0 - 4.9
-1277,3.90500403,0.57,4.04057321,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9
-1278,5,0.77,3.76201166,nas,-80.41,Near Coast of Ecuador,3.0 - 3.9
-1279,6.39017439,-0.12,4.89822659,nas,-80.49,Near Coast of Ecuador,4.0 - 4.9
-1280,10,-0.23,5.04306277,nas,-80.98,Near Coast of Ecuador,5.0 - 5.9
-1281,10,-0.36,4.17381728,nas,-81.27,Near Coast of Ecuador,4.0 - 4.9
-1282,6.325315,0.8,4.55484717,nas,-81.17,Near Coast of Ecuador,4.0 - 4.9
-1283,10,0.75,3.50366625,nas,-80.42,Near Coast of Ecuador,3.0 - 3.9
-1284,10.23543453,0.62,3.76620765,nas,-80.43,Esmeraldas,3.0 - 3.9
-1286,5.58945513,0.74,3.7064909,nas,-80.61,Near Coast of Ecuador,3.0 - 3.9
-1287,10.65176773,0.69,3.76240136,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9
-1288,5.9716382,-0.13,4.42556948,nas,-80.33,Near Coast of Ecuador,4.0 - 4.9
-1290,1.73158336,0.79,3.55547903,nas,-80.9,Near Coast of Ecuador,3.0 - 3.9
-1292,10,-0.18,6.16025923,nas,-80.94,Near Coast of Ecuador,6.0 - 6.9
-1293,9.97137833,-0.21,4.62436984,nas,-80.77,Near Coast of Ecuador,4.0 - 4.9
-1294,0.84149772,-0.28,4.86354013,nas,-80.48,Near Coast of Ecuador,4.0 - 4.9
-1295,10,-0.24,4.36946995,nas,-80.69,Near Coast of Ecuador,4.0 - 4.9
-1296,4.17201757,-0.18,6.01236792,nas,-80.8,Near Coast of Ecuador,6.0 - 6.9
-1297,9.58618641,-0.08,4.38177658,nas,-80.88,Near Coast of Ecuador,4.0 - 4.9
-1298,11.06874752,0.05,4.61735483,nas,-80.95,Near Coast of Ecuador,4.0 - 4.9
-1299,10,-0.17,3.58372073,nas,-80.74,Near Coast of Ecuador,3.0 - 3.9
-1300,65.79554749,-0.08,3.61104548,nas,-80.71,Manabi,3.0 - 3.9
-1301,12.48849773,-0.1,4.23752002,nas,-80.43,Near Coast of Ecuador,4.0 - 4.9
-1302,8.25347996,-0.06,3.61360298,nas,-80.7,Near Coast of Ecuador,3.0 - 3.9
-1303,10,0.05,3.94675986,nas,-80.69,Near Coast of Ecuador,4.0 - 4.9
-1304,10,-0.16,4.50271308,nas,-81.51,Near Coast of Ecuador,4.0 - 4.9
-1305,0.47454122,-0.25,5.18365008,nas,-81.04,Near Coast of Ecuador,5.0 - 5.9
-1307,152.8073883,0.44,3.53675921,nas,-81.25,Manabi,3.0 - 3.9
-1308,6.80499697,-0.23,4.24543686,nas,-80.1,Near Coast of Ecuador,4.0 - 4.9
-1309,6.31556988,-0.1,3.8022041,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9
-1310,12.91841507,-0.17,3.51315478,nas,-80.63,Manabi,3.0 - 3.9
-1311,1.7057898,-0.07,4.25516269,nas,-80.28,Near Coast of Ecuador,4.0 - 4.9
-1312,9.43618393,-0.4,3.66096297,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9
-1313,2.85216594,0.63,3.83967018,nas,-80.98,Near Coast of Ecuador,3.0 - 3.9
-1314,11.90623856,-0.05,3.74902579,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9
-1315,10,-0.15,5.20195438,nas,-81.24,Near Coast of Ecuador,5.0 - 5.9
-1316,13.34796047,0.12,3.62110736,nas,-81.02,Near Coast of Ecuador,3.0 - 3.9
-1318,10,0.69,3.59714487,nas,-81.13,Near Coast of Ecuador,3.0 - 3.9
-1319,9.3367548,0.61,5.7492045,nas,-80.55,Near Coast of Ecuador,5.0 - 5.9
-1320,10,0.6,4.70820894,nas,-80.36,Near Coast of Ecuador,4.0 - 4.9
-1321,8.73653126,0.72,4.43839175,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9
-1322,10.26876545,0.67,4.34520361,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9
-1323,10,0.64,3.55236297,nas,-80.47,Near Coast of Ecuador,3.0 - 3.9
-1324,3.81701779,0.68,3.67479816,nas,-80.21,Near Coast of Ecuador,3.0 - 3.9
-1326,4.52016258,-0.19,3.7802191,nas,-80.05,Near Coast of Ecuador,3.0 - 3.9
-1327,7.54592323,0.24,3.65849655,nas,-80.63,Near Coast of Ecuador,3.0 - 3.9
-1328,5.60215044,-0.09,4.15130243,nas,-80.56,Near Coast of Ecuador,4.0 - 4.9
-1329,13.5057869,-0.29,3.81637249,nas,-80.85,Manabi,3.0 - 3.9
-1330,10,0.09,4.24137438,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9
-1332,5.05259514,0.36,3.58093301,nas,-80.46,Near Coast of Ecuador,3.0 - 3.9
-1333,3.1891408,0.7,4.18337165,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9
-1334,5.52644396,0.52,3.68296085,nas,-80.6,Near Coast of Ecuador,3.0 - 3.9
-1335,10,0.7,4.99500142,nas,-80.29,Near Coast of Ecuador,5.0 - 5.9
-1336,10,0.19,3.97161725,nas,-80.49,Near Coast of Ecuador,4.0 - 4.9
-1337,1.97543466,0.28,3.55584743,nas,-80.34,Near Coast of Ecuador,3.0 - 3.9
-1338,10.41671276,0.53,4.2784178,nas,-80.63,Near Coast of Ecuador,4.0 - 4.9
-1339,2.28551602,0.94,3.91364435,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9
-1340,10,0.82,3.86884202,nas,-80.72,Near Coast of Ecuador,3.0 - 3.9
-1341,4.63213205,0.15,4.53174518,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9
-1342,4.5209136,0.2,3.92193295,nas,-80.83,Near Coast of Ecuador,4.0 - 4.9
-1343,10,-0.03,3.59461225,nas,-80.42,Near Coast of Ecuador,3.0 - 3.9
-1344,10,-0.24,3.64456229,nas,-80.82,Near Coast of Ecuador,3.0 - 3.9
-1345,5.41311169,0.04,3.50104391,nas,-81.1,Near Coast of Ecuador,3.0 - 3.9
-1346,10.36977959,-0.05,4.08843507,nas,-81.03,Near Coast of Ecuador,4.0 - 4.9
-1347,2.94375873,0.27,3.6458043,nas,-80.51,Near Coast of Ecuador,3.0 - 3.9
-1348,6.01655006,0.7,4.38818643,nas,-80.67,Esmeraldas,4.0 - 4.9
-1349,5,-0.11,3.74729179,nas,-79.73,Near Coast of Ecuador,3.0 - 3.9
-1352,7.19134808,-0.45,3.62998658,nas,-81.15,Manabi,3.0 - 3.9
-1353,2.95371175,-0.15,3.95396321,nas,-80.35,Near Coast of Ecuador,4.0 - 4.9
-1354,5,-0.14,4.21564682,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9
-1359,76.69999695,0.56,3.78495623,nas,-81.42,Near Coast of Ecuador,3.0 - 3.9
-1360,5.13646793,-0.07,4.54763841,nas,-80.78,Manabi,4.0 - 4.9
-1364,9.95831966,-0.13,4.34302629,nas,-81.31,Near Coast of Ecuador,4.0 - 4.9
-1365,10,-0.04,3.81080923,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9
-1367,6.65374756,0.37,4.5686681,nas,-81.38,Near Coast of Ecuador,4.0 - 4.9
-1368,10,0.34,3.79284788,nas,-80.62,Near Coast of Ecuador,3.0 - 3.9
-1369,2.52435637,0.31,3.58024375,nas,-80.63,Near Coast of Ecuador,3.0 - 3.9
-1370,4.30240154,0.26,3.79360731,nas,-80.51,Near Coast of Ecuador,3.0 - 3.9
-1372,10,-0.51,4.18665653,nas,-80.76,Near Coast of Ecuador,4.0 - 4.9
-1373,7.66948843,0.58,4.01903608,nas,-80.87,Near Coast of Ecuador,4.0 - 4.9
-1374,10,-0.14,5.62373423,nas,-80.28,Near Coast of Ecuador,5.0 - 5.9
-1375,10.41729641,0.27,3.93502762,nas,-80.99,Near Coast of Ecuador,4.0 - 4.9
-1377,8.30518818,0.66,3.63300358,nas,-80.76,Near Coast of Ecuador,3.0 - 3.9
-1378,10,0.32,3.66339705,nas,-80.52,Near Coast of Ecuador,3.0 - 3.9
-1379,9.42261505,0.48,3.55895276,nas,-80.23,Esmeraldas,3.0 - 3.9
-1380,13.6183157,-0.25,3.53224494,nas,-80.08,Manabi,3.0 - 3.9
-1381,10,-0.2,3.78780819,nas,-80.37,Near Coast of Ecuador,3.0 - 3.9
-1383,1.22873938,-0.33,4.5305933,nas,-81.21,Near Coast of Ecuador,4.0 - 4.9
-1384,10,-0.57,4.37548563,nas,-81.16,Near Coast of Ecuador,4.0 - 4.9
-1385,5,0.22,4.01418432,nas,-80.81,Near Coast of Ecuador,4.0 - 4.9
-1386,10.51271057,-0.17,3.99321212,nas,-80.25,Near Coast of Ecuador,4.0 - 4.9
-1387,10,-0.23,4.03336632,nas,-80.71,Near Coast of Ecuador,4.0 - 4.9
-1388,10.96618748,0.2,4.17007118,nas,-80.98,Near Coast of Ecuador,4.0 - 4.9
-1392,5,0.17,3.95608065,nas,-81.08,Near Coast of Ecuador,4.0 - 4.9
-1397,4.44566202,0.37,3.90845081,nas,-81.32,Near Coast of Ecuador,4.0 - 4.9
-1398,3.9568913,0.38,3.96027026,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9
-1401,1.92560124,0.25,4.19135904,nas,-81.09,Near Coast of Ecuador,4.0 - 4.9
-1403,8.52616024,-0.46,3.7177558,nas,-80.94,Manabi,3.0 - 3.9
-1404,10,0.45,3.50526991,nas,-80.44,Near Coast of Ecuador,3.0 - 3.9
-1406,5,-0.41,3.5662415,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9
-1410,10,0.27,4.19347504,nas,-80.85,Near Coast of Ecuador,4.0 - 4.9
-1412,10,-0.23,3.66029007,nas,-80.88,Near Coast of Ecuador,3.0 - 3.9
-1415,10,-0.13,4.01495126,nas,-80.98,Near Coast of Ecuador,4.0 - 4.9
-1416,4.45463753,-0.08,3.77082281,nas,-80.85,Manabi,3.0 - 3.9
-1418,5,0.24,3.60970733,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9
-1424,10,0.29,3.8415999,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9
-1425,8.92176724,0.88,3.51643893,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9
-1426,2.39675999,0.14,4.27955018,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9
-1427,10,-0.13,4.53223084,nas,-80.11,Near Coast of Ecuador,4.0 - 4.9
-54,2.5,-0.61,3.8," Bahia de Caraquez,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9
-57,13.3,-0.82,3.6," Manta,Manabi",-80.88,Near Coast of Ecuador,3.0 - 3.9
-60,6.8,-0.8,3.7," Manta,Manabi",-80.84,Near Coast of Ecuador,3.0 - 3.9
-89,2.3,-0.86,3.7," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,3.0 - 3.9
-100,3.5,-0.92,3.5," Manta,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9
-119,3.8,-0.74,3.4," San Vicente,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9
-120,7.2,-0.72,3.2," San Vicente,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9
-121,5.3,-1.33,3.4," Puerto Lopez,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9
-131,4,-0.95,4.5," Rocafuerte,Manabi",-80.54,Near Coast of Ecuador,4.0 - 4.9
-132,4.1,-1,4.4," Jaramijo,Manabi",-80.57,Near Coast of Ecuador,4.0 - 4.9
-143,10.2,-0.5,3.7," San Vicente,Manabi",-80.4,Manabi,3.0 - 3.9
-214,4.4,-0.97,4," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,4.0 - 4.9
-240,10,-0.92,3.9," Manta,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9
-253,4.4,-0.53,3.3," San Vicente,Manabi",-80.42,Manabi,3.0 - 3.9
-261,10,-0.81,3.9," Rocafuerte,Manabi",-80.48,Near Coast of Ecuador,3.0 - 3.9
-262,10,-0.87,4.4," Manta,Manabi",-80.73,Near Coast of Ecuador,4.0 - 4.9
-267,10,-0.86,4.2," Manta,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9
-271,10,-0.99,5," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,5.0 - 5.9
-279,43.6,-0.91,3.6," Calceta,Manabi",-79.91,Manabi,3.0 - 3.9
-284,17.8,-0.93,3," Manta,Manabi",-80.77,Near Coast of Ecuador,1.0 - 3.0
-297,8.6,-0.92,3.8," Jaramijo,Manabi",-80.59,Manabi,3.0 - 3.9
-305,4.5,-1.2,3.6," Montecristi,Manabi",-80.93,Manabi,3.0 - 3.9
-322,11,-0.47,3.3," San Vicente,Manabi",-80.4,Manabi,3.0 - 3.9
-348,7.6,-0.87,3.5," Manta,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9
-373,5.2,-0.99,4.5," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,4.0 - 4.9
-374,2.7,-0.96,3.5," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-376,4.7,-0.92,3.8," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9
-377,5,-0.97,3.5," Jaramijo,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9
-380,9.6,-0.59,3.1," Bahia de Caraquez,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9
-385,0.5,-1.31,3.8," Puerto Lopez,Manabi",-80.89,Manabi,3.0 - 3.9
-390,5,-0.86,3.9," Jaramijo,Manabi",-80.6,Near Coast of Ecuador,3.0 - 3.9
-399,3.3,-1.19,4.8," Montecristi,Manabi",-80.93,Manabi,4.0 - 4.9
-400,8.5,-1.3,3.8," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9
-401,5.4,-1.23,3.6," Montecristi,Manabi",-80.92,Manabi,3.0 - 3.9
-408,5,-1.36,3.8," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9
-466,11.7,-1.01,3.7," Calceta,Manabi",-80.12,Manabi,3.0 - 3.9
-498,10,-1.4,4.9," Jipijapa,Manabi",-80.55,Manabi,4.0 - 4.9
-511,19.6,-1.19,3.5," Montecristi,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9
-516,3.4,-0.92,4.4," Rocafuerte,Manabi",-80.46,Near Coast of Ecuador,4.0 - 4.9
-521,5.1,-0.88,3.1," Jaramijo,Manabi",-80.58,Manabi,3.0 - 3.9
-525,4.5,-0.91,5.4," Jaramijo,Manabi",-80.63,Manabi,5.0 - 5.9
-526,12.2,-0.93,5.2," Jaramijo,Manabi",-80.58,Near Coast of Ecuador,5.0 - 5.9
-561,48.2,-0.89,4," Velasco Ibarra,Guayas",-79.87,Manabi,4.0 - 4.9
-563,4,-1.04,3.6," Portoviejo,Manabi",-80.46,Manabi,3.0 - 3.9
-595,10,-0.8,3.7," Velasco Ibarra,Guayas",-79.81,Manabi,3.0 - 3.9
-601,5.9,-1.75,3.7," Pajan,Manabi",-80.47,Manabi,3.0 - 3.9
-622,3.3,-0.72,3.8," Manta,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9
-649,10,-0.96,3.3," Manta,Manabi",-80.73,Manabi,3.0 - 3.9
-652,35.4,-1.02,3.6," Velasco Ibarra,Guayas",-79.81,Manabi,3.0 - 3.9
-660,20.8,-1.41,3.6," Pajan,Manabi",-80.34,Manabi,3.0 - 3.9
-691,4.4,-1.07,3.6," Montecristi,Manabi",-80.63,Manabi,3.0 - 3.9
-705,3.9,-0.92,3.9," Rocafuerte,Manabi",-80.47,Manabi,3.0 - 3.9
-711,5,-0.92,4.7," Calceta,Manabi",-80.25,Manabi,4.0 - 4.9
-722,7.6,-0.99,3.7," Rocafuerte,Manabi",-80.38,Manabi,3.0 - 3.9
-748,16.1,-0.47,3.9," San Vicente,Manabi",-80.44,Manabi,3.0 - 3.9
-782,11.5,-0.68,4.3," Bahia de Caraquez,Manabi",-80.61,Near Coast of Ecuador,4.0 - 4.9
-787,16.7,-1.35,3.5," Jipijapa,Manabi",-80.69,Manabi,3.0 - 3.9
-790,10,-1.49,3.6," Jipijapa,Manabi",-80.59,Manabi,3.0 - 3.9
-799,8.8,-1.14,3.5," Montecristi,Manabi",-80.56,Manabi,3.0 - 3.9
-801,6.1,-1.02,3.6," Montecristi,Manabi",-80.62,Manabi,3.0 - 3.9
-816,10,-0.45,3.9," San Vicente,Manabi",-80.43,Manabi,3.0 - 3.9
-817,20.8,-0.49,6.2," San Vicente,Manabi",-80.39,Manabi,6.0 - 6.9
-823,4.3,-1.22,4.7," Jipijapa,Manabi",-80.52,Manabi,4.0 - 4.9
-832,1.6,-0.57,3.2," San Vicente,Manabi",-80.26,Manabi,3.0 - 3.9
-833,2.1,-1.1,4.7," Montecristi,Manabi",-80.6,Manabi,4.0 - 4.9
-861,20,-0.84,4.8,"Rocafuerte,Manabi",-80.44,Manabi,4.0 - 4.9
-884,5.6,-1.14,3.7,"Santa Ana,Manabi",-80.37,Manabi,3.0 - 3.9
-885,18.9,-0.98,3.9,"Manta,Manabi",-80.97,Near Coast of Ecuador,3.0 - 3.9
-957,7,-1.01,3.5,"Jaramijo,Manabi",-80.6,Manabi,3.0 - 3.9
-984,1.7,-1.26,3.6,"Santa Ana,Manabi",-80.46,Manabi,3.0 - 3.9
-1017,4,-0.77,3.9,"Manta,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9
-1048,3.84400606,-0.57,4.07889816,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9
-1078,10,-0.91,6.46212182,nas,-79.59,Manabi,6.0 - 6.9
-1092,7.73589849,-0.5,3.69138172,nas,-80.44,Manabi,3.0 - 3.9
-1124,10,-0.68,3.69261483,nas,-80.24,Near Coast of Ecuador,3.0 - 3.9
-1127,5,-0.85,4.17662762,nas,-80.35,Manabi,4.0 - 4.9
-1134,5,-0.81,3.80988095,nas,-80.22,Near Coast of Ecuador,3.0 - 3.9
-1137,0.96055347,-0.93,5.63957397,nas,-80.24,Near Coast of Ecuador,5.0 - 5.9
-1139,4.44490337,-1.01,5.01700328,nas,-80.29,Manabi,5.0 - 5.9
-1140,5,-0.87,3.66046797,nas,-80.88,Manabi,3.0 - 3.9
-1142,5,-0.7,4.11858228,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9
-1143,24.66736794,-0.9,3.5258068,nas,-81.08,Manabi,3.0 - 3.9
-1165,164.2754211,-1.81,3.55717419,nas,-80.16,Near Coast of Ecuador,3.0 - 3.9
-1166,10,-0.75,3.85832579,nas,-80.25,Near Coast of Ecuador,3.0 - 3.9
-1167,10,-1.09,4.16985875,nas,-81.03,Near Coast of Ecuador,4.0 - 4.9
-1169,17.56494904,-0.82,3.54730647,nas,-79.91,Near Coast of Ecuador,3.0 - 3.9
-1172,10,-1.21,3.68187809,nas,-80.11,Near Coast of Ecuador,3.0 - 3.9
-1174,10,-1.24,3.56338445,nas,-80.16,Manabi,3.0 - 3.9
-1177,13.37305927,-1.03,4.04178119,nas,-80.34,Near Coast of Ecuador,4.0 - 4.9
-1178,1.93081725,-1.16,5.13137323,nas,-81.04,Near Coast of Ecuador,5.0 - 5.9
-1179,5.5999999,-1.1,4.49085724,nas,-81.24,Near Coast of Ecuador,4.0 - 4.9
-1180,5,-1.06,3.53164865,nas,-81.36,Near Coast of Ecuador,3.0 - 3.9
-1186,2.0278821,-1.08,4.36931692,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9
-1193,11,-1.1,3.77261025,nas,-80.07,Near Coast of Ecuador,3.0 - 3.9
-1198,15,-1.14,3.58453677,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9
-1200,10,-1.1,3.6596755,nas,-80.82,Manabi,3.0 - 3.9
-1201,10,-1.31,3.5205775,nas,-80.95,Near Coast of Ecuador,3.0 - 3.9
-1202,18,-1.13,3.91106729,nas,-81.65,Near Coast of Ecuador,4.0 - 4.9
-1203,10,-1.2,3.67737376,nas,-81.07,Manabi,3.0 - 3.9
-1214,14.12295628,-0.55,3.66678736,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9
-1216,15,-0.99,3.84463627,nas,-80.88,Near Coast of Ecuador,3.0 - 3.9
-1222,10,-0.69,3.6579226,nas,-80.53,Near Coast of Ecuador,3.0 - 3.9
-1223,10,-1.08,3.5288985,nas,-81.09,Near Coast of Ecuador,3.0 - 3.9
-1224,10,-1.05,3.82581882,nas,-81.22,Near Coast of Ecuador,3.0 - 3.9
-1227,10,-1.22,3.65794473,nas,-79.9,Near Coast of Ecuador,3.0 - 3.9
-1232,10,-1.28,3.54802854,nas,-80.85,Manabi,3.0 - 3.9
-1235,10,-0.82,4.01268005,nas,-80.89,Near Coast of Ecuador,4.0 - 4.9
-1236,10,-1.26,3.91236636,nas,-81.15,Near Coast of Ecuador,4.0 - 4.9
-1270,2.82112718,-1.2,3.74355447,nas,-80.57,Near Coast of Ecuador,3.0 - 3.9
-1289,10,-1.52,3.796149,nas,-80.61,Manabi,3.0 - 3.9
-1291,10,-1.42,4.52463525,nas,-80.61,Near Coast of Ecuador,4.0 - 4.9
-1317,8.50152016,-1.41,3.56361803,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9
-1350,5,-0.87,3.58182491,nas,-80.34,Near Coast of Ecuador,3.0 - 3.9
-1351,4.5999999,-1.16,4.24792,nas,-81.01,Near Coast of Ecuador,4.0 - 4.9
-1355,5,-1.06,3.6202888,nas,-81.35,Near Coast of Ecuador,3.0 - 3.9
-1356,5.41434097,-0.9,5.10321384,nas,-81.56,Manabi,5.0 - 5.9
-1357,10,-1.08,4.10267055,nas,-80.89,Near Coast of Ecuador,4.0 - 4.9
-1358,5,-1.29,3.55655485,nas,-81.44,Near Coast of Ecuador,3.0 - 3.9
-1363,5,-0.81,4.63824597,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9
-1371,4.58883285,-0.57,3.70872399,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9
-1376,19.11281967,-0.61,3.63988455,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9
-1382,1.02950561,-1.28,4.19979291,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9
-1389,10,-1.2,4.2581872,nas,-80.47,Near Coast of Ecuador,4.0 - 4.9
-1391,10,-1.27,4.38954226,nas,-81.04,Near Coast of Ecuador,4.0 - 4.9
-1393,5,-0.9,3.86641143,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9
-1394,5,-1.02,3.54104925,nas,-81.29,Near Coast of Ecuador,3.0 - 3.9
-1395,5,-1.11,3.58321766,nas,-81.65,Near Coast of Ecuador,3.0 - 3.9
-1396,5,-1.11,4.42310048,nas,-81.51,Near Coast of Ecuador,4.0 - 4.9
-1399,10,-1.52,3.6293124,nas,-80.4,Near Coast of Ecuador,3.0 - 3.9
-1400,10,-1.31,4.60624899,nas,-80.94,Near Coast of Ecuador,4.0 - 4.9
-1402,10,-1.55,4.26381869,nas,-80.44,Near Coast of Ecuador,4.0 - 4.9
-1405,5,-1.64,3.67610612,nas,-80.62,Near Coast of Ecuador,3.0 - 3.9
-1411,10,-1.56,3.50939452,nas,-80.51,Manabi,3.0 - 3.9
-1417,10,-1.54,4.07218751,nas,-80.43,Manabi,4.0 - 4.9
-1419,10,-1.65,3.63594943,nas,-80.41,Near Coast of Ecuador,3.0 - 3.9
-1420,10,-1.19,3.58565622,nas,-81.12,Near Coast of Ecuador,3.0 - 3.9
-1423,5,-1.6,3.65873156,nas,-80.58,Manabi,3.0 - 3.9
-15,5,-1.52,3.6," Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9
-35,5,-1.51,3.2," Puerto Lopez,Manabi",-80.93,Near Coast of Ecuador,3.0 - 3.9
-222,6.2,-1.5,3.8," Puerto Lopez,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9
-846,12.2,-1.52,3.9,"Puerto Lopez,Manabi",-80.92,Near Coast of Ecuador,3.0 - 3.9
-1366,10,-1.47,3.63205061,nas,-80.96,Near Coast of Ecuador,3.0 - 3.9
-1414,6,-1.5,4.74743955,nas,-81,Near Coast of Ecuador,4.0 - 4.9
-17,5,-1.58,3.8," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9
-18,5,-1.57,3.7," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9
-25,5,-1.55,4.7," Puerto Lopez,Manabi",-80.96,Near Coast of Ecuador,4.0 - 4.9
-41,1.1,-1.62,3.5," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9
-47,5,-1.83,3.6," Puerto Lopez,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9
-152,3,-1.6,3.4," Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9
-159,23,-1.59,3.6," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9
-208,2.8,-1.65,3.1," Puerto Lopez,Manabi",-80.94,Near Coast of Ecuador,3.0 - 3.9
-487,10,-1.6,3.6," Puerto Lopez,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9
-620,4.8,-1.97,4.3," La Libertad,Sta Elena",-80.89,Near Coast of Ecuador,4.0 - 4.9
-923,1.8,-1.91,4.1,"Salinas,Sta Elena",-80.95,Near Coast of Ecuador,4.0 - 4.9
-939,1.8,-1.59,3.9,"Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9
-1306,10,-1.56,3.75931407,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9
-1390,2.2696116,-1.49,3.59613287,nas,-81.23,Near Coast of Ecuador,3.0 - 3.9
-1407,10,-1.76,3.68151424,nas,-81.12,Near Coast of Ecuador,3.0 - 3.9
-1408,5,-1.59,3.65882418,nas,-81.18,Near Coast of Ecuador,3.0 - 3.9
-1409,10,-1.55,4.22520847,nas,-80.99,Manabi,4.0 - 4.9
-1413,1.9520781,-1.54,3.63301492,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9
-1428,10,-1.7,3.6312918,nas,-81.02,Near Coast of Ecuador,3.0 - 3.9
+Mag,Latitude,Longitude,Depth,Region,CloserCity,categoryMag,categoryDepth,Cluster
+4,5,0.58,3.9," Muisne,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9,0
+19,13.3,0.41,4.8," Muisne,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9,0
+21,4.5,0.46,3.5," Muisne,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+59,8.8,0.7,3.6," Atacames,Esmeraldas",-79.73,Near Coast of Ecuador,3.0 - 3.9,0
+63,10,0.82,3.7," Atacames,Esmeraldas",-79.82,Esmeraldas,3.0 - 3.9,0
+66,7,0.54,4.8," Muisne,Esmeraldas",-80.04,Near Coast of Ecuador,4.0 - 4.9,0
+67,2.8,0.4,4.6," Muisne,Esmeraldas",-79.93,Near Coast of Ecuador,4.0 - 4.9,0
+68,4.9,0.49,4.5," Muisne,Esmeraldas",-79.98,Near Coast of Ecuador,4.0 - 4.9,0
+69,5.4,0.51,4.3," Muisne,Esmeraldas",-79.96,Near Coast of Ecuador,4.0 - 4.9,0
+70,13.4,0.4,3.9," Muisne,Esmeraldas",-79.87,Near Coast of Ecuador,3.0 - 3.9,0
+71,8.8,0.46,3.8," Muisne,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9,0
+72,9.5,0.39,4.9," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,4.0 - 4.9,0
+73,9.5,0.33,3.9," Pedernales,Manabi",-79.85,Esmeraldas,3.0 - 3.9,0
+75,5.1,0.64,3.6," Muisne,Esmeraldas",-80.04,Esmeraldas,3.0 - 3.9,0
+76,14.2,0.45,3.5," Muisne,Esmeraldas",-79.81,Near Coast of Ecuador,3.0 - 3.9,0
+77,2.2,0.64,4.1," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,4.0 - 4.9,0
+78,5.4,0.64,4.8," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,4.0 - 4.9,0
+79,7.5,0.61,3.6," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9,0
+81,10,0.63,3.7," Muisne,Esmeraldas",-80.18,Near Coast of Ecuador,3.0 - 3.9,0
+82,7.2,0.29,3.7," Pedernales,Manabi",-80,Manabi,3.0 - 3.9,0
+83,6.9,0.68,3.5," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,3.0 - 3.9,0
+84,13.3,0.44,5.2," Muisne,Esmeraldas",-79.83,Near Coast of Ecuador,5.0 - 5.9,0
+90,10.1,0.48,3.6," Muisne,Esmeraldas",-79.94,Near Coast of Ecuador,3.0 - 3.9,0
+92,5,0.71,3," Muisne,Esmeraldas",-80.07,Esmeraldas,1.0 - 3.0,0
+102,9.3,0.52,4.7," Muisne,Esmeraldas",-79.9,Near Coast of Ecuador,4.0 - 4.9,0
+115,5.2,0.95,3.2," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9,0
+122,10,0.63,4.4," Muisne,Esmeraldas",-80.21,Near Coast of Ecuador,4.0 - 4.9,0
+124,10,0.7,3.3," Quininde,Esmeraldas",-79.32,Esmeraldas,3.0 - 3.9,0
+126,18.1,0.58,3.5," Muisne,Esmeraldas",-79.77,Near Coast of Ecuador,3.0 - 3.9,0
+128,4.1,0.56,3.5," Muisne,Esmeraldas",-80,Esmeraldas,3.0 - 3.9,0
+138,10,0.99,4.1," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,4.0 - 4.9,0
+140,1.4,0.93,3.9," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9,0
+144,8.3,0.91,3.5," Esmeraldas,Esmeraldas",-79.58,Near Coast of Ecuador,3.0 - 3.9,0
+145,3.3,0.93,3.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9,0
+148,1.7,0.96,3.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9,0
+150,1.5,1.36,3.6," Esmeraldas,Esmeraldas",-79.63,Near Coast of Ecuador,3.0 - 3.9,0
+156,4.6,0.95,3.6," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9,0
+157,20,0.97,3," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,1.0 - 3.0,0
+158,10,0.92,3.5," Esmeraldas,Esmeraldas",-79.36,Near Coast of Ecuador,3.0 - 3.9,0
+160,10,0.96,3.9," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,3.0 - 3.9,0
+161,10,0.96,4.3," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,4.0 - 4.9,0
+162,5.9,0.89,3.3," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9,0
+163,12.5,0.21,4.6," Pedernales,Manabi",-80.02,Manabi,4.0 - 4.9,0
+164,2.6,1.01,3.6," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9,0
+165,2.3,0.94,4.3," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,4.0 - 4.9,0
+166,4.2,0.88,3.2," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9,0
+167,1.3,0.94,3.3," Esmeraldas,Esmeraldas",-79.54,Near Coast of Ecuador,3.0 - 3.9,0
+168,6.3,0.95,4," Esmeraldas,Esmeraldas",-79.39,Near Coast of Ecuador,4.0 - 4.9,0
+169,3.8,0.92,4.1," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,4.0 - 4.9,0
+170,4.6,0.94,3.3," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9,0
+171,4.7,0.96,3.4," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,3.0 - 3.9,0
+172,2.6,0.96,3.4," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9,0
+173,4.3,0.94,3.6," Esmeraldas,Esmeraldas",-79.54,Near Coast of Ecuador,3.0 - 3.9,0
+174,5,0.95,3.1," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,3.0 - 3.9,0
+175,4.4,0.96,4.8," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,4.0 - 4.9,0
+179,10,0.95,4.1," Esmeraldas,Esmeraldas",-79.48,Near Coast of Ecuador,4.0 - 4.9,0
+186,12.9,0.19,3.5," Pedernales,Manabi",-79.99,Near Coast of Ecuador,3.0 - 3.9,0
+187,8.7,0.6,5.9," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,5.0 - 5.9,0
+188,6.1,0.62,3.3," Muisne,Esmeraldas",-79.89,Near Coast of Ecuador,3.0 - 3.9,0
+189,10.1,0.59,6.2," Muisne,Esmeraldas",-79.77,Near Coast of Ecuador,6.0 - 6.9,0
+190,18.9,0.6,3.2," Muisne,Esmeraldas",-79.79,Near Coast of Ecuador,3.0 - 3.9,0
+191,6.1,0.7,4.3," Atacames,Esmeraldas",-79.7,Near Coast of Ecuador,4.0 - 4.9,0
+192,2.4,0.95,4.4," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,4.0 - 4.9,0
+193,5,0.97,4," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,4.0 - 4.9,0
+194,2.2,0.97,3.7," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9,0
+195,5,0.92,3.4," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9,0
+196,10,0.95,3.5," Esmeraldas,Esmeraldas",-79.59,Near Coast of Ecuador,3.0 - 3.9,0
+197,5.3,0.92,3.3," Esmeraldas,Esmeraldas",-79.52,Near Coast of Ecuador,3.0 - 3.9,0
+199,5,0.94,3.8," Esmeraldas,Esmeraldas",-79.55,Near Coast of Ecuador,3.0 - 3.9,0
+204,7.9,0.62,4.3," Muisne,Esmeraldas",-80.16,Near Coast of Ecuador,4.0 - 4.9,0
+218,10.3,0.46,3.1," Muisne,Esmeraldas",-80.14,Near Coast of Ecuador,3.0 - 3.9,0
+220,6,0.64,3.2," Muisne,Esmeraldas",-80.18,Near Coast of Ecuador,3.0 - 3.9,0
+225,6.3,0.92,3.5," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+227,16.3,0.19,3.1," Pedernales,Manabi",-80.12,Near Coast of Ecuador,3.0 - 3.9,0
+230,9.4,0.62,3.6," Muisne,Esmeraldas",-79.88,Near Coast of Ecuador,3.0 - 3.9,0
+235,10,0.86,3.5," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,3.0 - 3.9,0
+236,10,0.93,3.5," Esmeraldas,Esmeraldas",-79.35,Near Coast of Ecuador,3.0 - 3.9,0
+237,10,0.95,4.5," Esmeraldas,Esmeraldas",-79.46,Near Coast of Ecuador,4.0 - 4.9,0
+241,10,0.96,3.8," Esmeraldas,Esmeraldas",-79.49,Near Coast of Ecuador,3.0 - 3.9,0
+242,10,0.91,3.4," Esmeraldas,Esmeraldas",-79.43,Near Coast of Ecuador,3.0 - 3.9,0
+272,10,0.92,3.5," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9,0
+274,5,1.07,3.5," Esmeraldas,Esmeraldas",-79.59,Near Coast of Ecuador,3.0 - 3.9,0
+276,7.9,0.77,3.7," Atacames,Esmeraldas",-79.79,Near Coast of Ecuador,3.0 - 3.9,0
+277,4.4,0.23,4.2," Pedernales,Manabi",-80.01,Manabi,4.0 - 4.9,0
+278,10,0.94,3.5," Esmeraldas,Esmeraldas",-79.56,Near Coast of Ecuador,3.0 - 3.9,0
+280,17.2,0.43,6.7," Muisne,Esmeraldas",-80.01,Near Coast of Ecuador,6.0 - 6.9,0
+281,20.8,0.47,6.9," Muisne,Esmeraldas",-79.82,Near Coast of Ecuador,6.0 - 6.9,0
+285,3.6,0.92,3.8," Esmeraldas,Esmeraldas",-79.58,Near Coast of Ecuador,3.0 - 3.9,0
+286,10,0.88,3.9," Esmeraldas,Esmeraldas",-79.64,Near Coast of Ecuador,3.0 - 3.9,0
+289,3.5,0.96,3.4," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9,0
+291,3.7,0.98,3," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,1.0 - 3.0,0
+316,23.2,0.75,4.8," Esmeraldas,Esmeraldas",-79.25,Esmeraldas,4.0 - 4.9,0
+323,9,0.62,3.6," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9,0
+326,8.2,0.62,3," Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,1.0 - 3.0,0
+329,7.6,0.61,4.9," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,4.0 - 4.9,0
+337,11.7,0.85,2.6," Atacames,Esmeraldas",-79.89,Esmeraldas,1.0 - 3.0,0
+343,16.3,1.05,3," Esmeraldas,Esmeraldas",-79.69,Near Coast of Ecuador,1.0 - 3.0,0
+355,10,0.62,3.6," Muisne,Esmeraldas",-80.02,Esmeraldas,3.0 - 3.9,0
+369,12.2,1.03,3.4," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9,0
+387,77.9,0.41,3.7," Quininde,Esmeraldas",-78.95,Esmeraldas,3.0 - 3.9,0
+395,1.6,1.15,3.2," Esmeraldas,Esmeraldas",-79.65,Near Coast of Ecuador,3.0 - 3.9,0
+397,1,0.99,3.3," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9,0
+403,4.2,1.07,3.2," Atacames,Esmeraldas",-79.93,Near Coast of Ecuador,3.0 - 3.9,0
+405,2,0.87,3.1," Atacames,Esmeraldas",-79.83,Esmeraldas,3.0 - 3.9,0
+411,6.2,1.05,3.5," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+412,6.8,0.92,3.7," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9,0
+413,5.7,0.95,3.8," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9,0
+414,4.9,1,3.5," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,3.0 - 3.9,0
+417,5,1.07,3.8," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9,0
+418,4.1,0.96,4.9," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,4.0 - 4.9,0
+419,7.7,1.03,4.2," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,4.0 - 4.9,0
+420,2.4,0.99,3.6," Atacames,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9,0
+422,4.8,1.1,4.3," Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,4.0 - 4.9,0
+423,9.2,1.01,3," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,1.0 - 3.0,0
+424,5.4,1.08,3.4," Esmeraldas,Esmeraldas",-79.76,Near Coast of Ecuador,3.0 - 3.9,0
+428,3.1,0.76,3.6," Atacames,Esmeraldas",-79.74,Near Coast of Ecuador,3.0 - 3.9,0
+429,8.5,1.03,3.9," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,3.0 - 3.9,0
+430,1.9,1.1,4.2," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,4.0 - 4.9,0
+431,10,0.98,3.9," Atacames,Esmeraldas",-79.8,Near Coast of Ecuador,3.0 - 3.9,0
+432,5,1.03,3.9," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,3.0 - 3.9,0
+433,4.1,1.05,3.9," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,3.0 - 3.9,0
+434,3.5,1.06,4.2," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,4.0 - 4.9,0
+436,14.7,0.98,3.4," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9,0
+437,2.7,1.08,4," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,4.0 - 4.9,0
+438,5,1.04,4.3," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,4.0 - 4.9,0
+442,1.5,0.97,4.5," Esmeraldas,Esmeraldas",-79.77,Near Coast of Ecuador,4.0 - 4.9,0
+443,7.3,0.98,3.9," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+444,7.8,1.08,3.8," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+445,8.6,0.95,3.6," Atacames,Esmeraldas",-79.87,Near Coast of Ecuador,3.0 - 3.9,0
+446,3.1,1.06,4.2," Atacames,Esmeraldas",-79.89,Near Coast of Ecuador,4.0 - 4.9,0
+447,2.8,1.07,4," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9,0
+448,5.1,1.07,4.4," Atacames,Esmeraldas",-79.94,Near Coast of Ecuador,4.0 - 4.9,0
+449,7.2,1.04,3.3," Atacames,Esmeraldas",-79.86,Near Coast of Ecuador,3.0 - 3.9,0
+450,2.8,1.07,3.6," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,3.0 - 3.9,0
+451,12.4,0.94,4.8," Esmeraldas,Esmeraldas",-79.65,Esmeraldas,4.0 - 4.9,0
+452,5.3,1,5.1," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,5.0 - 5.9,0
+457,7.8,1.08,3.4," Atacames,Esmeraldas",-79.92,Near Coast of Ecuador,3.0 - 3.9,0
+458,6.1,1.14,3.6," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9,0
+462,11.2,0.93,3.5," Esmeraldas,Esmeraldas",-79.74,Esmeraldas,3.0 - 3.9,0
+463,4.5,1.02,4.2," Atacames,Esmeraldas",-79.88,Near Coast of Ecuador,4.0 - 4.9,0
+470,7.3,0.99,3.5," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,3.0 - 3.9,0
+472,6.3,1.07,3.2," Atacames,Esmeraldas",-79.98,Near Coast of Ecuador,3.0 - 3.9,0
+475,9.2,0.88,3.2," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9,0
+476,12,0.82,2.9," Atacames,Esmeraldas",-79.82,Esmeraldas,1.0 - 3.0,0
+481,5.7,0.86,3.2," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,3.0 - 3.9,0
+482,6.4,0.93,5.8," Atacames,Esmeraldas",-79.84,Near Coast of Ecuador,5.0 - 5.9,0
+484,9,0.98,3.3," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9,0
+485,9.7,0.95,3.3," Atacames,Esmeraldas",-79.9,Near Coast of Ecuador,3.0 - 3.9,0
+488,0.4,0.68,3.6," Atacames,Esmeraldas",-79.74,Near Coast of Ecuador,3.0 - 3.9,0
+489,2.9,0.65,5.2," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,5.0 - 5.9,0
+492,10.4,1,2.8," Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,1.0 - 3.0,0
+503,4,1,3.7," Esmeraldas,Esmeraldas",-79.26,Esmeraldas,3.0 - 3.9,0
+506,9.1,0.74,5.7," Atacames,Esmeraldas",-79.77,Near Coast of Ecuador,5.0 - 5.9,0
+522,18.6,0.48,4.7," Muisne,Esmeraldas",-79.92,Near Coast of Ecuador,4.0 - 4.9,0
+523,11.2,0.43,5," Muisne,Esmeraldas",-79.91,Near Coast of Ecuador,5.0 - 5.9,0
+527,5,0.96,5.1," Atacames,Esmeraldas",-79.85,Near Coast of Ecuador,5.0 - 5.9,0
+528,4.7,0.96,5.1," Atacames,Esmeraldas",-79.82,Near Coast of Ecuador,5.0 - 5.9,0
+543,3,0.6,3.6," Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9,0
+552,9.2,0.87,3.6," Atacames,Esmeraldas",-79.76,Esmeraldas,3.0 - 3.9,0
+558,10.8,0.73,3.6," Esmeraldas,Esmeraldas",-79.63,Near Coast of Ecuador,3.0 - 3.9,0
+560,6.7,0.65,3.9," Muisne,Esmeraldas",-80.05,Esmeraldas,3.0 - 3.9,0
+562,8.7,0.63,4," Muisne,Esmeraldas",-80.15,Near Coast of Ecuador,4.0 - 4.9,0
+576,12.2,0.9,3.1," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9,0
+577,5.2,0.18,3.8," Pedernales,Manabi",-80.09,Near Coast of Ecuador,3.0 - 3.9,0
+582,10,0.95,3.2," Esmeraldas,Esmeraldas",-79.53,Near Coast of Ecuador,3.0 - 3.9,0
+588,10,1.02,3.2," Esmeraldas,Esmeraldas",-79.51,Esmeraldas,3.0 - 3.9,0
+599,9.5,1.36,3.8," Esmeraldas,Esmeraldas",-79.61,Near Coast of Ecuador,3.0 - 3.9,0
+604,5.1,0.95,4.1," Esmeraldas,Esmeraldas",-79.49,Near Coast of Ecuador,4.0 - 4.9,0
+605,4.3,0.92,3.8," Esmeraldas,Esmeraldas",-79.47,Near Coast of Ecuador,3.0 - 3.9,0
+606,10,0.78,3.5," San Lorenzo,Esmeraldas",-78.97,Esmeraldas,3.0 - 3.9,0
+608,3.9,0.88,3.4," Esmeraldas,Esmeraldas",-79.72,Esmeraldas,3.0 - 3.9,0
+616,1.9,0.92,3.4," Esmeraldas,Esmeraldas",-79.44,Near Coast of Ecuador,3.0 - 3.9,0
+625,3.1,1.38,3.7," San Lorenzo,Esmeraldas",-79.27,Near Coast of Ecuador,3.0 - 3.9,0
+628,10,0.62,3.7," Muisne,Esmeraldas",-80.25,Near Coast of Ecuador,3.0 - 3.9,0
+631,6.8,0.55,3.5," Muisne,Esmeraldas",-79.95,Near Coast of Ecuador,3.0 - 3.9,0
+633,31.1,0.57,4.1," Quininde,Esmeraldas",-79.21,Esmeraldas,4.0 - 4.9,0
+636,8.1,0.25,4.2," Pedernales,Manabi",-80.01,Manabi,4.0 - 4.9,0
+637,14.4,0.88,3.7," Atacames,Esmeraldas",-79.77,Esmeraldas,3.0 - 3.9,0
+658,28.3,1.18,3.5," San Lorenzo,Esmeraldas",-78.84,Esmeraldas,3.0 - 3.9,0
+659,5.8,0.61,3.9," Muisne,Esmeraldas",-80.09,Near Coast of Ecuador,3.0 - 3.9,0
+662,5.8,0.61,3.6," Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9,0
+672,5.8,0.63,3.9," Muisne,Esmeraldas",-80.06,Near Coast of Ecuador,3.0 - 3.9,0
+674,5.7,0.93,4," Esmeraldas,Esmeraldas",-79.7,Esmeraldas,4.0 - 4.9,0
+675,2.4,0.67,3.6," Muisne,Esmeraldas",-80.12,Near Coast of Ecuador,3.0 - 3.9,0
+718,4.2,1.26,3.3," Esmeraldas,Esmeraldas",-79.7,Near Coast of Ecuador,3.0 - 3.9,0
+723,6.1,1.06,3.1," Atacames,Esmeraldas",-79.94,Near Coast of Ecuador,3.0 - 3.9,0
+725,74.6,1.34,4.1," San Lorenzo,Esmeraldas",-78.74,Esmeraldas,4.0 - 4.9,0
+727,26.8,1.02,2.9," Esmeraldas,Esmeraldas",-79.51,Near Coast of Ecuador,1.0 - 3.0,0
+728,8,0.76,5.5," Atacames,Esmeraldas",-79.75,Esmeraldas,5.0 - 5.9,0
+729,29.4,1.25,3.9," Esmeraldas,Esmeraldas",-79.65,Near Coast of Ecuador,3.0 - 3.9,0
+734,4.5,0.58,4.3," Muisne,Esmeraldas",-80.17,Near Coast of Ecuador,4.0 - 4.9,0
+735,9.2,0.59,3.7," Muisne,Esmeraldas",-80.27,Near Coast of Ecuador,3.0 - 3.9,0
+736,11.4,0.61,3.6," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,3.0 - 3.9,0
+740,12.1,1.03,3," Atacames,Esmeraldas",-79.95,Near Coast of Ecuador,1.0 - 3.0,0
+742,8,0.6,3.5," Muisne,Esmeraldas",-80.11,Near Coast of Ecuador,3.0 - 3.9,0
+743,10,1.16,3.2," Esmeraldas,Esmeraldas",-79.5,Near Coast of Ecuador,3.0 - 3.9,0
+749,10,1.24,3.7," Esmeraldas,Esmeraldas",-79.34,Near Coast of Ecuador,3.0 - 3.9,0
+753,15.6,1.06,4.5," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,4.0 - 4.9,0
+756,7.4,1.24,3.6," Esmeraldas,Esmeraldas",-79.81,Near Coast of Ecuador,3.0 - 3.9,0
+779,9.9,0.32,3.6," Pedernales,Manabi",-79.95,Esmeraldas,3.0 - 3.9,0
+808,6.9,1.15,5," Esmeraldas,Esmeraldas",-79.68,Near Coast of Ecuador,5.0 - 5.9,0
+822,7.5,0.62,4.5," Muisne,Esmeraldas",-80.08,Near Coast of Ecuador,4.0 - 4.9,0
+824,7.2,0.6,4.5," Muisne,Esmeraldas",-80.13,Near Coast of Ecuador,4.0 - 4.9,0
+830,5.9,0.62,3.3," Muisne,Esmeraldas",-79.96,Esmeraldas,3.0 - 3.9,0
+845,6.2,0.72,3.9,"Muisne,Esmeraldas",-80.1,Near Coast of Ecuador,3.0 - 3.9,0
+875,0.7,1.28,4.1,"Atacames,Esmeraldas",-79.99,Near Coast of Ecuador,4.0 - 4.9,0
+901,17.5,0.78,3.9,"Atacames,Esmeraldas",-79.78,Esmeraldas,3.0 - 3.9,0
+902,9.9,1.18,3.9,"Esmeraldas,Esmeraldas",-79.75,Near Coast of Ecuador,3.0 - 3.9,0
+912,7.4,0.77,3.7,"Atacames,Esmeraldas",-79.68,Esmeraldas,3.0 - 3.9,0
+933,47.3,0.74,3.7,"Esmeraldas,Esmeraldas",-79.28,Esmeraldas,3.0 - 3.9,0
+987,6.6,0.4,3.7,"Muisne,Esmeraldas",-79.88,Esmeraldas,3.0 - 3.9,0
+1012,3.3,0.58,4,"Cotacachi,Imbabura",-78.67,Esmeraldas,4.0 - 4.9,0
+1013,3.4,0.6,5.4,"Cotacachi,Imbabura",-78.69,Esmeraldas,5.0 - 5.9,0
+1016,6.9,0.57,3.5,"Muisne,Esmeraldas",-80.07,Near Coast of Ecuador,3.0 - 3.9,0
+1026,5.7,0.37,3.7,"Muisne,Esmeraldas",-79.9,Esmeraldas,3.0 - 3.9,0
+1093,6.70734119,0.61,3.60388613,nas,-80.26,Esmeraldas,3.0 - 3.9,0
+1112,5,1.5,4.44176992,nas,-80.34,Near Coast of Ecuador,4.0 - 4.9,0
+1114,0.37837979,0.56,3.71092678,nas,-80.07,Near Coast of Ecuador,3.0 - 3.9,0
+1152,81.95046997,0.53,3.68181421,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9,0
+1159,10.19757748,0.52,3.58350247,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9,0
+1163,3.83179736,0.65,3.77294261,nas,-79.93,Esmeraldas,3.0 - 3.9,0
+1164,3.02279782,0.63,4.43355922,nas,-80.14,Esmeraldas,4.0 - 4.9,0
+1190,10,0.72,3.96307734,nas,-80.07,Near Coast of Ecuador,4.0 - 4.9,0
+1191,1.20603359,0.62,3.70932543,nas,-80.26,Esmeraldas,3.0 - 3.9,0
+1192,8.87561703,0.59,3.86637609,nas,-80.08,Esmeraldas,3.0 - 3.9,0
+1206,3.73651099,0.65,4.22994652,nas,-79.91,Esmeraldas,4.0 - 4.9,0
+1207,2.82110405,0.7,4.40797731,nas,-80.05,Near Coast of Ecuador,4.0 - 4.9,0
+1208,7.62729025,0.67,4.01453859,nas,-80.13,Near Coast of Ecuador,4.0 - 4.9,0
+1211,5.13772821,0.63,4.04764789,nas,-80.08,Esmeraldas,4.0 - 4.9,0
+1212,3.4020226,0.88,4.02627592,nas,-80.13,Near Coast of Ecuador,4.0 - 4.9,0
+1219,10,0.7,4.82055203,nas,-80.14,Near Coast of Ecuador,4.0 - 4.9,0
+1242,10,0.64,4.75896385,nas,-79.77,Esmeraldas,4.0 - 4.9,0
+1244,5.22247982,0.55,4.30376757,nas,-80.04,Esmeraldas,4.0 - 4.9,0
+1245,4.79098177,0.6,4.46563419,nas,-79.94,Esmeraldas,4.0 - 4.9,0
+1246,7.16021967,0.51,4.43050365,nas,-79.95,Esmeraldas,4.0 - 4.9,0
+1247,12.21029568,0.65,4.70935278,nas,-79.96,Near Coast of Ecuador,4.0 - 4.9,0
+1249,11.42803764,0.68,3.53297143,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9,0
+1251,8.34227753,0.72,4.21636204,nas,-80.16,Near Coast of Ecuador,4.0 - 4.9,0
+1255,1.50701988,0.62,3.8862522,nas,-80.22,Esmeraldas,3.0 - 3.9,0
+1256,3.5,0.88,3.842759,nas,-80.05,Near Coast of Ecuador,3.0 - 3.9,0
+1265,3,0.4,4.00648323,nas,-80.11,Near Coast of Ecuador,4.0 - 4.9,0
+1272,12.35495758,0.72,3.93055251,nas,-80.1,Near Coast of Ecuador,4.0 - 4.9,0
+1285,7.98966026,0.46,4.49184222,nas,-80.12,Near Coast of Ecuador,4.0 - 4.9,0
+1361,6.76248932,0.54,3.62322058,nas,-80.05,Esmeraldas,3.0 - 3.9,0
+1362,5.34292221,0.6,4.22716635,nas,-80,Near Coast of Ecuador,4.0 - 4.9,0
+7,7.3,-0.12,3.7," Jama,Manabi",-80.37,Near Coast of Ecuador,3.0 - 3.9,0
+8,10,-0.21,3.6," Jama,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9,0
+9,10,-0.07,3.7," Jama,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9,0
+10,2.7,-0.1,4.2," Jama,Manabi",-80.73,Near Coast of Ecuador,4.0 - 4.9,0
+11,3.2,-0.09,3.8," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+12,10,-0.13,4.1," Jama,Manabi",-80.79,Near Coast of Ecuador,4.0 - 4.9,0
+13,12,-0.19,3.1," Jama,Manabi",-80.36,Near Coast of Ecuador,3.0 - 3.9,0
+26,9.2,-0.04,3.2," Jama,Manabi",-80.52,Near Coast of Ecuador,3.0 - 3.9,0
+30,7.7,-0.25,3.9," Jama,Manabi",-80.51,Near Coast of Ecuador,3.0 - 3.9,0
+46,2.8,0.69,3.8," Muisne,Esmeraldas",-80.57,Near Coast of Ecuador,3.0 - 3.9,0
+50,10,-0.18,3.7," Bahia de Caraquez,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9,0
+53,11.1,0.87,3.6," Muisne,Esmeraldas",-80.25,Near Coast of Ecuador,3.0 - 3.9,0
+55,4.7,0.66,5," Muisne,Esmeraldas",-80.69,Near Coast of Ecuador,5.0 - 5.9,0
+56,10,0.77,4," Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,4.0 - 4.9,0
+61,8.7,-0.03,3.4," Jama,Manabi",-80.29,Near Coast of Ecuador,3.0 - 3.9,0
+64,10,-0.06,4," Jama,Manabi",-80.53,Near Coast of Ecuador,4.0 - 4.9,0
+65,5.7,-0.29,3.5," Jama,Manabi",-80.49,Near Coast of Ecuador,3.0 - 3.9,0
+74,10,0.23,3.6," Pedernales,Manabi",-80.35,Near Coast of Ecuador,3.0 - 3.9,0
+80,3.7,0.63,3.9," Muisne,Esmeraldas",-80.5,Near Coast of Ecuador,3.0 - 3.9,0
+86,1.7,-0.21,3.4," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9,0
+87,4.7,-0.12,3.6," Jama,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+95,7.3,-0.23,3.4," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9,0
+97,9.7,0.91,3.2," Muisne,Esmeraldas",-80.46,Near Coast of Ecuador,3.0 - 3.9,0
+98,9.5,0.3,3.7," Pedernales,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+99,4.3,0.96,3.6," Muisne,Esmeraldas",-80.43,Near Coast of Ecuador,3.0 - 3.9,0
+105,10,0.36,3.6," Jama,Manabi",-80.88,Near Coast of Ecuador,3.0 - 3.9,0
+106,10,0.35,4.3," Jama,Manabi",-80.78,Near Coast of Ecuador,4.0 - 4.9,0
+107,16.6,-0.35,3.6," El Carmen,Manabi",-79.66,Manabi,3.0 - 3.9,0
+109,7.3,0.21,3.4," Pedernales,Manabi",-80.21,Near Coast of Ecuador,3.0 - 3.9,0
+112,10,0.53,3.5," Muisne,Esmeraldas",-80.79,Near Coast of Ecuador,3.0 - 3.9,0
+113,4,0.39,4.2," Muisne,Esmeraldas",-80.4,Near Coast of Ecuador,4.0 - 4.9,0
+116,10,0.32,3.4," Pedernales,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9,0
+117,5.3,0.3,3.5," Pedernales,Manabi",-80.09,Near Coast of Ecuador,3.0 - 3.9,0
+125,7.9,-0.17,3.8," Jama,Manabi",-80.48,Near Coast of Ecuador,3.0 - 3.9,0
+127,10,-0.19,3.3," Jama,Manabi",-80.61,Near Coast of Ecuador,3.0 - 3.9,0
+129,10,0.32,3.5," Pedernales,Manabi",-80.63,Near Coast of Ecuador,3.0 - 3.9,0
+133,3.9,-0.14,3.5," Jama,Manabi",-80.45,Near Coast of Ecuador,3.0 - 3.9,0
+135,10,0.37,3.5," Jama,Manabi",-80.84,Near Coast of Ecuador,3.0 - 3.9,0
+136,10,0.33,4.2," Jama,Manabi",-80.77,Near Coast of Ecuador,4.0 - 4.9,0
+137,18.6,0.27,3.9," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9,0
+139,9.5,-0.16,3.6," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9,0
+141,2.2,-0.16,3.2," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9,0
+142,5,-0.23,3.2," Jama,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9,0
+151,2.1,-0.27,3.8," Jama,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9,0
+153,5,-0.53,3.5," Bahia de Caraquez,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9,0
+201,10,-0.65,4.2," Manta,Manabi",-80.95,Near Coast of Ecuador,4.0 - 4.9,0
+203,5.2,-0.11,3.4," Jama,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9,0
+209,10.3,-0.11,3.2," Jama,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+210,9.4,0.75,3.2," Muisne,Esmeraldas",-80.26,Near Coast of Ecuador,3.0 - 3.9,0
+211,5.1,-0.17,4.5," Bahia de Caraquez,Manabi",-80.98,Near Coast of Ecuador,4.0 - 4.9,0
+212,3.7,-0.18,4.6," Bahia de Caraquez,Manabi",-80.98,Near Coast of Ecuador,4.0 - 4.9,0
+213,5,-0.12,3.3," Jama,Manabi",-80.73,Near Coast of Ecuador,3.0 - 3.9,0
+215,12.7,-0.09,3.5," Jama,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9,0
+216,7.9,-0.09,3.6," Jama,Manabi",-80.26,Near Coast of Ecuador,3.0 - 3.9,0
+217,2.1,-0.1,3.6," Jama,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9,0
+219,19.8,-0.3,3," Flavio Alfaro,Manabi",-80.03,Manabi,1.0 - 3.0,0
+221,2.9,-0.18,3.7," Jama,Manabi",-80.81,Near Coast of Ecuador,3.0 - 3.9,0
+226,7.3,-0.03,3.7," Jama,Manabi",-80.21,Near Coast of Ecuador,3.0 - 3.9,0
+229,10.1,0.34,4.5," Pedernales,Manabi",-80.25,Near Coast of Ecuador,4.0 - 4.9,0
+232,2.3,0.38,3.7," Muisne,Esmeraldas",-80.43,Near Coast of Ecuador,3.0 - 3.9,0
+243,9.2,-0.04,3.1," Jama,Manabi",-80.29,Near Coast of Ecuador,3.0 - 3.9,0
+244,8.4,0.76,3.5," Muisne,Esmeraldas",-80.45,Near Coast of Ecuador,3.0 - 3.9,0
+245,20.5,0.77,3.4," Muisne,Esmeraldas",-80.23,Near Coast of Ecuador,3.0 - 3.9,0
+246,9.6,0.72,3.3," Muisne,Esmeraldas",-80.37,Near Coast of Ecuador,3.0 - 3.9,0
+247,2.8,0.81,3.3," Muisne,Esmeraldas",-80.41,Near Coast of Ecuador,3.0 - 3.9,0
+248,5.9,-0.01,3.3," Jama,Manabi",-80.23,Near Coast of Ecuador,3.0 - 3.9,0
+249,4.4,-0.33,3.3," Jama,Manabi",-80.41,Manabi,3.0 - 3.9,0
+250,8.5,-0.21,3.5," Jama,Manabi",-80.54,Near Coast of Ecuador,3.0 - 3.9,0
+251,7.4,0.09,3.4," Pedernales,Manabi",-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+252,27,0.03,3," Pedernales,Manabi",-80.14,Near Coast of Ecuador,1.0 - 3.0,0
+254,8.6,0.4,3.3," Jama,Manabi",-80.81,Near Coast of Ecuador,3.0 - 3.9,0
+255,26.3,-0.3,3.8," Flavio Alfaro,Manabi",-79.7,Manabi,3.0 - 3.9,0
+256,6.4,0.38,3.4," Muisne,Esmeraldas",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+257,10.5,0.34,3.1," Pedernales,Manabi",-80.24,Near Coast of Ecuador,3.0 - 3.9,0
+258,13.1,-0.39,4.2," Jama,Manabi",-80.32,Manabi,4.0 - 4.9,0
+259,5,0.4,3.2," Muisne,Esmeraldas",-80.41,Near Coast of Ecuador,3.0 - 3.9,0
+260,10.4,0.41,3.1," Muisne,Esmeraldas",-80.61,Near Coast of Ecuador,3.0 - 3.9,0
+265,11.9,-0.02,4.3," Jama,Manabi",-80.27,Near Coast of Ecuador,4.0 - 4.9,0
+268,5,-0.11,3.5," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+269,5.6,-0.14,3.5," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+270,10,-0.22,4.3," Jama,Manabi",-80.65,Near Coast of Ecuador,4.0 - 4.9,0
+273,4.6,0.3,3.5," Pedernales,Manabi",-80.6,Near Coast of Ecuador,3.0 - 3.9,0
+295,10,-0.18,3.7," Jama,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+296,10,-0.17,4.1," Jama,Manabi",-80.77,Near Coast of Ecuador,4.0 - 4.9,0
+303,5.9,0.72,3.7," Muisne,Esmeraldas",-80.23,Near Coast of Ecuador,3.0 - 3.9,0
+317,10,-0.46,3.9," Bahia de Caraquez,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9,0
+324,9.9,0.71,3.6," Muisne,Esmeraldas",-80.31,Near Coast of Ecuador,3.0 - 3.9,0
+325,8.4,0.68,3.5," Muisne,Esmeraldas",-80.29,Near Coast of Ecuador,3.0 - 3.9,0
+332,6.4,0.66,3.7," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9,0
+333,11.4,0.47,3.3," Muisne,Esmeraldas",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+334,11.9,-0.16,3.6," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+335,9,0.37,3.5," Jama,Manabi",-80.82,Near Coast of Ecuador,3.0 - 3.9,0
+338,14,0.34,5.3," Pedernales,Manabi",-80.63,Near Coast of Ecuador,5.0 - 5.9,0
+339,12.3,0.41,4," Muisne,Esmeraldas",-80.64,Near Coast of Ecuador,4.0 - 4.9,0
+340,7,0.32,3.6," Pedernales,Manabi",-80.59,Near Coast of Ecuador,3.0 - 3.9,0
+341,11.4,0.28,4.8," Jama,Manabi",-80.61,Near Coast of Ecuador,4.0 - 4.9,0
+342,19.5,0.44,3.7," Muisne,Esmeraldas",-80.75,Near Coast of Ecuador,3.0 - 3.9,0
+352,10.7,-0.26,3.8," Jama,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9,0
+356,6.9,0.33,4.1," Pedernales,Manabi",-80.26,Near Coast of Ecuador,4.0 - 4.9,0
+367,8.9,-0.07,3.6," Jama,Manabi",-80.27,Near Coast of Ecuador,3.0 - 3.9,0
+368,2.1,0.49,3.9," Muisne,Esmeraldas",-80.87,Near Coast of Ecuador,3.0 - 3.9,0
+372,2.7,-0.59,3.6," Manta,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+384,6,0.27,3.9," Pedernales,Manabi",-80.26,Near Coast of Ecuador,3.0 - 3.9,0
+393,4.9,-0.18,4.5," Jama,Manabi",-80.64,Near Coast of Ecuador,4.0 - 4.9,0
+394,2.2,-0.17,3.7," Jama,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9,0
+426,5.7,-0.09,3.7," Jama,Manabi",-80.49,Near Coast of Ecuador,3.0 - 3.9,0
+455,4.4,-0.15,3.5," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+459,9.2,0.18,3.6," Quininde,Esmeraldas",-79.61,Esmeraldas,3.0 - 3.9,0
+460,1.1,-0.15,3.7," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9,0
+461,2.1,-0.12,3.8," Jama,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9,0
+473,10,0.45,3.8," Muisne,Esmeraldas",-80.85,Near Coast of Ecuador,3.0 - 3.9,0
+478,12,-0.22,3.5," Bahia de Caraquez,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9,0
+519,7.6,0.14,3.6," Pedernales,Manabi",-80.25,Near Coast of Ecuador,3.0 - 3.9,0
+529,7,-0.07,5.3," Jama,Manabi",-80.88,Near Coast of Ecuador,5.0 - 5.9,0
+546,4.7,-0.14,3.8," Jama,Manabi",-80.56,Near Coast of Ecuador,3.0 - 3.9,0
+547,4.8,-0.11,3.8," Jama,Manabi",-80.52,Near Coast of Ecuador,3.0 - 3.9,0
+548,7,-0.17,3.6," Jama,Manabi",-80.63,Near Coast of Ecuador,3.0 - 3.9,0
+553,4.1,-0.5,4.2," Bahia de Caraquez,Manabi",-80.84,Near Coast of Ecuador,4.0 - 4.9,0
+559,4.3,0.27,3.8," Jama,Manabi",-80.73,Near Coast of Ecuador,3.0 - 3.9,0
+574,7.9,0.69,3.5," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9,0
+581,9.2,-0.14,3.8," Jama,Manabi",-80.42,Near Coast of Ecuador,3.0 - 3.9,0
+613,10,-0.22,3.9," Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9,0
+614,10,-0.16,4.1," Jama,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9,0
+615,10,-0.22,3.6," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+624,7,0.67,3.7," Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,3.0 - 3.9,0
+629,6.5,0.31,3.5," Pedernales,Manabi",-80.19,Near Coast of Ecuador,3.0 - 3.9,0
+641,4.9,0.48,3.9," Muisne,Esmeraldas",-80.65,Near Coast of Ecuador,3.0 - 3.9,0
+668,10.9,-0.33,3.6," Jama,Manabi",-80.44,Near Coast of Ecuador,3.0 - 3.9,0
+676,6.5,0.13,4.1," Pedernales,Manabi",-80.36,Near Coast of Ecuador,4.0 - 4.9,0
+678,8,-0.18,4.9," Jama,Manabi",-80.84,Near Coast of Ecuador,4.0 - 4.9,0
+680,9,-0.15,6.3," Jama,Manabi",-80.85,Near Coast of Ecuador,6.0 - 6.9,0
+682,1.1,-0.12,4.5," Jama,Manabi",-80.75,Near Coast of Ecuador,4.0 - 4.9,0
+684,10.4,0.02,3.7," Jama,Manabi",-80.42,Near Coast of Ecuador,3.0 - 3.9,0
+685,8.2,0.47,4.4," Muisne,Esmeraldas",-80.64,Near Coast of Ecuador,4.0 - 4.9,0
+687,9.9,0.35,4," Pedernales,Manabi",-80.23,Near Coast of Ecuador,4.0 - 4.9,0
+693,10,-0.02,3.8," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+698,20.4,0.38,3.6," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+699,10,-0.06,3.6," Jama,Manabi",-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+700,2.2,-0.19,3.7," Jama,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9,0
+701,10.5,-0.13,4.5," Jama,Manabi",-81,Near Coast of Ecuador,4.0 - 4.9,0
+708,6.6,-0.24,4.3," Jama,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9,0
+714,1.9,-0.24,3.6," Jama,Manabi",-80.77,Near Coast of Ecuador,3.0 - 3.9,0
+730,5,0.3,4.4," Pedernales,Manabi",-80.09,Near Coast of Ecuador,4.0 - 4.9,0
+732,9,0.73,3.8," Muisne,Esmeraldas",-80.28,Near Coast of Ecuador,3.0 - 3.9,0
+733,10.2,0.73,4.4," Muisne,Esmeraldas",-80.29,Near Coast of Ecuador,4.0 - 4.9,0
+738,21.5,-0.14,3.7," Jama,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9,0
+739,7.7,-0.13,4.2," Jama,Manabi",-80.72,Near Coast of Ecuador,4.0 - 4.9,0
+741,9.7,-0.1,3.7," Jama,Manabi",-80.82,Near Coast of Ecuador,3.0 - 3.9,0
+745,10,-0.13,3.5," Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+754,2.2,-0.17,3.7," Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+768,4.2,-0.27,4," Bahia de Caraquez,Manabi",-80.8,Near Coast of Ecuador,4.0 - 4.9,0
+769,7,-0.08,4," Jama,Manabi",-80.78,Near Coast of Ecuador,4.0 - 4.9,0
+813,24,0.02,4.2," Pedernales,Manabi",-80.09,Manabi,4.0 - 4.9,0
+843,9,0.76,5,"Muisne,Esmeraldas",-80.2,Near Coast of Ecuador,5.0 - 5.9,0
+844,11.8,0.82,4.3,"Muisne,Esmeraldas",-80.24,Near Coast of Ecuador,4.0 - 4.9,0
+899,5.7,0.05,3.8,"Pedernales,Manabi",-80.27,Near Coast of Ecuador,3.0 - 3.9,0
+906,9.7,-0.15,3.5,"Jama,Manabi",-80.71,Near Coast of Ecuador,3.0 - 3.9,0
+944,9.5,0.4,4.1,"Muisne,Esmeraldas",-80.53,Near Coast of Ecuador,4.0 - 4.9,0
+952,6.7,-0.55,4.9,"Bahia de Caraquez,Manabi",-80.79,Near Coast of Ecuador,4.0 - 4.9,0
+971,6.3,-0.22,4.3,"Jama,Manabi",-80.64,Near Coast of Ecuador,4.0 - 4.9,0
+972,5.3,-0.19,3.8,"Jama,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+974,4.8,-0.18,4.9,"Jama,Manabi",-80.66,Near Coast of Ecuador,4.0 - 4.9,0
+975,7.2,-0.16,3.8,"Jama,Manabi",-80.76,Near Coast of Ecuador,3.0 - 3.9,0
+1004,4.9,0.31,4.3,"Jama,Manabi",-80.94,Near Coast of Ecuador,4.0 - 4.9,0
+1005,7,0.35,3.8,"Jama,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+1009,10,0.22,3.5,"Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9,0
+1010,4.7,0.23,3.7,"Jama,Manabi",-80.67,Near Coast of Ecuador,3.0 - 3.9,0
+1011,4.2,0.28,3.6,"Jama,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9,0
+1038,22.30558268,0.31,5.45892053,"Muisne,Esmeraldas",-80.13,Manabi,5.0 - 5.9,0
+1039,5.42705679,-0.05,4.16999697,"Pedernales,Manabi",-80.12,Manabi,4.0 - 4.9,0
+1040,4.41175747,0.04,5.11840116,"Pedernales,Manabi",-80.23,Near Coast of Ecuador,5.0 - 5.9,0
+1041,7.71502304,-0.01,3.96445033,"Pedernales,Manabi",-80.33,Near Coast of Ecuador,4.0 - 4.9,0
+1042,6.98301315,-0.21,5.65732497,"Jama,Manabi",-80.33,Near Coast of Ecuador,5.0 - 5.9,0
+1043,4.88319683,0.02,3.86749598,"Pedernales,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+1044,7.60070229,0.33,4.36973914,nas,-80.36,Near Coast of Ecuador,4.0 - 4.9,0
+1045,8.37731361,-0.06,4.08480203,nas,-80.48,Manabi,4.0 - 4.9,0
+1046,5.9694066,0.32,4.66275559,nas,-80.2,Near Coast of Ecuador,4.0 - 4.9,0
+1047,6.83753872,-0.14,3.96008942,nas,-80.22,Near Coast of Ecuador,4.0 - 4.9,0
+1049,9.47252464,-0.14,4.69100314,nas,-80.79,Manabi,4.0 - 4.9,0
+1050,6.47819376,0.24,3.79593305,nas,-80.3,Manabi,3.0 - 3.9,0
+1051,6.28111315,-0.09,3.91763404,nas,-80.04,Manabi,4.0 - 4.9,0
+1052,7.21911192,0.05,3.89591797,nas,-80.41,Manabi,3.0 - 3.9,0
+1053,6.77529287,-0.03,3.84301303,nas,-80.14,Near Coast of Ecuador,3.0 - 3.9,0
+1054,10,-0.18,3.76331638,nas,-80.33,Near Coast of Ecuador,3.0 - 3.9,0
+1055,10.50400829,-0.25,3.66360382,nas,-80.68,Manabi,3.0 - 3.9,0
+1056,5,0.47,4.20496853,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9,0
+1057,11.68936729,-0.07,3.64392804,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9,0
+1058,5,-0.1,3.55503173,nas,-80.49,Manabi,3.0 - 3.9,0
+1059,2.30457234,-0.35,3.54014946,nas,-80.44,Near Coast of Ecuador,3.0 - 3.9,0
+1060,10.56093884,0.24,3.59103147,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9,0
+1061,1.04479206,-0.03,3.83296033,nas,-80.31,Near Coast of Ecuador,3.0 - 3.9,0
+1062,8.55240536,-0.26,5.17477391,nas,-80.89,Near Coast of Ecuador,5.0 - 5.9,0
+1063,5.74467754,-0.11,3.86445784,nas,-80.87,Near Coast of Ecuador,3.0 - 3.9,0
+1064,6.76925278,0.29,4.11289073,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9,0
+1065,10,-0.13,3.94667929,nas,-80.43,Near Coast of Ecuador,4.0 - 4.9,0
+1066,10,0.08,3.6880366,nas,-81.09,Esmeraldas,3.0 - 3.9,0
+1067,10,0.01,3.95677404,nas,-79.58,Near Coast of Ecuador,4.0 - 4.9,0
+1068,8.6162777,-0.29,4.27948816,nas,-80.38,Near Coast of Ecuador,4.0 - 4.9,0
+1069,4.07835579,-0.14,5.63029967,nas,-80.48,Near Coast of Ecuador,5.0 - 5.9,0
+1070,9.60111809,0.28,4.23583164,nas,-80.73,Manabi,4.0 - 4.9,0
+1071,10,0.02,4.33037873,nas,-80.16,Near Coast of Ecuador,4.0 - 4.9,0
+1072,8.74760437,0.38,3.60920129,nas,-80.25,Esmeraldas,3.0 - 3.9,0
+1074,4.34064102,-0.17,4.30955423,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9,0
+1075,10,-0.17,4.14127193,nas,-80.73,Near Coast of Ecuador,4.0 - 4.9,0
+1076,7.50820112,0.68,5.04260799,nas,-80.76,Esmeraldas,5.0 - 5.9,0
+1079,7.94914007,0.03,4.018763,nas,-80.56,Near Coast of Ecuador,4.0 - 4.9,0
+1080,2.2352736,0.07,3.94117516,nas,-80.81,Near Coast of Ecuador,4.0 - 4.9,0
+1081,10,-0.26,4.38669767,nas,-80.97,Near Coast of Ecuador,4.0 - 4.9,0
+1082,3.03110766,-0.47,3.5993031,nas,-81.04,Manabi,3.0 - 3.9,0
+1083,10,-0.05,4.30113185,nas,-80.41,Near Coast of Ecuador,4.0 - 4.9,0
+1084,8.35934734,0.37,5.08396486,nas,-80.85,Near Coast of Ecuador,5.0 - 5.9,0
+1085,9.22354412,-0.03,4.27505501,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9,0
+1086,6.73099136,0.39,3.96325157,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9,0
+1087,9.60727119,-0.25,3.60040634,nas,-80.53,Near Coast of Ecuador,3.0 - 3.9,0
+1088,10,-0.12,4.75226476,nas,-80.53,Near Coast of Ecuador,4.0 - 4.9,0
+1089,6.39978886,0.54,4.15524449,nas,-80.87,Esmeraldas,4.0 - 4.9,0
+1090,8.43670845,-0.45,4.04246992,nas,-80.05,Manabi,4.0 - 4.9,0
+1091,5.35845661,-0.1,4.02964052,nas,-80.38,Manabi,4.0 - 4.9,0
+1094,9.35428715,-0.43,3.52620419,nas,-79.78,Manabi,3.0 - 3.9,0
+1095,5,0.02,3.5248609,nas,-79.64,Near Coast of Ecuador,3.0 - 3.9,0
+1096,12.42844296,0.29,3.53979873,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9,0
+1097,5.41064167,-0.15,4.09537129,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9,0
+1098,5.45933008,0.35,4.81797698,nas,-80.59,Near Coast of Ecuador,4.0 - 4.9,0
+1099,6.91969347,-0.22,3.91169544,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9,0
+1100,7.05759096,-0.14,4.40821407,nas,-80.7,Near Coast of Ecuador,4.0 - 4.9,0
+1101,11.27045441,-0.07,3.83005889,nas,-80.81,Near Coast of Ecuador,3.0 - 3.9,0
+1102,6.55678606,-0.03,3.71312172,nas,-80.37,Near Coast of Ecuador,3.0 - 3.9,0
+1103,6.49831104,-0.16,3.76418681,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9,0
+1104,3.49831605,-0.15,3.63660338,nas,-80.46,Manabi,3.0 - 3.9,0
+1105,9.37376213,-0.23,3.786524,nas,-80.35,Manabi,3.0 - 3.9,0
+1106,8.65192509,-0.3,3.8316757,nas,-80.33,Manabi,3.0 - 3.9,0
+1107,7.94252729,-0.4,6.07459352,nas,-80.17,Manabi,6.0 - 6.9,0
+1108,5.21173334,0.23,3.59209791,nas,-80.4,Esmeraldas,3.0 - 3.9,0
+1109,10,0.06,4.33355227,nas,-80,Near Coast of Ecuador,4.0 - 4.9,0
+1110,6.05619574,-0.02,3.5154273,nas,-80.94,Near Coast of Ecuador,3.0 - 3.9,0
+1111,6.70803785,-0.46,4.18034742,nas,-80.2,Manabi,4.0 - 4.9,0
+1113,5,0.65,3.76653576,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9,0
+1115,5,-0.14,3.74746672,nas,-79.86,Manabi,3.0 - 3.9,0
+1116,6.48033762,-0.19,4.23452694,nas,-80.29,Near Coast of Ecuador,4.0 - 4.9,0
+1117,7.32667589,0.25,3.75906068,nas,-80.58,Manabi,3.0 - 3.9,0
+1118,10.90612793,-0.16,4.47807822,nas,-79.87,Near Coast of Ecuador,4.0 - 4.9,0
+1119,5.09526491,0.59,4.08907292,nas,-80.58,Esmeraldas,4.0 - 4.9,0
+1120,6.74551058,-0.12,5.67335769,nas,-80.13,Near Coast of Ecuador,5.0 - 5.9,0
+1121,15.01320744,-0.18,3.73539163,nas,-80.8,Manabi,3.0 - 3.9,0
+1122,13.46090794,-0.19,3.81475223,nas,-80.25,Manabi,3.0 - 3.9,0
+1123,5.9397006,0.39,4.83648113,nas,-80.37,Near Coast of Ecuador,4.0 - 4.9,0
+1125,3.09435201,0.32,4.4953674,nas,-80.83,Near Coast of Ecuador,4.0 - 4.9,0
+1126,8.32425594,-0.04,4.71708295,nas,-80.42,Near Coast of Ecuador,4.0 - 4.9,0
+1128,3.11169934,0.59,3.70138411,nas,-80.91,Esmeraldas,3.0 - 3.9,0
+1129,9.11882591,-0.25,5.087143,nas,-80.06,Manabi,5.0 - 5.9,0
+1130,7.88046551,-0.18,4.19281663,nas,-80.42,Manabi,4.0 - 4.9,0
+1131,10.29966354,0.07,3.8387701,nas,-80.26,Near Coast of Ecuador,3.0 - 3.9,0
+1132,1.14168298,-0.04,3.62357832,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9,0
+1133,6.2848525,-0.03,3.58128563,nas,-80.8,Manabi,3.0 - 3.9,0
+1135,8.87146854,-0.05,3.52235003,nas,-80.83,Manabi,3.0 - 3.9,0
+1136,6.57745791,-0.17,4.51982412,nas,-80.23,Manabi,4.0 - 4.9,0
+1138,9.35830879,0.62,3.5895338,nas,-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+1141,3.55224132,-0.45,3.50016838,nas,-80.96,Manabi,3.0 - 3.9,0
+1144,6,-0.27,3.87758572,nas,-80.79,Near Coast of Ecuador,3.0 - 3.9,0
+1145,6.19797182,0.02,3.71140794,nas,-81.04,Near Coast of Ecuador,3.0 - 3.9,0
+1146,16.42699814,-0.16,4.36916028,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9,0
+1147,10,0.67,3.58009784,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9,0
+1148,11.75938702,0.09,5.41735028,nas,-80.16,Near Coast of Ecuador,5.0 - 5.9,0
+1149,10,-0.01,3.84329234,nas,-80.73,Manabi,3.0 - 3.9,0
+1150,20.01446152,-0.32,3.77461602,nas,-80.1,Manabi,3.0 - 3.9,0
+1151,3.31151104,0.58,3.68414127,nas,-80.39,Esmeraldas,3.0 - 3.9,0
+1153,10,-0.23,3.91259916,nas,-80.58,Near Coast of Ecuador,4.0 - 4.9,0
+1154,13.21645069,-0.32,3.71587524,nas,-80.91,Manabi,3.0 - 3.9,0
+1155,10,-0.09,4.18809996,nas,-80.31,Near Coast of Ecuador,4.0 - 4.9,0
+1156,8,-0.14,4.3345067,nas,-80.77,Near Coast of Ecuador,4.0 - 4.9,0
+1157,7.38929749,0.37,3.79088798,nas,-80.56,Near Coast of Ecuador,3.0 - 3.9,0
+1158,6.2802577,0.49,3.64813208,nas,-80.45,Near Coast of Ecuador,3.0 - 3.9,0
+1160,15.91362572,-0.24,3.54891314,nas,-80.24,Near Coast of Ecuador,3.0 - 3.9,0
+1161,17.53755951,-0.34,4.75851089,nas,-80.87,Near Coast of Ecuador,4.0 - 4.9,0
+1162,6.21950388,0.46,3.6741141,nas,-80.97,Esmeraldas,3.0 - 3.9,0
+1168,7.33925676,0.57,3.89106628,nas,-81.09,Esmeraldas,3.0 - 3.9,0
+1170,10,0.66,3.85014535,nas,-81.15,Near Coast of Ecuador,3.0 - 3.9,0
+1171,10,0.68,3.6720494,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9,0
+1173,3.78792882,-0.29,4.00490848,nas,-81.29,Manabi,4.0 - 4.9,0
+1175,5.19297886,-0.27,3.77053147,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9,0
+1176,1.25557244,0.36,3.63115894,nas,-80.55,Near Coast of Ecuador,3.0 - 3.9,0
+1181,5,-0.04,3.74477983,nas,-81.03,Near Coast of Ecuador,3.0 - 3.9,0
+1182,10.00180054,-0.05,3.99681021,nas,-80.41,Near Coast of Ecuador,4.0 - 4.9,0
+1183,5.96408272,0.8,3.54967699,nas,-80.76,Near Coast of Ecuador,3.0 - 3.9,0
+1184,5,0.07,3.54623052,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9,0
+1185,9.11593437,0.43,3.60535913,nas,-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+1187,4.15263176,0.65,4.38815181,nas,-81.03,Esmeraldas,4.0 - 4.9,0
+1188,2.34895682,-0.14,3.7592219,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9,0
+1189,5.37418175,0.57,5.73213352,nas,-80.76,Esmeraldas,5.0 - 5.9,0
+1194,3.51527333,0.6,3.71627014,nas,-81.11,Esmeraldas,3.0 - 3.9,0
+1195,5.97694397,-0.01,3.97777055,nas,-79.99,Near Coast of Ecuador,4.0 - 4.9,0
+1196,7.51999855,-0.08,3.57637514,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+1197,7.42697239,0.05,3.89151847,nas,-80.85,Near Coast of Ecuador,3.0 - 3.9,0
+1199,7.52366638,-0.15,4.00312622,nas,-81.27,Near Coast of Ecuador,4.0 - 4.9,0
+1204,5.35462523,0.18,3.88567445,nas,-80.91,Near Coast of Ecuador,3.0 - 3.9,0
+1205,6.29936647,0.56,4.0921992,nas,-80.35,Esmeraldas,4.0 - 4.9,0
+1209,6.06570768,-0.11,4.77920843,nas,-80.25,Near Coast of Ecuador,4.0 - 4.9,0
+1210,4.86012077,0.64,3.89900948,nas,-80.48,Esmeraldas,3.0 - 3.9,0
+1213,10.69965649,-0.09,3.51986234,nas,-80.62,Manabi,3.0 - 3.9,0
+1215,10,-0.13,3.92113756,nas,-80.86,Near Coast of Ecuador,4.0 - 4.9,0
+1217,10,0.86,3.71862602,nas,-81.27,Near Coast of Ecuador,3.0 - 3.9,0
+1218,0.75335252,-0.33,3.52200355,nas,-80.54,Near Coast of Ecuador,3.0 - 3.9,0
+1220,10,-0.07,4.21610465,nas,-80.32,Near Coast of Ecuador,4.0 - 4.9,0
+1221,2.7307651,-0.14,4.8491206,nas,-80.96,Near Coast of Ecuador,4.0 - 4.9,0
+1225,5.98260975,0.79,3.5921912,nas,-81.07,Near Coast of Ecuador,3.0 - 3.9,0
+1226,5.09891558,0.53,3.8154909,nas,-80.43,Near Coast of Ecuador,3.0 - 3.9,0
+1228,3.99765539,0.53,5.39747179,nas,-81.2,Esmeraldas,5.0 - 5.9,0
+1229,4.63890982,-0.34,4.89325285,nas,-79.85,Near Coast of Ecuador,4.0 - 4.9,0
+1230,9.32917786,0.78,3.95212246,nas,-81.06,Near Coast of Ecuador,4.0 - 4.9,0
+1231,10,-0.4,3.64570216,nas,-80.2,Near Coast of Ecuador,3.0 - 3.9,0
+1233,10,-0.13,3.50152527,nas,-80.89,Near Coast of Ecuador,3.0 - 3.9,0
+1234,10,-0.02,3.87873925,nas,-81.14,Near Coast of Ecuador,3.0 - 3.9,0
+1237,10,-0.65,3.55375126,nas,-81.03,Near Coast of Ecuador,3.0 - 3.9,0
+1238,4.92011118,0.72,4.78122186,nas,-80.82,Near Coast of Ecuador,4.0 - 4.9,0
+1239,4.31011057,0.78,6.4307221,nas,-80.27,Near Coast of Ecuador,6.0 - 6.9,0
+1240,3.65850449,0.68,4.21431593,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9,0
+1241,5.09258747,0.51,4.42161586,nas,-80.26,Esmeraldas,4.0 - 4.9,0
+1243,10,0.3,4.42400356,nas,-80.14,Manabi,4.0 - 4.9,0
+1248,8.54414463,0.63,3.62573091,nas,-80.34,Esmeraldas,3.0 - 3.9,0
+1250,3.93473935,-0.02,4.37863333,nas,-80.36,Manabi,4.0 - 4.9,0
+1252,4.67590666,0.69,3.64987347,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9,0
+1253,17.36582375,0.69,3.60067716,nas,-80.28,Near Coast of Ecuador,3.0 - 3.9,0
+1254,10,0.76,3.5446066,nas,-80.21,Near Coast of Ecuador,3.0 - 3.9,0
+1257,3.71316409,-0.31,4.15207091,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9,0
+1258,10,0.7,3.8300755,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9,0
+1259,10,-0.16,4.5165711,nas,-80.15,Near Coast of Ecuador,4.0 - 4.9,0
+1260,7.04992199,-0.1,4.63648245,nas,-80.82,Manabi,4.0 - 4.9,0
+1261,2.98606038,0.88,3.88827541,nas,-80.3,Near Coast of Ecuador,3.0 - 3.9,0
+1262,8.20133591,-0.1,4.29917882,nas,-80.55,Near Coast of Ecuador,4.0 - 4.9,0
+1263,3.47591925,-0.06,4.54909498,nas,-80.92,Near Coast of Ecuador,4.0 - 4.9,0
+1264,9.30139637,0.09,3.58114143,nas,-80.99,Near Coast of Ecuador,3.0 - 3.9,0
+1266,2.34113979,0.8,3.96804963,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9,0
+1268,5.85208321,-0.06,4.86775996,nas,-80.19,Near Coast of Ecuador,4.0 - 4.9,0
+1269,14.70118141,-0.16,3.84454736,nas,-80.87,Near Coast of Ecuador,3.0 - 3.9,0
+1271,2.90178204,-0.04,3.97583133,nas,-81.26,Manabi,4.0 - 4.9,0
+1273,4.32687616,0.67,3.76107913,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9,0
+1274,9.35159016,0.57,3.51271298,nas,-80.5,Esmeraldas,3.0 - 3.9,0
+1276,5,0.23,4.44043068,nas,-80.24,Near Coast of Ecuador,4.0 - 4.9,0
+1277,3.90500403,0.57,4.04057321,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9,0
+1278,5,0.77,3.76201166,nas,-80.41,Near Coast of Ecuador,3.0 - 3.9,0
+1279,6.39017439,-0.12,4.89822659,nas,-80.49,Near Coast of Ecuador,4.0 - 4.9,0
+1280,10,-0.23,5.04306277,nas,-80.98,Near Coast of Ecuador,5.0 - 5.9,0
+1281,10,-0.36,4.17381728,nas,-81.27,Near Coast of Ecuador,4.0 - 4.9,0
+1282,6.325315,0.8,4.55484717,nas,-81.17,Near Coast of Ecuador,4.0 - 4.9,0
+1283,10,0.75,3.50366625,nas,-80.42,Near Coast of Ecuador,3.0 - 3.9,0
+1284,10.23543453,0.62,3.76620765,nas,-80.43,Esmeraldas,3.0 - 3.9,0
+1286,5.58945513,0.74,3.7064909,nas,-80.61,Near Coast of Ecuador,3.0 - 3.9,0
+1287,10.65176773,0.69,3.76240136,nas,-80.35,Near Coast of Ecuador,3.0 - 3.9,0
+1288,5.9716382,-0.13,4.42556948,nas,-80.33,Near Coast of Ecuador,4.0 - 4.9,0
+1290,1.73158336,0.79,3.55547903,nas,-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+1292,10,-0.18,6.16025923,nas,-80.94,Near Coast of Ecuador,6.0 - 6.9,0
+1293,9.97137833,-0.21,4.62436984,nas,-80.77,Near Coast of Ecuador,4.0 - 4.9,0
+1294,0.84149772,-0.28,4.86354013,nas,-80.48,Near Coast of Ecuador,4.0 - 4.9,0
+1295,10,-0.24,4.36946995,nas,-80.69,Near Coast of Ecuador,4.0 - 4.9,0
+1296,4.17201757,-0.18,6.01236792,nas,-80.8,Near Coast of Ecuador,6.0 - 6.9,0
+1297,9.58618641,-0.08,4.38177658,nas,-80.88,Near Coast of Ecuador,4.0 - 4.9,0
+1298,11.06874752,0.05,4.61735483,nas,-80.95,Near Coast of Ecuador,4.0 - 4.9,0
+1299,10,-0.17,3.58372073,nas,-80.74,Near Coast of Ecuador,3.0 - 3.9,0
+1300,65.79554749,-0.08,3.61104548,nas,-80.71,Manabi,3.0 - 3.9,0
+1301,12.48849773,-0.1,4.23752002,nas,-80.43,Near Coast of Ecuador,4.0 - 4.9,0
+1302,8.25347996,-0.06,3.61360298,nas,-80.7,Near Coast of Ecuador,3.0 - 3.9,0
+1303,10,0.05,3.94675986,nas,-80.69,Near Coast of Ecuador,4.0 - 4.9,0
+1304,10,-0.16,4.50271308,nas,-81.51,Near Coast of Ecuador,4.0 - 4.9,0
+1305,0.47454122,-0.25,5.18365008,nas,-81.04,Near Coast of Ecuador,5.0 - 5.9,0
+1307,152.8073883,0.44,3.53675921,nas,-81.25,Manabi,3.0 - 3.9,0
+1308,6.80499697,-0.23,4.24543686,nas,-80.1,Near Coast of Ecuador,4.0 - 4.9,0
+1309,6.31556988,-0.1,3.8022041,nas,-80.5,Near Coast of Ecuador,3.0 - 3.9,0
+1310,12.91841507,-0.17,3.51315478,nas,-80.63,Manabi,3.0 - 3.9,0
+1311,1.7057898,-0.07,4.25516269,nas,-80.28,Near Coast of Ecuador,4.0 - 4.9,0
+1312,9.43618393,-0.4,3.66096297,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+1313,2.85216594,0.63,3.83967018,nas,-80.98,Near Coast of Ecuador,3.0 - 3.9,0
+1314,11.90623856,-0.05,3.74902579,nas,-80.08,Near Coast of Ecuador,3.0 - 3.9,0
+1315,10,-0.15,5.20195438,nas,-81.24,Near Coast of Ecuador,5.0 - 5.9,0
+1316,13.34796047,0.12,3.62110736,nas,-81.02,Near Coast of Ecuador,3.0 - 3.9,0
+1318,10,0.69,3.59714487,nas,-81.13,Near Coast of Ecuador,3.0 - 3.9,0
+1319,9.3367548,0.61,5.7492045,nas,-80.55,Near Coast of Ecuador,5.0 - 5.9,0
+1320,10,0.6,4.70820894,nas,-80.36,Near Coast of Ecuador,4.0 - 4.9,0
+1321,8.73653126,0.72,4.43839175,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9,0
+1322,10.26876545,0.67,4.34520361,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9,0
+1323,10,0.64,3.55236297,nas,-80.47,Near Coast of Ecuador,3.0 - 3.9,0
+1324,3.81701779,0.68,3.67479816,nas,-80.21,Near Coast of Ecuador,3.0 - 3.9,0
+1326,4.52016258,-0.19,3.7802191,nas,-80.05,Near Coast of Ecuador,3.0 - 3.9,0
+1327,7.54592323,0.24,3.65849655,nas,-80.63,Near Coast of Ecuador,3.0 - 3.9,0
+1328,5.60215044,-0.09,4.15130243,nas,-80.56,Near Coast of Ecuador,4.0 - 4.9,0
+1329,13.5057869,-0.29,3.81637249,nas,-80.85,Manabi,3.0 - 3.9,0
+1330,10,0.09,4.24137438,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9,0
+1332,5.05259514,0.36,3.58093301,nas,-80.46,Near Coast of Ecuador,3.0 - 3.9,0
+1333,3.1891408,0.7,4.18337165,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9,0
+1334,5.52644396,0.52,3.68296085,nas,-80.6,Near Coast of Ecuador,3.0 - 3.9,0
+1335,10,0.7,4.99500142,nas,-80.29,Near Coast of Ecuador,5.0 - 5.9,0
+1336,10,0.19,3.97161725,nas,-80.49,Near Coast of Ecuador,4.0 - 4.9,0
+1337,1.97543466,0.28,3.55584743,nas,-80.34,Near Coast of Ecuador,3.0 - 3.9,0
+1338,10.41671276,0.53,4.2784178,nas,-80.63,Near Coast of Ecuador,4.0 - 4.9,0
+1339,2.28551602,0.94,3.91364435,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9,0
+1340,10,0.82,3.86884202,nas,-80.72,Near Coast of Ecuador,3.0 - 3.9,0
+1341,4.63213205,0.15,4.53174518,nas,-80.57,Near Coast of Ecuador,4.0 - 4.9,0
+1342,4.5209136,0.2,3.92193295,nas,-80.83,Near Coast of Ecuador,4.0 - 4.9,0
+1343,10,-0.03,3.59461225,nas,-80.42,Near Coast of Ecuador,3.0 - 3.9,0
+1344,10,-0.24,3.64456229,nas,-80.82,Near Coast of Ecuador,3.0 - 3.9,0
+1345,5.41311169,0.04,3.50104391,nas,-81.1,Near Coast of Ecuador,3.0 - 3.9,0
+1346,10.36977959,-0.05,4.08843507,nas,-81.03,Near Coast of Ecuador,4.0 - 4.9,0
+1347,2.94375873,0.27,3.6458043,nas,-80.51,Near Coast of Ecuador,3.0 - 3.9,0
+1348,6.01655006,0.7,4.38818643,nas,-80.67,Esmeraldas,4.0 - 4.9,0
+1349,5,-0.11,3.74729179,nas,-79.73,Near Coast of Ecuador,3.0 - 3.9,0
+1352,7.19134808,-0.45,3.62998658,nas,-81.15,Manabi,3.0 - 3.9,0
+1353,2.95371175,-0.15,3.95396321,nas,-80.35,Near Coast of Ecuador,4.0 - 4.9,0
+1354,5,-0.14,4.21564682,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9,0
+1359,76.69999695,0.56,3.78495623,nas,-81.42,Near Coast of Ecuador,3.0 - 3.9,0
+1360,5.13646793,-0.07,4.54763841,nas,-80.78,Manabi,4.0 - 4.9,0
+1364,9.95831966,-0.13,4.34302629,nas,-81.31,Near Coast of Ecuador,4.0 - 4.9,0
+1365,10,-0.04,3.81080923,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9,0
+1367,6.65374756,0.37,4.5686681,nas,-81.38,Near Coast of Ecuador,4.0 - 4.9,0
+1368,10,0.34,3.79284788,nas,-80.62,Near Coast of Ecuador,3.0 - 3.9,0
+1369,2.52435637,0.31,3.58024375,nas,-80.63,Near Coast of Ecuador,3.0 - 3.9,0
+1370,4.30240154,0.26,3.79360731,nas,-80.51,Near Coast of Ecuador,3.0 - 3.9,0
+1372,10,-0.51,4.18665653,nas,-80.76,Near Coast of Ecuador,4.0 - 4.9,0
+1373,7.66948843,0.58,4.01903608,nas,-80.87,Near Coast of Ecuador,4.0 - 4.9,0
+1374,10,-0.14,5.62373423,nas,-80.28,Near Coast of Ecuador,5.0 - 5.9,0
+1375,10.41729641,0.27,3.93502762,nas,-80.99,Near Coast of Ecuador,4.0 - 4.9,0
+1377,8.30518818,0.66,3.63300358,nas,-80.76,Near Coast of Ecuador,3.0 - 3.9,0
+1378,10,0.32,3.66339705,nas,-80.52,Near Coast of Ecuador,3.0 - 3.9,0
+1379,9.42261505,0.48,3.55895276,nas,-80.23,Esmeraldas,3.0 - 3.9,0
+1380,13.6183157,-0.25,3.53224494,nas,-80.08,Manabi,3.0 - 3.9,0
+1381,10,-0.2,3.78780819,nas,-80.37,Near Coast of Ecuador,3.0 - 3.9,0
+1383,1.22873938,-0.33,4.5305933,nas,-81.21,Near Coast of Ecuador,4.0 - 4.9,0
+1384,10,-0.57,4.37548563,nas,-81.16,Near Coast of Ecuador,4.0 - 4.9,0
+1385,5,0.22,4.01418432,nas,-80.81,Near Coast of Ecuador,4.0 - 4.9,0
+1386,10.51271057,-0.17,3.99321212,nas,-80.25,Near Coast of Ecuador,4.0 - 4.9,0
+1387,10,-0.23,4.03336632,nas,-80.71,Near Coast of Ecuador,4.0 - 4.9,0
+1388,10.96618748,0.2,4.17007118,nas,-80.98,Near Coast of Ecuador,4.0 - 4.9,0
+1392,5,0.17,3.95608065,nas,-81.08,Near Coast of Ecuador,4.0 - 4.9,0
+1397,4.44566202,0.37,3.90845081,nas,-81.32,Near Coast of Ecuador,4.0 - 4.9,0
+1398,3.9568913,0.38,3.96027026,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9,0
+1401,1.92560124,0.25,4.19135904,nas,-81.09,Near Coast of Ecuador,4.0 - 4.9,0
+1403,8.52616024,-0.46,3.7177558,nas,-80.94,Manabi,3.0 - 3.9,0
+1404,10,0.45,3.50526991,nas,-80.44,Near Coast of Ecuador,3.0 - 3.9,0
+1406,5,-0.41,3.5662415,nas,-81.11,Near Coast of Ecuador,3.0 - 3.9,0
+1410,10,0.27,4.19347504,nas,-80.85,Near Coast of Ecuador,4.0 - 4.9,0
+1412,10,-0.23,3.66029007,nas,-80.88,Near Coast of Ecuador,3.0 - 3.9,0
+1415,10,-0.13,4.01495126,nas,-80.98,Near Coast of Ecuador,4.0 - 4.9,0
+1416,4.45463753,-0.08,3.77082281,nas,-80.85,Manabi,3.0 - 3.9,0
+1418,5,0.24,3.60970733,nas,-80.86,Near Coast of Ecuador,3.0 - 3.9,0
+1424,10,0.29,3.8415999,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9,0
+1425,8.92176724,0.88,3.51643893,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9,0
+1426,2.39675999,0.14,4.27955018,nas,-80.51,Near Coast of Ecuador,4.0 - 4.9,0
+1427,10,-0.13,4.53223084,nas,-80.11,Near Coast of Ecuador,4.0 - 4.9,0
+54,2.5,-0.61,3.8," Bahia de Caraquez,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9,0
+57,13.3,-0.82,3.6," Manta,Manabi",-80.88,Near Coast of Ecuador,3.0 - 3.9,0
+60,6.8,-0.8,3.7," Manta,Manabi",-80.84,Near Coast of Ecuador,3.0 - 3.9,0
+89,2.3,-0.86,3.7," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,3.0 - 3.9,0
+100,3.5,-0.92,3.5," Manta,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9,0
+119,3.8,-0.74,3.4," San Vicente,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9,0
+120,7.2,-0.72,3.2," San Vicente,Manabi",-80.33,Near Coast of Ecuador,3.0 - 3.9,0
+121,5.3,-1.33,3.4," Puerto Lopez,Manabi",-80.89,Near Coast of Ecuador,3.0 - 3.9,0
+131,4,-0.95,4.5," Rocafuerte,Manabi",-80.54,Near Coast of Ecuador,4.0 - 4.9,0
+132,4.1,-1,4.4," Jaramijo,Manabi",-80.57,Near Coast of Ecuador,4.0 - 4.9,0
+143,10.2,-0.5,3.7," San Vicente,Manabi",-80.4,Manabi,3.0 - 3.9,0
+214,4.4,-0.97,4," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,4.0 - 4.9,0
+240,10,-0.92,3.9," Manta,Manabi",-80.69,Near Coast of Ecuador,3.0 - 3.9,0
+253,4.4,-0.53,3.3," San Vicente,Manabi",-80.42,Manabi,3.0 - 3.9,0
+261,10,-0.81,3.9," Rocafuerte,Manabi",-80.48,Near Coast of Ecuador,3.0 - 3.9,0
+262,10,-0.87,4.4," Manta,Manabi",-80.73,Near Coast of Ecuador,4.0 - 4.9,0
+267,10,-0.86,4.2," Manta,Manabi",-80.7,Near Coast of Ecuador,4.0 - 4.9,0
+271,10,-0.99,5," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,5.0 - 5.9,0
+279,43.6,-0.91,3.6," Calceta,Manabi",-79.91,Manabi,3.0 - 3.9,0
+284,17.8,-0.93,3," Manta,Manabi",-80.77,Near Coast of Ecuador,1.0 - 3.0,0
+297,8.6,-0.92,3.8," Jaramijo,Manabi",-80.59,Manabi,3.0 - 3.9,0
+305,4.5,-1.2,3.6," Montecristi,Manabi",-80.93,Manabi,3.0 - 3.9,0
+322,11,-0.47,3.3," San Vicente,Manabi",-80.4,Manabi,3.0 - 3.9,0
+348,7.6,-0.87,3.5," Manta,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9,0
+373,5.2,-0.99,4.5," Jaramijo,Manabi",-80.62,Near Coast of Ecuador,4.0 - 4.9,0
+374,2.7,-0.96,3.5," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+376,4.7,-0.92,3.8," Jaramijo,Manabi",-80.66,Near Coast of Ecuador,3.0 - 3.9,0
+377,5,-0.97,3.5," Jaramijo,Manabi",-80.65,Near Coast of Ecuador,3.0 - 3.9,0
+380,9.6,-0.59,3.1," Bahia de Caraquez,Manabi",-80.55,Near Coast of Ecuador,3.0 - 3.9,0
+385,0.5,-1.31,3.8," Puerto Lopez,Manabi",-80.89,Manabi,3.0 - 3.9,0
+390,5,-0.86,3.9," Jaramijo,Manabi",-80.6,Near Coast of Ecuador,3.0 - 3.9,0
+399,3.3,-1.19,4.8," Montecristi,Manabi",-80.93,Manabi,4.0 - 4.9,0
+400,8.5,-1.3,3.8," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9,0
+401,5.4,-1.23,3.6," Montecristi,Manabi",-80.92,Manabi,3.0 - 3.9,0
+408,5,-1.36,3.8," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+466,11.7,-1.01,3.7," Calceta,Manabi",-80.12,Manabi,3.0 - 3.9,0
+498,10,-1.4,4.9," Jipijapa,Manabi",-80.55,Manabi,4.0 - 4.9,0
+511,19.6,-1.19,3.5," Montecristi,Manabi",-80.74,Near Coast of Ecuador,3.0 - 3.9,0
+516,3.4,-0.92,4.4," Rocafuerte,Manabi",-80.46,Near Coast of Ecuador,4.0 - 4.9,0
+521,5.1,-0.88,3.1," Jaramijo,Manabi",-80.58,Manabi,3.0 - 3.9,0
+525,4.5,-0.91,5.4," Jaramijo,Manabi",-80.63,Manabi,5.0 - 5.9,0
+526,12.2,-0.93,5.2," Jaramijo,Manabi",-80.58,Near Coast of Ecuador,5.0 - 5.9,0
+561,48.2,-0.89,4," Velasco Ibarra,Guayas",-79.87,Manabi,4.0 - 4.9,0
+563,4,-1.04,3.6," Portoviejo,Manabi",-80.46,Manabi,3.0 - 3.9,0
+595,10,-0.8,3.7," Velasco Ibarra,Guayas",-79.81,Manabi,3.0 - 3.9,0
+601,5.9,-1.75,3.7," Pajan,Manabi",-80.47,Manabi,3.0 - 3.9,0
+622,3.3,-0.72,3.8," Manta,Manabi",-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+649,10,-0.96,3.3," Manta,Manabi",-80.73,Manabi,3.0 - 3.9,0
+652,35.4,-1.02,3.6," Velasco Ibarra,Guayas",-79.81,Manabi,3.0 - 3.9,0
+660,20.8,-1.41,3.6," Pajan,Manabi",-80.34,Manabi,3.0 - 3.9,0
+691,4.4,-1.07,3.6," Montecristi,Manabi",-80.63,Manabi,3.0 - 3.9,0
+705,3.9,-0.92,3.9," Rocafuerte,Manabi",-80.47,Manabi,3.0 - 3.9,0
+711,5,-0.92,4.7," Calceta,Manabi",-80.25,Manabi,4.0 - 4.9,0
+722,7.6,-0.99,3.7," Rocafuerte,Manabi",-80.38,Manabi,3.0 - 3.9,0
+748,16.1,-0.47,3.9," San Vicente,Manabi",-80.44,Manabi,3.0 - 3.9,0
+782,11.5,-0.68,4.3," Bahia de Caraquez,Manabi",-80.61,Near Coast of Ecuador,4.0 - 4.9,0
+787,16.7,-1.35,3.5," Jipijapa,Manabi",-80.69,Manabi,3.0 - 3.9,0
+790,10,-1.49,3.6," Jipijapa,Manabi",-80.59,Manabi,3.0 - 3.9,0
+799,8.8,-1.14,3.5," Montecristi,Manabi",-80.56,Manabi,3.0 - 3.9,0
+801,6.1,-1.02,3.6," Montecristi,Manabi",-80.62,Manabi,3.0 - 3.9,0
+816,10,-0.45,3.9," San Vicente,Manabi",-80.43,Manabi,3.0 - 3.9,0
+817,20.8,-0.49,6.2," San Vicente,Manabi",-80.39,Manabi,6.0 - 6.9,0
+823,4.3,-1.22,4.7," Jipijapa,Manabi",-80.52,Manabi,4.0 - 4.9,0
+832,1.6,-0.57,3.2," San Vicente,Manabi",-80.26,Manabi,3.0 - 3.9,0
+833,2.1,-1.1,4.7," Montecristi,Manabi",-80.6,Manabi,4.0 - 4.9,0
+861,20,-0.84,4.8,"Rocafuerte,Manabi",-80.44,Manabi,4.0 - 4.9,0
+884,5.6,-1.14,3.7,"Santa Ana,Manabi",-80.37,Manabi,3.0 - 3.9,0
+885,18.9,-0.98,3.9,"Manta,Manabi",-80.97,Near Coast of Ecuador,3.0 - 3.9,0
+957,7,-1.01,3.5,"Jaramijo,Manabi",-80.6,Manabi,3.0 - 3.9,0
+984,1.7,-1.26,3.6,"Santa Ana,Manabi",-80.46,Manabi,3.0 - 3.9,0
+1017,4,-0.77,3.9,"Manta,Manabi",-80.78,Near Coast of Ecuador,3.0 - 3.9,0
+1048,3.84400606,-0.57,4.07889816,nas,-80.46,Near Coast of Ecuador,4.0 - 4.9,0
+1078,10,-0.91,6.46212182,nas,-79.59,Manabi,6.0 - 6.9,0
+1092,7.73589849,-0.5,3.69138172,nas,-80.44,Manabi,3.0 - 3.9,0
+1124,10,-0.68,3.69261483,nas,-80.24,Near Coast of Ecuador,3.0 - 3.9,0
+1127,5,-0.85,4.17662762,nas,-80.35,Manabi,4.0 - 4.9,0
+1134,5,-0.81,3.80988095,nas,-80.22,Near Coast of Ecuador,3.0 - 3.9,0
+1137,0.96055347,-0.93,5.63957397,nas,-80.24,Near Coast of Ecuador,5.0 - 5.9,0
+1139,4.44490337,-1.01,5.01700328,nas,-80.29,Manabi,5.0 - 5.9,0
+1140,5,-0.87,3.66046797,nas,-80.88,Manabi,3.0 - 3.9,0
+1142,5,-0.7,4.11858228,nas,-80.39,Near Coast of Ecuador,4.0 - 4.9,0
+1143,24.66736794,-0.9,3.5258068,nas,-81.08,Manabi,3.0 - 3.9,0
+1165,164.2754211,-1.81,3.55717419,nas,-80.16,Near Coast of Ecuador,3.0 - 3.9,0
+1166,10,-0.75,3.85832579,nas,-80.25,Near Coast of Ecuador,3.0 - 3.9,0
+1167,10,-1.09,4.16985875,nas,-81.03,Near Coast of Ecuador,4.0 - 4.9,0
+1169,17.56494904,-0.82,3.54730647,nas,-79.91,Near Coast of Ecuador,3.0 - 3.9,0
+1172,10,-1.21,3.68187809,nas,-80.11,Near Coast of Ecuador,3.0 - 3.9,0
+1174,10,-1.24,3.56338445,nas,-80.16,Manabi,3.0 - 3.9,0
+1177,13.37305927,-1.03,4.04178119,nas,-80.34,Near Coast of Ecuador,4.0 - 4.9,0
+1178,1.93081725,-1.16,5.13137323,nas,-81.04,Near Coast of Ecuador,5.0 - 5.9,0
+1179,5.5999999,-1.1,4.49085724,nas,-81.24,Near Coast of Ecuador,4.0 - 4.9,0
+1180,5,-1.06,3.53164865,nas,-81.36,Near Coast of Ecuador,3.0 - 3.9,0
+1186,2.0278821,-1.08,4.36931692,nas,-80.72,Near Coast of Ecuador,4.0 - 4.9,0
+1193,11,-1.1,3.77261025,nas,-80.07,Near Coast of Ecuador,3.0 - 3.9,0
+1198,15,-1.14,3.58453677,nas,-80.8,Near Coast of Ecuador,3.0 - 3.9,0
+1200,10,-1.1,3.6596755,nas,-80.82,Manabi,3.0 - 3.9,0
+1201,10,-1.31,3.5205775,nas,-80.95,Near Coast of Ecuador,3.0 - 3.9,0
+1202,18,-1.13,3.91106729,nas,-81.65,Near Coast of Ecuador,4.0 - 4.9,0
+1203,10,-1.2,3.67737376,nas,-81.07,Manabi,3.0 - 3.9,0
+1214,14.12295628,-0.55,3.66678736,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+1216,15,-0.99,3.84463627,nas,-80.88,Near Coast of Ecuador,3.0 - 3.9,0
+1222,10,-0.69,3.6579226,nas,-80.53,Near Coast of Ecuador,3.0 - 3.9,0
+1223,10,-1.08,3.5288985,nas,-81.09,Near Coast of Ecuador,3.0 - 3.9,0
+1224,10,-1.05,3.82581882,nas,-81.22,Near Coast of Ecuador,3.0 - 3.9,0
+1227,10,-1.22,3.65794473,nas,-79.9,Near Coast of Ecuador,3.0 - 3.9,0
+1232,10,-1.28,3.54802854,nas,-80.85,Manabi,3.0 - 3.9,0
+1235,10,-0.82,4.01268005,nas,-80.89,Near Coast of Ecuador,4.0 - 4.9,0
+1236,10,-1.26,3.91236636,nas,-81.15,Near Coast of Ecuador,4.0 - 4.9,0
+1270,2.82112718,-1.2,3.74355447,nas,-80.57,Near Coast of Ecuador,3.0 - 3.9,0
+1289,10,-1.52,3.796149,nas,-80.61,Manabi,3.0 - 3.9,0
+1291,10,-1.42,4.52463525,nas,-80.61,Near Coast of Ecuador,4.0 - 4.9,0
+1317,8.50152016,-1.41,3.56361803,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+1350,5,-0.87,3.58182491,nas,-80.34,Near Coast of Ecuador,3.0 - 3.9,0
+1351,4.5999999,-1.16,4.24792,nas,-81.01,Near Coast of Ecuador,4.0 - 4.9,0
+1355,5,-1.06,3.6202888,nas,-81.35,Near Coast of Ecuador,3.0 - 3.9,0
+1356,5.41434097,-0.9,5.10321384,nas,-81.56,Manabi,5.0 - 5.9,0
+1357,10,-1.08,4.10267055,nas,-80.89,Near Coast of Ecuador,4.0 - 4.9,0
+1358,5,-1.29,3.55655485,nas,-81.44,Near Coast of Ecuador,3.0 - 3.9,0
+1363,5,-0.81,4.63824597,nas,-80.54,Near Coast of Ecuador,4.0 - 4.9,0
+1371,4.58883285,-0.57,3.70872399,nas,-80.39,Near Coast of Ecuador,3.0 - 3.9,0
+1376,19.11281967,-0.61,3.63988455,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+1382,1.02950561,-1.28,4.19979291,nas,-80.6,Near Coast of Ecuador,4.0 - 4.9,0
+1389,10,-1.2,4.2581872,nas,-80.47,Near Coast of Ecuador,4.0 - 4.9,0
+1391,10,-1.27,4.38954226,nas,-81.04,Near Coast of Ecuador,4.0 - 4.9,0
+1393,5,-0.9,3.86641143,nas,-80.32,Near Coast of Ecuador,3.0 - 3.9,0
+1394,5,-1.02,3.54104925,nas,-81.29,Near Coast of Ecuador,3.0 - 3.9,0
+1395,5,-1.11,3.58321766,nas,-81.65,Near Coast of Ecuador,3.0 - 3.9,0
+1396,5,-1.11,4.42310048,nas,-81.51,Near Coast of Ecuador,4.0 - 4.9,0
+1399,10,-1.52,3.6293124,nas,-80.4,Near Coast of Ecuador,3.0 - 3.9,0
+1400,10,-1.31,4.60624899,nas,-80.94,Near Coast of Ecuador,4.0 - 4.9,0
+1402,10,-1.55,4.26381869,nas,-80.44,Near Coast of Ecuador,4.0 - 4.9,0
+1405,5,-1.64,3.67610612,nas,-80.62,Near Coast of Ecuador,3.0 - 3.9,0
+1411,10,-1.56,3.50939452,nas,-80.51,Manabi,3.0 - 3.9,0
+1417,10,-1.54,4.07218751,nas,-80.43,Manabi,4.0 - 4.9,0
+1419,10,-1.65,3.63594943,nas,-80.41,Near Coast of Ecuador,3.0 - 3.9,0
+1420,10,-1.19,3.58565622,nas,-81.12,Near Coast of Ecuador,3.0 - 3.9,0
+1423,5,-1.6,3.65873156,nas,-80.58,Manabi,3.0 - 3.9,0
+15,5,-1.52,3.6," Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9,0
+35,5,-1.51,3.2," Puerto Lopez,Manabi",-80.93,Near Coast of Ecuador,3.0 - 3.9,0
+222,6.2,-1.5,3.8," Puerto Lopez,Manabi",-80.95,Near Coast of Ecuador,3.0 - 3.9,0
+846,12.2,-1.52,3.9,"Puerto Lopez,Manabi",-80.92,Near Coast of Ecuador,3.0 - 3.9,0
+1366,10,-1.47,3.63205061,nas,-80.96,Near Coast of Ecuador,3.0 - 3.9,0
+1414,6,-1.5,4.74743955,nas,-81,Near Coast of Ecuador,4.0 - 4.9,0
+17,5,-1.58,3.8," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+18,5,-1.57,3.7," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9,0
+25,5,-1.55,4.7," Puerto Lopez,Manabi",-80.96,Near Coast of Ecuador,4.0 - 4.9,0
+41,1.1,-1.62,3.5," Puerto Lopez,Manabi",-80.98,Near Coast of Ecuador,3.0 - 3.9,0
+47,5,-1.83,3.6," Puerto Lopez,Manabi",-80.96,Near Coast of Ecuador,3.0 - 3.9,0
+152,3,-1.6,3.4," Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9,0
+159,23,-1.59,3.6," Puerto Lopez,Manabi",-80.9,Near Coast of Ecuador,3.0 - 3.9,0
+208,2.8,-1.65,3.1," Puerto Lopez,Manabi",-80.94,Near Coast of Ecuador,3.0 - 3.9,0
+487,10,-1.6,3.6," Puerto Lopez,Manabi",-80.83,Near Coast of Ecuador,3.0 - 3.9,0
+620,4.8,-1.97,4.3," La Libertad,Sta Elena",-80.89,Near Coast of Ecuador,4.0 - 4.9,0
+923,1.8,-1.91,4.1,"Salinas,Sta Elena",-80.95,Near Coast of Ecuador,4.0 - 4.9,0
+939,1.8,-1.59,3.9,"Puerto Lopez,Manabi",-80.91,Near Coast of Ecuador,3.0 - 3.9,0
+1306,10,-1.56,3.75931407,nas,-80.75,Near Coast of Ecuador,3.0 - 3.9,0
+1390,2.2696116,-1.49,3.59613287,nas,-81.23,Near Coast of Ecuador,3.0 - 3.9,0
+1407,10,-1.76,3.68151424,nas,-81.12,Near Coast of Ecuador,3.0 - 3.9,0
+1408,5,-1.59,3.65882418,nas,-81.18,Near Coast of Ecuador,3.0 - 3.9,0
+1409,10,-1.55,4.22520847,nas,-80.99,Manabi,4.0 - 4.9,0
+1413,1.9520781,-1.54,3.63301492,nas,-80.97,Near Coast of Ecuador,3.0 - 3.9,0
+1428,10,-1.7,3.6312918,nas,-81.02,Near Coast of Ecuador,3.0 - 3.9,0
