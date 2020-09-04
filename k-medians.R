@@ -18,7 +18,6 @@ initialSolution <- function(sismos, num_centroids){
   x <- sample(1:length(sismos), num_centroids, replace=F)
  
   for(i in 1:num_centroids) {
-    #print(x[i])
     centroid[[i]] <- list(i,sismos[[x[i]]][[2]],sismos[[x[i]]][[3]])
   }
   return (centroid)
@@ -40,7 +39,8 @@ initialSolution <- function(sismos, num_centroids){
 
 kmedians <- function(sismos, centroids){
   
-  distance <-list()      #[1]:id centroide [2]: distancia minima
+  #distance[1]:id centroide distance[2]: distancia minima
+  distance <-list()
   
   for (i in 1:length(sismos)){
     distance[1] <-1
@@ -51,22 +51,60 @@ kmedians <- function(sismos, centroids){
       if(aux < distance[2]){
         distance[1] <- j
         distance[2] <- aux
-        print("entre")
       }
     }
-    #Asignar centroide mas cercano al sismo i,    no es necesario guardar la distancia encontras?
+    #Asignar centroide mas cercano al sismo i
     sismos[[i]][[9]]= as.numeric(distance[1])
   }
-  return(sismos)
+  
+  # Recalculando centroides
+ 
+  latitude= c()
+  longitude= c()
+  
+  #Arreglo de pruebas
+  
+  for (j in 1:length(centroids)){
+    latitude<-c()
+    longitude<- c()
+    
+    for (i in 1:length(sismos)){
+      if(sismos[[i]][[9]] == j){
+        latitude = c(latitude,sismos[[i]][[2]])
+        longitude= c(longitude,sismos[[i]][[3]])
+      }
+    }
+    #-----prueba-------
+    c("centroide ",j)
+    print("latitude")
+    print(latitude)
+    print("longitude")
+    print(longitude)
+    #--------------------
+    
+    # calculando mediana
+    new_latitude <- median(latitude)
+    new_longitude <- median(longitude)
+    centroids[[j]][[2]] = new_latitude
+    centroids[[j]][[3]] = new_longitude
+    
+  }
+  
+  return  <- list(sismos,centroids)
+  return(return)
 }
 
 #------------------ PRUEBAS ---------------------------
 #' Inicializando soluciones inicial           
-centroids <- initialSolution(sismos, num_centroids=5)
+centroids <- initialSolution(sismos, num_centroids=3)
 
 # prubas kmedians <- function(sismos, centroids, num_clusters)
-resul <- kmedians(sismos, centroids)
+sismos <- kmedians(sismos, centroids)
 
 #for (i in 1:length(sismos)) {
 #  print(resul[[i]][[9]])
 #}
+#
+#
+#
+#
