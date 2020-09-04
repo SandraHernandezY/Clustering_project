@@ -2,15 +2,32 @@ library(geosphere)
 library(seqinr)
 
 
+# initialSolution: inicializacion de centroides 
+# se busca un x aleatorio para luego extraer latitud y longitud del sismo x e inicializar lista de centroides
+initialSolution <- function(sismos, num_centroids){
+  
+  centroid <- list()
+  x <- sample(1:length(sismos), num_centroids, replace=F)
+  
+  for(i in 1:num_centroids) {
+    #x <- sample(1:length(sismos), 1) 
+    #print(x[i])
+    centroid[[i]] <- list(i,sismos[[x[i]]][[2]],sismos[[x[i]]][[3]])
+  }
+  return (centroid)
+}
+
 #Función para calcular distancia promedio de cada cluster
 calculateAVGdistance <- function(centroids,sismos){
   list_avg <- list()
   for (i in 1:length(centroids)) {
     distancias <- list()
     for (j in 1:length(sismos)) {
-      if(sismos[[j]][[9]] == i){
-        d <- distHaversine(c(sismos[[j]][[2]],sismos[[j]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0) 
-        distancias <- append(distancias,d)
+      if(sismos[[j]][[2]]!=centroids[[i]][[2]] & sismos[[j]][[3]]!=centroids[[i]][[3]]){
+        if(sismos[[j]][[9]] == i){
+          d <- distHaversine(c(sismos[[j]][[2]],sismos[[j]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0) 
+          distancias <- append(distancias,d)
+        }
       }
     }
     avg <- mean(as.numeric(distancias))
@@ -67,7 +84,9 @@ tusDatos <- read.table(file.choose(), skip = 0, header = TRUE, sep =',')
 sismos <- list()
 # Creando y llenando la estructura de datos listas de listas `sismos`
 for(i in 1:nrow(tusDatos)) {
-  sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8])
+  sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
 }
 
-
+###Inicialización centroides
+cent <- initialSolution(sismos, 3)
+lista_promedio <- calculateAVGdistance(cent,sismos)
