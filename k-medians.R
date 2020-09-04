@@ -59,9 +59,6 @@ kmedians <- function(sismos, centroids){
   
   # Recalculando centroides
  
-  latitude= c()
-  longitude= c()
-  
   #Arreglo de pruebas
   
   for (j in 1:length(centroids)){
