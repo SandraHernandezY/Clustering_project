@@ -48,16 +48,18 @@ averageNeighbour <- function(centroids, avg_dist, sismos){
         rand_position <- sample(1:len_sismos, 1)
       }
       rand_data <- sismos[rand_position]
-      distance <- distHaversine(c(rand_data[[1]][[2]],rand_data[[1]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0)
-      print(c(avg_dist[i],i,distance))
-      #str(avg_dist[i])
-      str(distance)
-      #print(c("i:
-      if(distance <= as.numeric(avg_dist[i])) {
-        print("entro")
-        centroids[[i]][[2]]=rand_data[[1]][[2]]
-        centroids[[i]][[3]]=rand_data[[1]][[3]]
-        break
+      if(rand_data[[1]][[2]]!=centroids[[i]][[2]] & rand_data[[1]][[3]]!=centroids[[i]][[3]]){
+        distance <- distHaversine(c(rand_data[[1]][[2]],rand_data[[1]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0)
+        print(c(avg_dist[i],i,distance))
+        #str(avg_dist[i])
+        #str(distance)
+        #print(c("i:
+        if(distance <= as.numeric(avg_dist[i])) {
+          print("entro")
+          centroids[[i]][[2]]=rand_data[[1]][[2]]
+          centroids[[i]][[3]]=rand_data[[1]][[3]]
+          break
+        } 
       }
     }
   }
@@ -81,17 +83,8 @@ randomSwap <- function(centroids, sismos){
 
 ###################################################################################
 
-tusDatos <- read.table(file.choose(), skip = 0, header = TRUE, sep =',')
-
-# Initialize `sismos`
-sismos <- list()
-# Creando y llenando la estructura de datos listas de listas `sismos`
-for(i in 1:nrow(tusDatos)) {
-  sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
-}
-
 ###Inicialización centroides
-cent <- initialSolution(sismos, 3)
-lista_promedio <- calculateAVGdistance(cent,sismos)
-cent_nuevos <- randomSwap(cent, sismos)
-cent_nuevos2 <- averageNeighbour(cent_nuevos,lista_promedio,sismos)
+#cent <- initialSolution(sismos, 5)
+lista_promedio <- calculateAVGdistance(centroids,sismos)
+#cent_nuevos <- randomSwap(cent, sismos)
+cent_nuevos2 <- averageNeighbour(centroids,lista_promedio,sismos)
