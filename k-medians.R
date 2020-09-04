@@ -75,11 +75,11 @@ kmedians <- function(sismos, centroids){
       }
     }
     #-----prueba-------
-    c("centroide ",j)
-    print("latitude")
-    print(latitude)
-    print("longitude")
-    print(longitude)
+    #c("centroide ",j)
+    #print("latitude")
+    #print(latitude)
+    #print("longitude")
+    #print(longitude)
     #--------------------
     
     # calculando mediana
@@ -96,10 +96,10 @@ kmedians <- function(sismos, centroids){
 
 #------------------ PRUEBAS ---------------------------
 #' Inicializando soluciones inicial           
-centroids <- initialSolution(sismos, num_centroids=3)
+#centroids <- initialSolution(sismos, num_centroids=3)
 
 # prubas kmedians <- function(sismos, centroids, num_clusters)
-sismos <- kmedians(sismos, centroids)
+#sismos <- kmedians(sismos, centroids)
 
 #for (i in 1:length(sismos)) {
 #  print(resul[[i]][[9]])

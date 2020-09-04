@@ -1,22 +1,6 @@
 library(geosphere)
 library(seqinr)
 
-
-# initialSolution: inicializacion de centroides 
-# se busca un x aleatorio para luego extraer latitud y longitud del sismo x e inicializar lista de centroides
-initialSolution <- function(sismos, num_centroids){
-  
-  centroid <- list()
-  x <- sample(1:length(sismos), num_centroids, replace=F)
-  
-  for(i in 1:num_centroids) {
-    #x <- sample(1:length(sismos), 1) 
-    #print(x[i])
-    centroid[[i]] <- list(i,sismos[[x[i]]][[2]],sismos[[x[i]]][[3]])
-  }
-  return (centroid)
-}
-
 #Función para calcular distancia promedio de cada cluster
 calculateAVGdistance <- function(centroids,sismos){
   list_avg <- list()
@@ -88,4 +72,4 @@ randomSwap <- function(centroids, sismos){
 #cent <- initialSolution(sismos, 5)
 #lista_promedio <- calculateAVGdistance(centroids,sismos)
 #cent_nuevos <- randomSwap(cent, sismos)
-cent_nuevos2 <- averageNeighbour(centroids,sismos)
+#cent_nuevos2 <- averageNeighbour(centroids,sismos)

@@ -11,10 +11,8 @@ objectiveFunction <- function(sismos, centroides){
   return (totalDist)
 }
 
-ILS <- function(max_iteraciones,funcion_vecindad){
+ILS <- function(max_iteraciones,funcion_vecindad,sismos,centroids){
   #' Inicializando soluciones inicial           
-  centroids <- initialSolution(sismos, num_centroids=max_clusters)
-  sismos,centroids <- kmedians(sismos,centroids)
   dist <- objectiveFunction(sismos,centroids)
   for (i in 1:max_iteraciones) {
     if(funcion_vecindad == 1){
@@ -23,14 +21,37 @@ ILS <- function(max_iteraciones,funcion_vecindad){
       centroids_new = averageNeighbour(centroids, sismos)
     }
     sismos_new <- sismos
-    sismos_new, centroids_new = kmedians(sismos_new, centroids_new)
+    lista_new <- kmedians(sismos_new, centroids_new)
+    sismos_new <- lista_new[[1]]
+    centroids_new = lista_new[[2]]
     dist_new <- objectiveFunction(sismos_new,centroids_new)
     if (dist_new < dist){
       sismos <- sismos_new
       centroids <- centroids_new
     }
   }
-  return (sismos, centroides)
+  final  <- list(sismos,centroids)
+  return (final)
 }
 
-distan <- objectiveFunction(sismos2,centroids)
+centroids <- initialSolution(sismos, num_centroids=5)
+lista <- kmedians(sismos,centroids)
+print(lista)
+sismos <- lista[[1]]
+centroids <- lista[[2]]
+finales <- ILS(3, 1,sismos,centroids)
+sismos_finales <- finales[[1]]
+centroides_finales <- finales[[2]]
+
+
+###Plotting
+#long <- list()
+#lat <- list()
+#cluster <- list()
+#for (i in 1:lenght(sismos)) {
+#  lat <- append(lat, sismos_finales[[i]][[2]])
+#  long <- append(long, sismos_finales[[i]][[3]])
+#  cluster <- append(cluster, sismos_finales[[i]][[9]])
+#}
+
+#plot(x = sismos_finales[[i]][[2]], y = sismos_finales[[i]][[3]])
