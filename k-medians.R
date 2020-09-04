@@ -37,7 +37,7 @@ initialSolution <- function(sismos, num_centroids){
 #'          
 
 
-kmedians <- function(sismos, centroids){
+kmedians <- function(sismos, centroids, option){
   
   #distance[1]:id centroide distance[2]: distancia minima
   distance <-list()
@@ -59,7 +59,6 @@ kmedians <- function(sismos, centroids){
   
   # Recalculando centroides
  
-  #Arreglo de pruebas
   
   for (j in 1:length(centroids)){
     latitude<-c()
@@ -71,19 +70,19 @@ kmedians <- function(sismos, centroids){
         longitude= c(longitude,sismos[[i]][[3]])
       }
     }
-    #-----prueba-------
-    #c("centroide ",j)
-    #print("latitude")
-    #print(latitude)
-    #print("longitude")
-    #print(longitude)
-    #--------------------
     
-    # calculando mediana
-    new_latitude <- median(latitude)
-    new_longitude <- median(longitude)
-    centroids[[j]][[2]] = new_latitude
-    centroids[[j]][[3]] = new_longitude
+    # calcular op= 1 MEDIAN  op= 2 MEAN
+    if(option == 1){
+      new_latitude <- median(latitude)
+      new_longitude <- median(longitude)
+      centroids[[j]][[2]] = new_latitude
+      centroids[[j]][[3]] = new_longitude
+    }else{
+      new_latitude <- mean(latitude)
+      new_longitude <- mean(longitude)
+      centroids[[j]][[2]] = new_latitude
+      centroids[[j]][[3]] = new_longitude
+    }
     
   }
   
@@ -101,7 +100,4 @@ kmedians <- function(sismos, centroids){
 #for (i in 1:length(sismos)) {
 #  print(resul[[i]][[9]])
 #}
-#
-#
-#
 #
