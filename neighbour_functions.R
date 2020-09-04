@@ -38,7 +38,8 @@ calculateAVGdistance <- function(centroids,sismos){
 
 #Función de vecindad promedio
 #Entrada: centroids (lista centroides), avg_dist (lista distancia promedio de cada cluster), datos con su cluster correspondiente
-averageNeighbour <- function(centroids, avg_dist, sismos){ 
+averageNeighbour <- function(centroids, sismos){ 
+  avg_dist = calculateAVGdistance(centroids,sismos) ##En caso de error, volver como estaba antes
   len_centroids<-length(centroids)
   len_sismos<-length(sismos)
   for(i in 1:len_centroids){
@@ -85,6 +86,6 @@ randomSwap <- function(centroids, sismos){
 
 ###Inicialización centroides
 #cent <- initialSolution(sismos, 5)
-lista_promedio <- calculateAVGdistance(centroids,sismos)
+#lista_promedio <- calculateAVGdistance(centroids,sismos)
 #cent_nuevos <- randomSwap(cent, sismos)
-cent_nuevos2 <- averageNeighbour(centroids,lista_promedio,sismos)
+cent_nuevos2 <- averageNeighbour(centroids,sismos)

@@ -1,12 +1,3 @@
-sismos2 <- list()
-
-# Creando y llenando la estructura de datos listas de listas `sismos`
-for(i in 1:nrow(tusDatos)) {
-  sismos2[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
-}
-
-
-
 objectiveFunction <- function(sismos, centroides){
   totalDist = 0
   for (i in 1:length(sismos)) {
@@ -18,6 +9,28 @@ objectiveFunction <- function(sismos, centroides){
     }
   }
   return (totalDist)
+}
+
+ILS <- function(max_iteraciones,funcion_vecindad){
+  #' Inicializando soluciones inicial           
+  centroids <- initialSolution(sismos, num_centroids=max_clusters)
+  sismos,centroids <- kmedians(sismos,centroids)
+  dist <- objectiveFunction(sismos,centroids)
+  for (i in 1:max_iteraciones) {
+    if(funcion_vecindad == 1){
+      centroids_new = randomSwap(centroids, sismos)
+    }else{
+      centroids_new = averageNeighbour(centroids, sismos)
+    }
+    sismos_new <- sismos
+    sismos_new, centroids_new = kmedians(sismos_new, centroids_new)
+    dist_new <- objectiveFunction(sismos_new,centroids_new)
+    if (dist_new < dist){
+      sismos <- sismos_new
+      centroids <- centroids_new
+    }
+  }
+  return (sismos, centroides)
 }
 
 distan <- objectiveFunction(sismos2,centroids)
