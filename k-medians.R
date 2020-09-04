@@ -1,73 +1,29 @@
-#' distance
-#'
-#' Calculates the Manhanttan distance between the medians and every point in the dataset
-#'
-#' @param X a matrix, the dataset being clustered
-#' @param medians a matrix, dedians of the clusters
-#'
-#' @return a matrix, distance between each point and each median
-#' @export
-#'
-#' @examples
-#' A <- matrix(
-#' c(1,2,3,4,5,6),
-#' nrow = 3,
-#' ncol = 2,
-#' byrow = TRUE)
-#' 
-#' m <- matrix(
-#'   c(1,1,2,2),
-#'   nrow = 2,
-#'   ncol = 2,
-#'  byrow = TRUE)
-#'  
-#' distance(A,m)
-#'
-
-distance <- function(X, medians){
-  
-  # Check that inputs are valid and as expected
-  if(!is.matrix(X)) stop("Input X should be a matrix!")
-  
-  K = nrow(medians)
-  n = nrow(X)
-  
-  dist<- matrix(nrow=n,ncol=K)
-  
-  for (k in 1:K) {
-    for (i in 1:n){
-      dist[i,k] <- abs(X[i,1]-medians[k,1])+abs(X[i,2]-medians[k,2])
-    }
-  }
-  
-  return (dist)
-}
+#set.seed(123)
 # Lectura de datos
+library(geosphere) 
 tusDatos <- read.table(file.choose(), skip = 0, header = TRUE, sep =',')
-# Initialize `sismos`
+
 sismos <- list()
+
 # Creando y llenando la estructura de datos listas de listas `sismos`
 for(i in 1:nrow(tusDatos)) {
   sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
 }
 
 # initialSolution: inicializacion de centroides 
-# se busca un x aleatorio para luego extraer latitud y longitud del sismo x e inicializar lista de centroides
+
 initialSolution <- function(sismos, num_centroids){
   
   centroid <- list()
   x <- sample(1:length(sismos), num_centroids, replace=F)
  
   for(i in 1:num_centroids) {
-    #x <- sample(1:length(sismos), 1) 
-    print(x[i])
+    #print(x[i])
     centroid[[i]] <- list(i,sismos[[x[i]]][[2]],sismos[[x[i]]][[3]])
   }
   return (centroid)
-}
-#PRUEBA
-centrides <- initialSolution(sismos, num_centroids=3)
   
+}
 
 #' kmedians
 #'
@@ -77,47 +33,41 @@ centrides <- initialSolution(sismos, num_centroids=3)
 #'
 #' @param sismos            lista de listas, conjunto de datos
 #' @param num_clusters      integer, numero de clusters deseados
-#' @param n_it              integer, number of iterations
 #'
-#' @return list,            contiene medianas y etiquetas
-#'         medians: matrix  Las coordenadas de las medianas de cada grupo.
-#'
-#'         labels: list     Lista que tiene la asignación del clúster para cada punto del conjunto de datos
+#' @return sismos           lista de lista, datos asociados a su centroide mas cercanos 
 #'          
-kmedians <- function(sismos, centroids, num_clusters,n_it=100){
+
+
+kmedians <- function(sismos, centroids){
+  #print(centroids)
   
-  set.seed(123)
-  n <- length(sismos)       #numero de sismos(filas)
-  u <- matrix(0, nrow = num_clusters, ncol = n) #matriz de n fila= cant.cluster, c/column tendra los sismos que fueron asignado a dicho cluster 
- 
-  centroides <- initialSolution(sismos, num_centroids)
-    
-  medians <- sismos[sample(n,size=num_clusters,replace=FALSE),] #inicializando puntos medianos
+  distance <-list()      #[1]:id centroide [2]: distancia minima
+  distance[1] <-1
+  d <-distHaversine(c(sismos[[1]][[2]],sismos[[1]][[3]]),c(centroids[[1]][[2]],centroids[[1]][[3]]),r= 6371.0)
+  distance[2] <- d
   
- 
-  for (i in 1:n_it){
-    
-    K <- nrow(medians)
-    N <- length(sismos) #nrow(sismos)
-    
-    old_medians <- medians
-    
-    dist <- distance(sismos, medians)
-    
-    labels <- apply(dist, 1, which.min)
-    
-    for (j in 1:n){
-      u[labels[j], j] <- 1
+  for (i in 1:length(sismos)){
+    for (j in 1:length(centroids)) {
+      aux <- distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[j]][[2]],centroids[[j]][[3]]),r= 6371.0)
+      if(aux < distance[2]){
+        distance[1] <- j
+        distance[2] <- aux
+        print("entre")
+      }
     }
-    
-    for (k in 1:num_clusters){
-      medians[k,] <- apply((matrix(sismox[u[k,]==1],ncol=2)), 2, median)
-    }
-    
-    if (identical(medians,old_medians)){
-      break
-    }
+    #Asignar centroide mas cercano al sismo i,    no es necesario guardar la distancia encontras?
+    sismos[[i]][[9]]= as.numeric(distance[1])
   }
-  # make the output as a list
-  return(list(medians,labels))
+  return(sismos)
+}
+
+#------------------ PRUEBAS ---------------------------
+#' Inicializando soluciones inicial           
+centroids <- initialSolution(sismos, num_centroids=5)
+
+# prubas kmedians <- function(sismos, centroids, num_clusters)
+resul <- kmedians(sismos, centroids)
+
+for (i in 1:length(sismos)) {
+  print(resul[[i]][[9]])
 }
