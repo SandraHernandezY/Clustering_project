@@ -1,3 +1,4 @@
+library(ggpubr)
 clustering_plot <- function(sismos){
   long <- list()
   lat <- list()
@@ -19,12 +20,12 @@ clustering_plot <- function(sismos){
   ggplot(x_new, aes(x = Long, y = Lat, colour = Cluster)) + geom_point() + ylim(0,20)
 }
 
-#objetivesIteration_plotting <- funcion(list_objectives){
-#  ggplot(list_objectives, aes(x = iteraciones, y = valor objetivo, col = myWords)) +
-#    geom_point()
-  
-#  ggplot(x_new, aes(x = Long, y = Lat, colour = Cluster)) + geom_point()
-  
-#}
+objectivesIteration_plotting <- function(list_objectives){
+  list_objectives <- as.numeric(list_objectives)
+  plot(list_objectives) 
+  #ggscatter(dataframe,x="columna",y="columna2")
+}
+
+#objectivesInstances_plotting <- 
 
 
