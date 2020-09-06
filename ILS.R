@@ -12,7 +12,7 @@ objectiveFunction <- function(sismos, centroids){
   for (i in 1:length(sismos)) {
     for (j in 1:length(centroids)) {
       if(sismos[[i]][[9]] == j){
-        d <- distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[j]][[2]],centroids[[j]][[3]]),r= 6371.0) 
+        d <- distHaversine(c(sismos[[i]][[3]],sismos[[i]][[2]]),c(centroids[[j]][[3]],centroids[[j]][[2]]),r= 6371.0) 
         totalDist = totalDist + d
       }
     }
