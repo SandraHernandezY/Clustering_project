@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggmap)
 
-instances<-3
+instances<-5
 time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 inst_best_objetive <-list()         # Mejores objetivos por instancia
 inst_best_objetive_iter <-list()    # Mejores objetivos por iteracion
@@ -12,7 +12,7 @@ objectiveFunction <- function(sismos, centroids){
   for (i in 1:length(sismos)) {
     for (j in 1:length(centroids)) {
       if(sismos[[i]][[9]] == j){
-        d <- distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[j]][[2]],centroids[[j]][[3]]),r= 6371.0) 
+        d <- distHaversine(c(sismos[[i]][[3]],sismos[[i]][[2]]),c(centroids[[j]][[3]],centroids[[j]][[2]]),r= 6371.0) 
         totalDist = totalDist + d
       }
     }
@@ -68,7 +68,7 @@ for (inst in 1:instances) {
   
 #--------- INICIO --------------
   start_time = Sys.time()
-  finales <- ILS(50, 2,sismos,5,1,inst)
+  finales <- ILS(50, 1,sismos,5,1,inst)
   end_time = Sys.time()
 #------------ FIN --------------
   total_time = end_time - start_time
@@ -79,12 +79,10 @@ for (inst in 1:instances) {
   
 }
 
-
 sismos_finales <- finales[[1]]
 centroides_finales <- finales[[2]]
 
-
 #clustering_plot(initial)
 clustering_plot(sismos_finales)
-
-
+objectivesIterations_plotting(inst_best_objetive)
+objectivesInstances_plotting(inst_best_objetive_iter)

@@ -9,7 +9,7 @@ calculateAVGdistance <- function(centroids,sismos){
     for (j in 1:length(sismos)) {
       if(sismos[[j]][[2]]!=centroids[[i]][[2]] & sismos[[j]][[3]]!=centroids[[i]][[3]]){
         if(sismos[[j]][[9]] == i){
-          d <- distHaversine(c(sismos[[j]][[2]],sismos[[j]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0) 
+          d <- distHaversine(c(sismos[[j]][[3]],sismos[[j]][[2]]),c(centroids[[i]][[3]],centroids[[i]][[2]]),r= 6371.0) 
           distancias <- append(distancias,d)
         }
       }
@@ -34,13 +34,8 @@ averageNeighbour <- function(centroids, sismos){
       }
       rand_data <- sismos[rand_position]
       if(rand_data[[1]][[2]]!=centroids[[i]][[2]] & rand_data[[1]][[3]]!=centroids[[i]][[3]]){
-        distance <- distHaversine(c(rand_data[[1]][[2]],rand_data[[1]][[3]]),c(centroids[[i]][[2]],centroids[[i]][[3]]),r= 6371.0)
-        #print(c(avg_dist[i],i,distance))
-        #str(avg_dist[i])
-        #str(distance)
-        #print(c("i:
+        distance <- distHaversine(c(rand_data[[1]][[3]],rand_data[[1]][[2]]),c(centroids[[i]][[3]],centroids[[i]][[2]]),r= 6371.0)
         if(distance <= as.numeric(avg_dist[i])) {
-          #print("entro")
           centroids[[i]][[2]]=rand_data[[1]][[2]]
           centroids[[i]][[3]]=rand_data[[1]][[3]]
           break
@@ -65,11 +60,3 @@ randomSwap <- function(centroids, sismos){
   
   return (centroids)
 }
-
-###################################################################################
-
-###Inicialización centroides
-#cent <- initialSolution(sismos, 5)
-#lista_promedio <- calculateAVGdistance(centroids,sismos)
-#cent_nuevos <- randomSwap(cent, sismos)
-#cent_nuevos2 <- averageNeighbour(centroids,sismos)

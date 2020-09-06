@@ -11,7 +11,6 @@ for(i in 1:nrow(tusDatos)) {
 }
 
 # initialSolution: inicializacion de centroides 
-
 initialSolution <- function(sismos, num_centroids){
   
   centroid <- list()
@@ -44,10 +43,10 @@ kmedians <- function(sismos, centroids, option){
   
   for (i in 1:length(sismos)){
     distance[1] <-1
-    d <-distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[1]][[2]],centroids[[1]][[3]]),r= 6371.0)
+    d <-distHaversine(c(sismos[[i]][[3]],sismos[[i]][[2]]),c(centroids[[1]][[3]],centroids[[1]][[2]]),r= 6371.0)
     distance[2] <-d
     for (j in 1:length(centroids)) {
-      aux <- distHaversine(c(sismos[[i]][[2]],sismos[[i]][[3]]),c(centroids[[j]][[2]],centroids[[j]][[3]]),r= 6371.0)
+      aux <- distHaversine(c(sismos[[i]][[3]],sismos[[i]][[2]]),c(centroids[[j]][[3]],centroids[[j]][[2]]),r= 6371.0)
       if(aux < distance[2]){
         distance[1] <- j
         distance[2] <- aux
@@ -89,15 +88,3 @@ kmedians <- function(sismos, centroids, option){
   return  <- list(sismos,centroids)
   return(return)
 }
-
-#------------------ PRUEBAS ---------------------------
-#' Inicializando soluciones inicial           
-#centroids <- initialSolution(sismos, num_centroids=3)
-
-# prubas kmedians <- function(sismos, centroids, num_clusters)
-#sismos <- kmedians(sismos, centroids)
-
-#for (i in 1:length(sismos)) {
-#  print(resul[[i]][[9]])
-#}
-#
