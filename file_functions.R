@@ -22,17 +22,3 @@ sismos <- list()
 for(i in 1:nrow(tusDatos)) {
   sismos[[i]] <- list(tusDatos[i,1],tusDatos[i,2],tusDatos[i,3],tusDatos[i,4],tusDatos[i,5],tusDatos[i,6],tusDatos[i,7],tusDatos[i,8],tusDatos[i,9])
 }
-
-#PRUEBA: centrides <- initialSolution(sismos, num_centroids=3)
-#RESPUESTA: [[1]] 
-#           [[1]][[1]] [1] 1
-#           [[1]][[2]] [1] 3.402023
-#           [[1]][[3]] [1] 0.88
-#           [[2]]
-#           [[2]][[1]] [1] 2
-#           [[2]][[2]] [1] 10
-#           [[2]][[3]] [1] 0.22
-#           [[3]]
-#           [[3]][[1]] [1] 3
-#           [[3]][[2]] [1] 0.4745412
-#           [[3]][[3]] [1] -0.25
