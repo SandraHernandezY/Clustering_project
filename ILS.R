@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggmap)
 
-instances<-5
+instances<-3
 time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 inst_best_objetive <-list()         # Mejores objetivos por instancia
 inst_best_objetive_iter <-list()    # Mejores objetivos por iteracion

@@ -1,6 +1,8 @@
 library(cluster)
 library(factoextra)
 
+instances<-3
+time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 
 tusDatos <- read.table(file.choose(), skip = 0, header = TRUE, sep =',')
 
@@ -34,9 +36,21 @@ colnames(sismos) <- c("latitud ", "longitud")
 #'pamLike: lógica que indica si se debe utilizar el mismo algoritmo en la función pam ().
 #' Esto debería ser siempre TRUE.
 #'
-#'   
-clara.res <- clara(sismos, 5, metric = "manhattan", stand =TRUE, samples = 5, pamLike = TRUE)
 
+for (inst in 1:instances) {
+  
+#--------- INICIO --------------
+start_time = Sys.time()
+clara.res <- clara(sismos, 5, metric = "manhattan", stand =TRUE, samples = 5, pamLike = TRUE)
+end_time = Sys.time()
+#------------ FIN --------------
+total_time = end_time - start_time
+total_time = as.numeric(total_time, units = "secs")
+print(total_time)
+time_instances <<- append(time_instances, total_time)
+#------ fin instancia------------
+
+}
 
 #------------------------ Visualizar Datos + Graficos --------------------------
 # Compute CLARA metrica de distancia?  clara.res <- clara(df, 2, samples = 50, pamLike = TRUE)
