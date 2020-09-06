@@ -1,5 +1,6 @@
 library(ggpubr)
 library(rworldmap) 
+library(reshape2)
 
 clustering_plot <- function(sismos){
   long <- list()
@@ -41,12 +42,20 @@ clustering_plot <- function(sismos){
   #ggplot(x_new, aes(x = Long, y = Lat, colour = Cluster)) + geom_point()
 }
 
-objectivesIteration_plotting <- function(list_objectives){
+objectivesIterations_plotting <- function(list_objectives){
   list_objectives <- as.numeric(list_objectives)
   plot(list_objectives) 
-  #ggscatter(dataframe,x="columna",y="columna2")
 }
 
-#objectivesInstances_plotting <- 
+objectivesInstances_plotting <- function(list_objectives){
+  x <- data.frame(iteraciones=c(1:length(inst_best_objetive_iter[[1]])),instance=as.numeric(inst_best_objetive_iter[[1]]))
+  for (i in 2:length(inst_best_objetive_iter)) {
+    x <- cbind(x,i=as.numeric(inst_best_objetive_iter[[i]]))
+  }
+  columns <- c("iteraciones",1:length(inst_best_objetive_iter))
+  colnames(x)<-columns
+  x_new <- melt(x, id.vars = 'iteraciones')
+  ggplot(x_new, aes(iteraciones,value)) + geom_point(aes(colour = variable))
+}
 
 

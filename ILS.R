@@ -86,5 +86,7 @@ centroides_finales <- finales[[2]]
 
 #clustering_plot(initial)
 clustering_plot(sismos_finales)
+objectivesIterations_plotting(inst_best_objetive)
+objectivesInstances_plotting(inst_best_objetive_iter)
 
 
