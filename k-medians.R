@@ -11,7 +11,6 @@ for(i in 1:nrow(tusDatos)) {
 }
 
 # initialSolution: inicializacion de centroides 
-
 initialSolution <- function(sismos, num_centroids){
   
   centroid <- list()
@@ -89,15 +88,3 @@ kmedians <- function(sismos, centroids, option){
   return  <- list(sismos,centroids)
   return(return)
 }
-
-#------------------ PRUEBAS ---------------------------
-#' Inicializando soluciones inicial           
-#centroids <- initialSolution(sismos, num_centroids=3)
-
-# prubas kmedians <- function(sismos, centroids, num_clusters)
-#sismos <- kmedians(sismos, centroids)
-
-#for (i in 1:length(sismos)) {
-#  print(resul[[i]][[9]])
-#}
-#

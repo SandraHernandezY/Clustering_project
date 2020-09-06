@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggmap)
 
-instances<-3
+instances<-5
 time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 inst_best_objetive <-list()         # Mejores objetivos por instancia
 inst_best_objetive_iter <-list()    # Mejores objetivos por iteracion
@@ -68,7 +68,7 @@ for (inst in 1:instances) {
   
 #--------- INICIO --------------
   start_time = Sys.time()
-  finales <- ILS(50, 2,sismos,5,1,inst)
+  finales <- ILS(50, 1,sismos,5,1,inst)
   end_time = Sys.time()
 #------------ FIN --------------
   total_time = end_time - start_time
@@ -79,14 +79,10 @@ for (inst in 1:instances) {
   
 }
 
-
 sismos_finales <- finales[[1]]
 centroides_finales <- finales[[2]]
-
 
 #clustering_plot(initial)
 clustering_plot(sismos_finales)
 objectivesIterations_plotting(inst_best_objetive)
 objectivesInstances_plotting(inst_best_objetive_iter)
-
-
