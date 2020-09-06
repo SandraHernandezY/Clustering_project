@@ -37,31 +37,33 @@ colnames(sismos) <- c("latitud ", "longitud")
 #' Esto debería ser siempre TRUE.
 #'
 
-for (inst in 1:instances) {
+#for (inst in 1:instances) {
   
-#--------- INICIO --------------
-start_time = Sys.time()
-clara.res <- clara(sismos, 5, metric = "manhattan", stand =TRUE, samples = 5, pamLike = TRUE)
-end_time = Sys.time()
-#------------ FIN --------------
-total_time = end_time - start_time
-total_time = as.numeric(total_time, units = "secs")
-print(total_time)
-time_instances <<- append(time_instances, total_time)
-#------ fin instancia------------
-
-}
+  #--------- INICIO --------------
+  start_time = Sys.time()
+  clara.res <- clara(sismos, 5, metric = "manhattan", stand =FALSE, samples = 100, pamLike = TRUE)
+  end_time = Sys.time()
+  #------------ FIN --------------
+  total_time = end_time - start_time
+  total_time = as.numeric(total_time, units = "secs")
+  print(total_time)
+  time_instances <<- append(time_instances, total_time)
+  #------ fin instancia------------
+  time_average <- mean(as.numeric(time_instances))
+  print(time_average)
+#}
 
 #------------------------ Visualizar Datos + Graficos --------------------------
 # Compute CLARA metrica de distancia?  clara.res <- clara(df, 2, samples = 50, pamLike = TRUE)
 
 print(clara.res)
 
+#dd <- cbind(clara.res, cluster = clara.res$cluster)
 # Medoids
 clara.res$medoids
-
+print(clara.res$clustering)
 # Clustering
-head(clara.res$clustering, 10)
+#head(clara.res$clustering, 10)
 
 #require(cluster)
 #pam.res <- pam(iris.scaled, 3)
