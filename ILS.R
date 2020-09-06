@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggmap)
 
-instances<-3
+instances<-11
 time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 inst_best_objetive <-list()         # Mejores objetivos por instancia
 inst_best_objetive_iter <-list()    # Mejores objetivos por iteracion
@@ -68,18 +68,19 @@ for (inst in 1:instances) {
   
 #--------- INICIO --------------
   start_time = Sys.time()
-  finales <- ILS(50, 1,sismos,5,1,inst)
+  finales <- ILS(50, 2,sismos,3,1,inst)
   end_time = Sys.time()
 #------------ FIN --------------
   total_time = end_time - start_time
   total_time = as.numeric(total_time, units = "secs")
   print(total_time)
   time_instances <<- append(time_instances, total_time)
-  time_average <- mean(as.numeric(time_instances))
-  print(c("El tiempo promedio es de: ",time_average," seg."))
 #------ fin instancia------------
-  
 }
+time_average <- mean(as.numeric(time_instances))
+print(c("El tiempo promedio es de: ",time_average," seg."))
+time_sum <- sum(as.numeric(time_instances))
+print(c("El tiempo total es de: ", time_sum," seg."))
 
 sismos_finales <- finales[[1]]
 centroides_finales <- finales[[2]]
