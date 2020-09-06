@@ -46,6 +46,7 @@ clustering_plot <- function(sismos){
 objectivesIterations_plotting <- function(list_objectives){
   list_objectives <- as.numeric(list_objectives)
   plot(list_objectives,main="Valor objetivo por cada instancia ejecutada",xlab="Instancia", ylab="Valor Objetivo [km]")
+  print(c("El mejor valor objetivo de las instancias es: ",min(list_objectives)))
 }
 
 objectivesInstances_plotting <- function(list_objectives){
