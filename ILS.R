@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggmap)
 
-instances<-5
+instances<-3
 time_instances <-list()             # Tiempo que tarda la ejecucion de una instancia
 inst_best_objetive <-list()         # Mejores objetivos por instancia
 inst_best_objetive_iter <-list()    # Mejores objetivos por iteracion
@@ -75,6 +75,8 @@ for (inst in 1:instances) {
   total_time = as.numeric(total_time, units = "secs")
   print(total_time)
   time_instances <<- append(time_instances, total_time)
+  time_average <- mean(as.numeric(time_instances))
+  print(c("El tiempo promedio es de: ",time_average," seg."))
 #------ fin instancia------------
   
 }
